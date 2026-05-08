@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba(TbTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49981364
+_cell_length_b   13.82535459
+_cell_length_c   16.32303725
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(TbTe2)2
+_chemical_formula_sum   'Ba4 Tb8 Te16'
+_cell_volume   1015.48094466
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.75000000  0.26100464  0.83081025  1
+  Ba  Ba1  1  0.25000000  0.73899536  0.16918975  1
+  Ba  Ba2  1  0.75000000  0.76100464  0.66918975  1
+  Ba  Ba3  1  0.25000000  0.23899536  0.33081025  1
+  Tb  Tb4  1  0.25000000  0.08086420  0.59686095  1
+  Tb  Tb5  1  0.75000000  0.91913580  0.40313905  1
+  Tb  Tb6  1  0.25000000  0.58086420  0.90313905  1
+  Tb  Tb7  1  0.75000000  0.41913580  0.09686095  1
+  Tb  Tb8  1  0.75000000  0.94024852  0.89042685  1
+  Tb  Tb9  1  0.25000000  0.05975148  0.10957315  1
+  Tb  Tb10  1  0.75000000  0.44024852  0.60957315  1
+  Tb  Tb11  1  0.25000000  0.55975148  0.39042685  1
+  Te  Te12  1  0.25000000  0.47278537  0.21595087  1
+  Te  Te13  1  0.75000000  0.52721463  0.78404913  1
+  Te  Te14  1  0.25000000  0.97278537  0.28404913  1
+  Te  Te15  1  0.75000000  0.02721463  0.71595087  1
+  Te  Te16  1  0.25000000  0.37280519  0.97153573  1
+  Te  Te17  1  0.75000000  0.62719481  0.02846427  1
+  Te  Te18  1  0.25000000  0.87280519  0.52846427  1
+  Te  Te19  1  0.75000000  0.12719481  0.47153573  1
+  Te  Te20  1  0.25000000  0.29530787  0.66105034  1
+  Te  Te21  1  0.75000000  0.70469213  0.33894966  1
+  Te  Te22  1  0.25000000  0.79530787  0.83894966  1
+  Te  Te23  1  0.75000000  0.20469213  0.16105034  1
+  Te  Te24  1  0.75000000  0.41049986  0.42370448  1
+  Te  Te25  1  0.25000000  0.58950014  0.57629552  1
+  Te  Te26  1  0.75000000  0.91049986  0.07629552  1
+  Te  Te27  1  0.25000000  0.08950014  0.92370448  1

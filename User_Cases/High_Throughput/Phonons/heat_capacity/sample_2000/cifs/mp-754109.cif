@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89949832
+_cell_length_b   6.89962033
+_cell_length_c   6.89951073
+_cell_angle_alpha   136.14336595
+_cell_angle_beta   136.14066631
+_cell_angle_gamma   63.76099020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrAsO4
+_chemical_formula_sum   'Pr2 As2 O8'
+_cell_volume   155.59223497
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.75001008  0.25000611  0.50001190  1
+  Pr  Pr1  1  -0.00001216  -0.00000624  -0.00001461  1
+  As  As2  1  0.25001264  0.75001065  0.50002403  1
+  As  As3  1  0.49999963  0.49999488  -0.00001000  1
+  O  O4  1  0.30673901  0.91807943  0.87964545  1
+  O  O5  1  0.03842664  0.42708172  0.12033922  1
+  O  O6  1  0.17708323  0.55672464  0.88863033  1
+  O  O7  1  0.66806441  0.28843532  0.11131852  1
+  O  O8  1  0.44326052  0.33192278  0.62035991  1
+  O  O9  1  0.71157496  0.82291634  0.37965774  1
+  O  O10  1  0.57290667  0.69327298  0.61135962  1
+  O  O11  1  0.08193439  0.96156139  0.38867688  1

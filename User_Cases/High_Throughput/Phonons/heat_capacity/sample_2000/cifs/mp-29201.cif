@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TbCd2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86745765
+_cell_length_b   6.86745765
+_cell_length_c   6.86745765
+_cell_angle_alpha   134.18020541
+_cell_angle_beta   134.18020541
+_cell_angle_gamma   66.80667888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbCd2F8
+_chemical_formula_sum   'Tb1 Cd2 F8'
+_cell_volume   163.89648655
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.50000000  0.50000000  0.00000000  1
+  Cd  Cd1  1  0.17683200  0.17683200  0.00000000  1
+  Cd  Cd2  1  0.82316800  0.82316800  0.00000000  1
+  F  F3  1  0.26152700  0.81543800  0.95838700  1
+  F  F4  1  0.69686000  0.73847300  0.55391100  1
+  F  F5  1  0.18456200  0.14294900  0.44608900  1
+  F  F6  1  0.84611900  0.86396500  0.36823900  1
+  F  F7  1  0.52212000  0.15388100  0.01784600  1
+  F  F8  1  0.13603500  0.50427300  0.98215400  1
+  F  F9  1  0.49572700  0.47788000  0.63176100  1
+  F  F10  1  0.85705100  0.30314000  0.04161300  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_K3Sb2Au3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05953858
+_cell_length_b   8.05953800
+_cell_length_c   8.05953728
+_cell_angle_alpha   45.72334187
+_cell_angle_beta   45.72334845
+_cell_angle_gamma   45.72335059
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Sb2Au3
+_chemical_formula_sum   'K3 Sb2 Au3'
+_cell_volume   244.63884105
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.50000000  0.50000000  1
+  K  K1  1  0.92013340  0.92013340  0.92013340  1
+  K  K2  1  0.07986660  0.07986660  0.07986660  1
+  Sb  Sb3  1  0.24185725  0.24185725  0.24185725  1
+  Sb  Sb4  1  0.75814275  0.75814275  0.75814275  1
+  Au  Au5  1  0.50000000  -0.00000000  0.50000000  1
+  Au  Au6  1  0.00000000  0.50000000  0.50000000  1
+  Au  Au7  1  0.50000000  0.50000000  -0.00000000  1

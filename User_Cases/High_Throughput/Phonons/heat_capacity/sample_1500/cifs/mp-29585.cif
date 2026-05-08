@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_K4CdAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.84705490
+_cell_length_b   9.84705467
+_cell_length_c   9.84705423
+_cell_angle_alpha   34.24325639
+_cell_angle_beta   34.24325473
+_cell_angle_gamma   34.24325920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4CdAs2
+_chemical_formula_sum   'K4 Cd1 As2'
+_cell_volume   269.60134687
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.20833162  0.20833162  0.20833162  1
+  K  K1  1  0.79166838  0.79166838  0.79166838  1
+  K  K2  1  0.39171408  0.39171408  0.39171408  1
+  K  K3  1  0.60828592  0.60828592  0.60828592  1
+  Cd  Cd4  1  -0.00000000  -0.00000000  0.00000000  1
+  As  As5  1  0.91054076  0.91054076  0.91054076  1
+  As  As6  1  0.08945924  0.08945924  0.08945924  1

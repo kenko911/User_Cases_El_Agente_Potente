@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaNbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53000775
+_cell_length_b   5.60546511
+_cell_length_c   7.79067262
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNbO3
+_chemical_formula_sum   'Na4 Nb4 O12'
+_cell_volume   241.49733830
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.75996350  0.24961452  0.50000000  1
+  Na  Na1  1  0.24003650  0.74961452  0.50000000  1
+  Na  Na2  1  0.76272699  0.28773070  -0.00000000  1
+  Na  Na3  1  0.23727301  0.78773070  -0.00000000  1
+  Nb  Nb4  1  0.74305054  0.77118186  0.25082239  1
+  Nb  Nb5  1  0.25694946  0.27118186  0.74917761  1
+  Nb  Nb6  1  0.25694946  0.27118186  0.25082239  1
+  Nb  Nb7  1  0.74305054  0.77118186  0.74917761  1
+  O  O8  1  0.95434584  0.50819126  0.71257006  1
+  O  O9  1  0.04565416  0.00819126  0.28742994  1
+  O  O10  1  0.04565416  0.00819126  0.71257006  1
+  O  O11  1  0.95434584  0.50819126  0.28742994  1
+  O  O12  1  0.54619342  0.09525407  0.78478013  1
+  O  O13  1  0.45380658  0.59525407  0.21521987  1
+  O  O14  1  0.45380658  0.59525407  0.78478013  1
+  O  O15  1  0.54619342  0.09525407  0.21521987  1
+  O  O16  1  0.18138219  0.29518066  -0.00000000  1
+  O  O17  1  0.81861781  0.79518066  -0.00000000  1
+  O  O18  1  0.32311772  0.32421774  0.50000000  1
+  O  O19  1  0.67688228  0.82421774  0.50000000  1

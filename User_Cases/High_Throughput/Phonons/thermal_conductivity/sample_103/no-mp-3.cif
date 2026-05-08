@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Be2Se2
+_chemical_formula_sum              "Be2 Se2"
+_cell_length_a       3.654577121071261
+_cell_length_b       3.654577121071261
+_cell_length_c       6.022733743629173
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.3333333326027168  0.6666666652054335  0.002213096339199662  1.0000
+  Be  Be2       1.0  0.666666666154794  0.33333333260271675  0.5022130960379102  1.0000
+  Se  Se1       1.0  0.3333333326027168  0.6666666652054335  0.37622988935828283  1.0000
+  Se  Se2       1.0  0.666666666154794  0.33333333260271675  0.8762298890569933  1.0000

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na4As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84356663
+_cell_length_b   5.84356663
+_cell_length_c   12.22271027
+_cell_angle_alpha   88.52213326
+_cell_angle_beta   88.52213326
+_cell_angle_gamma   118.70149886
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4As2O7
+_chemical_formula_sum   'Na8 As4 O14'
+_cell_volume   365.62236742
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.02202821  0.66619399  0.87150103  1
+  Na  Na1  1  0.33380601  0.97797179  0.62849897  1
+  Na  Na2  1  0.97797179  0.33380601  0.12849897  1
+  Na  Na3  1  0.66619399  0.02202821  0.37150103  1
+  Na  Na4  1  0.29525929  0.31974560  0.40390327  1
+  Na  Na5  1  0.68025440  0.70474071  0.09609673  1
+  Na  Na6  1  0.70474071  0.68025440  0.59609673  1
+  Na  Na7  1  0.31974560  0.29525929  0.90390327  1
+  As  As8  1  0.99317494  0.29667568  0.63830142  1
+  As  As9  1  0.70332432  0.00682506  0.86169858  1
+  As  As10  1  0.00682506  0.70332432  0.36169858  1
+  As  As11  1  0.29667568  0.99317494  0.13830142  1
+  O  O12  1  0.55507641  0.97729139  0.18648303  1
+  O  O13  1  0.02270861  0.44492359  0.31351697  1
+  O  O14  1  0.44492359  0.02270861  0.81351697  1
+  O  O15  1  0.97729139  0.55507641  0.68648303  1
+  O  O16  1  0.35901737  0.29142044  0.09324406  1
+  O  O17  1  0.70857956  0.64098263  0.40675594  1
+  O  O18  1  0.64098263  0.70857956  0.90675594  1
+  O  O19  1  0.29142044  0.35901737  0.59324406  1
+  O  O20  1  0.11317477  0.75693997  0.05444064  1
+  O  O21  1  0.24306003  0.88682523  0.44555936  1
+  O  O22  1  0.88682523  0.24306003  0.94555936  1
+  O  O23  1  0.75693997  0.11317477  0.55444064  1
+  O  O24  1  0.93495955  0.06504045  0.75000000  1
+  O  O25  1  0.06504045  0.93495955  0.25000000  1

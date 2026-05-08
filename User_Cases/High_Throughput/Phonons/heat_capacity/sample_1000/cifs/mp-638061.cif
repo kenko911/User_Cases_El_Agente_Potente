@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AlInCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01335188
+_cell_length_b   9.40201008
+_cell_length_c   10.80142688
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlInCl4
+_chemical_formula_sum   'Al4 In4 Cl16'
+_cell_volume   712.24182266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.75000000  0.81535552  0.56315840  1
+  Al  Al1  1  0.25000000  0.31535552  0.93684160  1
+  Al  Al2  1  0.25000000  0.18464448  0.43684160  1
+  Al  Al3  1  0.75000000  0.68464448  0.06315840  1
+  In  In4  1  0.75000000  0.28589633  0.70668073  1
+  In  In5  1  0.75000000  0.21410367  0.20668073  1
+  In  In6  1  0.25000000  0.71410367  0.29331927  1
+  In  In7  1  0.25000000  0.78589633  0.79331927  1
+  Cl  Cl8  1  0.00221948  0.31892571  0.43175645  1
+  Cl  Cl9  1  0.25000000  0.05422334  0.27392586  1
+  Cl  Cl10  1  0.49778052  0.18107429  0.93175645  1
+  Cl  Cl11  1  0.75000000  0.94577666  0.72607414  1
+  Cl  Cl12  1  0.50221948  0.81892571  0.06824355  1
+  Cl  Cl13  1  0.75000000  0.55422334  0.22607414  1
+  Cl  Cl14  1  0.99778052  0.81892571  0.06824355  1
+  Cl  Cl15  1  0.49778052  0.31892571  0.43175645  1
+  Cl  Cl16  1  0.75000000  0.93515194  0.39527225  1
+  Cl  Cl17  1  0.00221948  0.18107429  0.93175645  1
+  Cl  Cl18  1  0.25000000  0.43515194  0.10472775  1
+  Cl  Cl19  1  0.75000000  0.56484806  0.89527225  1
+  Cl  Cl20  1  0.25000000  0.06484806  0.60472775  1
+  Cl  Cl21  1  0.99778052  0.68107429  0.56824355  1
+  Cl  Cl22  1  0.50221948  0.68107429  0.56824355  1
+  Cl  Cl23  1  0.25000000  0.44577666  0.77392586  1

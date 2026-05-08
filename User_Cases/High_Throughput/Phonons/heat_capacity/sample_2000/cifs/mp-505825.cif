@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cs2PtC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70109949
+_cell_length_b   5.70110165
+_cell_length_c   5.21268359
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99999357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2PtC2
+_chemical_formula_sum   'Cs2 Pt1 C2'
+_cell_volume   146.72679392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.33333300  0.66666700  0.27554695  1
+  Cs  Cs1  1  0.66666700  0.33333300  0.72445305  1
+  Pt  Pt2  1  0.00000000  0.00000000  0.00000000  1
+  C  C3  1  0.00000000  0.00000000  0.37828066  1
+  C  C4  1  0.00000000  0.00000000  0.62171934  1

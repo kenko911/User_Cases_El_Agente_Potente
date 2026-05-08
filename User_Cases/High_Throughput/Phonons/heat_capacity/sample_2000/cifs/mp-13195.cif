@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NdSbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51520283
+_cell_length_b   7.66322112
+_cell_length_c   7.67467688
+_cell_angle_alpha   79.67638347
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSbO4
+_chemical_formula_sum   'Nd4 Sb4 O16'
+_cell_volume   319.11317311
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.27412341  0.10100594  0.15038414  1
+  Nd  Nd1  1  0.77412341  0.39899406  0.84961586  1
+  Nd  Nd2  1  0.72587659  0.89899406  0.84961586  1
+  Nd  Nd3  1  0.22587659  0.60100594  0.15038414  1
+  Sb  Sb4  1  0.76826835  0.30174450  0.33667087  1
+  Sb  Sb5  1  0.26826835  0.19825550  0.66332913  1
+  Sb  Sb6  1  0.23173165  0.69825550  0.66332913  1
+  Sb  Sb7  1  0.73173165  0.80174450  0.33667087  1
+  O  O8  1  0.97669539  0.32699855  0.12041143  1
+  O  O9  1  0.47669539  0.17300145  0.87958857  1
+  O  O10  1  0.02330461  0.67300145  0.87958857  1
+  O  O11  1  0.52330461  0.82699855  0.12041143  1
+  O  O12  1  0.64085144  0.05523214  0.33303646  1
+  O  O13  1  0.14085144  0.44476786  0.66696354  1
+  O  O14  1  0.35914856  0.94476786  0.66696354  1
+  O  O15  1  0.85914856  0.55523214  0.33303646  1
+  O  O16  1  0.99668549  0.87084702  0.17231505  1
+  O  O17  1  0.49668549  0.62915298  0.82768495  1
+  O  O18  1  0.00331451  0.12915298  0.82768495  1
+  O  O19  1  0.50331451  0.37084702  0.17231505  1
+  O  O20  1  0.91172615  0.79746411  0.56033613  1
+  O  O21  1  0.41172615  0.70253589  0.43966387  1
+  O  O22  1  0.08827385  0.20253589  0.43966387  1
+  O  O23  1  0.58827385  0.29746411  0.56033613  1

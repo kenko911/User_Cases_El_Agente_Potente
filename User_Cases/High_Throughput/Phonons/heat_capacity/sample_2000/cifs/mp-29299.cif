@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TeSeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41660653
+_cell_length_b   6.74026870
+_cell_length_c   7.44082380
+_cell_angle_alpha   116.82285101
+_cell_angle_beta   107.11124140
+_cell_angle_gamma   90.32096332
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeSeO4
+_chemical_formula_sum   'Te2 Se2 O8'
+_cell_volume   186.42124298
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.13815541  0.88897635  0.77759772  1
+  Te  Te1  1  0.86068971  0.11128075  0.22260084  1
+  Se  Se2  1  0.60953455  0.62462297  0.24325402  1
+  Se  Se3  1  0.86659348  0.38160418  0.75678186  1
+  O  O4  1  0.81186868  0.94793754  0.90556680  1
+  O  O5  1  0.14379045  0.21132469  0.79097982  1
+  O  O6  1  0.67342909  0.75162417  0.50914759  1
+  O  O7  1  0.85302849  0.42050182  0.20974359  1
+  O  O8  1  0.40647911  0.04246284  0.09465617  1
+  O  O9  1  0.87070005  0.80148091  0.22312079  1
+  O  O10  1  0.66485805  0.24222213  0.49097268  1
+  O  O11  1  0.14787292  0.57846165  0.77667912  1

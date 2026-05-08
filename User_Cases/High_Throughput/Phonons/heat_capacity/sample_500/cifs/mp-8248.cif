@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Rb2TeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43607089
+_cell_length_b   6.65333845
+_cell_length_c   7.51175567
+_cell_angle_alpha   94.32384625
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.92552107
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2TeO3
+_chemical_formula_sum   'Rb4 Te2 O6'
+_cell_volume   280.48933066
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.00000000  0.00000000  -0.00000000  1
+  Rb  Rb1  1  0.31842380  0.63684860  0.86332750  1
+  Rb  Rb2  1  -0.00000000  0.00000000  0.50000000  1
+  Rb  Rb3  1  0.68157620  0.36315140  0.13667250  1
+  Te  Te4  1  0.33781103  0.67562106  0.34446068  1
+  Te  Te5  1  0.66218897  0.32437894  0.65553932  1
+  O  O6  1  0.16492832  0.77552111  0.21403353  1
+  O  O7  1  0.38940721  0.22447889  0.78596647  1
+  O  O8  1  0.83507168  0.22447889  0.78596647  1
+  O  O9  1  0.61059279  0.77552111  0.21403353  1
+  O  O10  1  0.81821829  0.63643457  0.73043537  1
+  O  O11  1  0.18178171  0.36356543  0.26956463  1

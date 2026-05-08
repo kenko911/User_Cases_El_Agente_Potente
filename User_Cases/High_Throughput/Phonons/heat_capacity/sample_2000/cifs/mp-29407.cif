@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AlTeI7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31254673
+_cell_length_b   7.47030195
+_cell_length_c   16.44594787
+_cell_angle_alpha   103.22202995
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlTeI7
+_chemical_formula_sum   'Al2 Te2 I14'
+_cell_volume   874.57624063
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.99110597  0.28844479  0.65544193  1
+  Al  Al1  1  0.00889403  0.28844479  0.15544193  1
+  Te  Te2  1  0.58963922  0.00040308  0.50065052  1
+  Te  Te3  1  0.41036078  0.00040308  0.00065052  1
+  I  I4  1  0.37674711  0.11289881  0.38461507  1
+  I  I5  1  0.38104846  0.71743316  0.53132449  1
+  I  I6  1  0.16894565  0.78696756  0.89056195  1
+  I  I7  1  0.83105435  0.78696756  0.39056195  1
+  I  I8  1  0.11812279  0.96328215  0.15760423  1
+  I  I9  1  0.61895154  0.71743316  0.03132449  1
+  I  I10  1  0.12318217  0.36330112  0.01948154  1
+  I  I11  1  0.87681783  0.36330112  0.51948154  1
+  I  I12  1  0.66356609  0.31971696  0.16601668  1
+  I  I13  1  0.33643391  0.31971696  0.66601668  1
+  I  I14  1  0.15890534  0.50965438  0.27882159  1
+  I  I15  1  0.84109466  0.50965438  0.77882159  1
+  I  I16  1  0.62325289  0.11289881  0.88461507  1
+  I  I17  1  0.88187721  0.96328215  0.65760423  1

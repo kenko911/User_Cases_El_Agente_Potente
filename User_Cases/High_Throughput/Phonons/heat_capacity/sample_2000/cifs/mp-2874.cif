@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_In2Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.71740417
+_cell_length_b   5.45259468
+_cell_length_c   5.45259485
+_cell_angle_alpha   104.79881245
+_cell_angle_beta   97.78967412
+_cell_angle_gamma   97.78968725
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Si2O7
+_chemical_formula_sum   'In2 Si2 O7'
+_cell_volume   132.21193021
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  -0.00000000  0.30777324  0.69222676  1
+  In  In1  1  0.00000000  0.69222676  0.30777324  1
+  Si  Si2  1  0.41037755  0.21996982  0.21996982  1
+  Si  Si3  1  0.58962245  0.78003018  0.78003018  1
+  O  O4  1  0.78132428  0.92112895  0.60978779  1
+  O  O5  1  0.21867572  0.39021221  0.07887105  1
+  O  O6  1  0.21867572  0.07887105  0.39021221  1
+  O  O7  1  0.78132428  0.60978779  0.92112895  1
+  O  O8  1  0.50000000  0.00000000  -0.00000000  1
+  O  O9  1  0.28308242  0.61025440  0.61025440  1
+  O  O10  1  0.71691758  0.38974560  0.38974560  1

@@ -1,0 +1,29 @@
+data_image0
+_chemical_formula_structural       Be2Te2
+_chemical_formula_sum              "Be2 Te2"
+_cell_length_a       3.995191241416954
+_cell_length_b       3.9951912414169537
+_cell_length_c       6.589653709217155
+_cell_angle_alpha    90.0
+_cell_angle_beta     90.0
+_cell_angle_gamma    120.00000000000001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.3333333335217597  0.6666666670435194  0.0023257322275620287  1.0000
+  Be  Be2       1.0  0.6666666665835473  0.3333333335217597  0.5023257330457268  1.0000
+  Te  Te1       1.0  0.3333333335217597  0.6666666670435194  0.3761172527978623  1.0000
+  Te  Te2       1.0  0.6666666665835473  0.3333333335217597  0.8761172520984967  1.0000

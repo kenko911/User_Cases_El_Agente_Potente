@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PrLuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73312695
+_cell_length_b   5.96712043
+_cell_length_c   8.28217456
+_cell_angle_alpha   89.99996985
+_cell_angle_beta   89.99996573
+_cell_angle_gamma   89.99996202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrLuO3
+_chemical_formula_sum   'Pr4 Lu4 O12'
+_cell_volume   283.33533638
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.98340077  0.05484270  0.24999936  1
+  Pr  Pr1  1  0.48340009  0.44514881  0.74999949  1
+  Pr  Pr2  1  0.51660026  0.55486220  0.24999996  1
+  Pr  Pr3  1  0.01659702  0.94513007  0.75000185  1
+  Lu  Lu4  1  0.00000465  0.50001331  -0.00001065  1
+  Lu  Lu5  1  0.49999979  -0.00000790  -0.00000256  1
+  Lu  Lu6  1  0.49999916  -0.00000484  0.50000282  1
+  Lu  Lu7  1  0.00000290  0.50001127  0.50000945  1
+  O  O8  1  0.69426541  0.30352730  0.43595247  1
+  O  O9  1  0.19426902  0.19647571  0.56404250  1
+  O  O10  1  0.80573446  0.80352751  0.06404636  1
+  O  O11  1  0.30573077  0.69647308  0.93595922  1
+  O  O12  1  0.30573125  0.69647428  0.56404192  1
+  O  O13  1  0.80573379  0.80352891  0.43595203  1
+  O  O14  1  0.19426729  0.19647364  0.93595939  1
+  O  O15  1  0.69426469  0.30352698  0.06404594  1
+  O  O16  1  0.12120433  0.44873035  0.25000089  1
+  O  O17  1  0.62120162  0.05126787  0.74999920  1
+  O  O18  1  0.37879431  0.94873382  0.25000085  1
+  O  O19  1  0.87879844  0.55126493  0.74999949  1

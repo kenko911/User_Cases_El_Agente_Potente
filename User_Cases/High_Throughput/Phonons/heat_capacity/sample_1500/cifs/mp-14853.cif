@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ba3Er4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.08031180
+_cell_length_b   9.08031154
+_cell_length_c   9.08031113
+_cell_angle_alpha   38.92124730
+_cell_angle_beta   38.92124063
+_cell_angle_gamma   38.92124136
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Er4O9
+_chemical_formula_sum   'Ba3 Er4 O9'
+_cell_volume   265.71574722
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00082370  0.00082370  0.00082370  1
+  Ba  Ba1  1  0.16452218  0.16452218  0.16452218  1
+  Ba  Ba2  1  0.57928927  0.57928927  0.57928927  1
+  Er  Er3  1  0.42581167  0.42581167  0.42581167  1
+  Er  Er4  1  0.86510338  0.86510338  0.86510338  1
+  Er  Er5  1  0.73981141  0.73981141  0.73981141  1
+  Er  Er6  1  0.30099376  0.30099376  0.30099376  1
+  O  O7  1  0.46814970  0.57284907  0.04099395  1
+  O  O8  1  0.57284907  0.04099395  0.46814970  1
+  O  O9  1  0.04099395  0.46814970  0.57284907  1
+  O  O10  1  0.60220120  0.68892000  0.12819922  1
+  O  O11  1  0.68892000  0.12819922  0.60220120  1
+  O  O12  1  0.12819922  0.60220120  0.68892000  1
+  O  O13  1  0.03183721  0.58182216  0.13487213  1
+  O  O14  1  0.13487213  0.03183721  0.58182216  1
+  O  O15  1  0.58182216  0.13487213  0.03183721  1

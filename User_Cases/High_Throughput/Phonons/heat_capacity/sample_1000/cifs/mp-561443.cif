@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba3(PS4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.69969840
+_cell_length_b   6.69969859
+_cell_length_c   8.75186042
+_cell_angle_alpha   89.99949305
+_cell_angle_beta   90.00050993
+_cell_angle_gamma   119.99971755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3(PS4)2
+_chemical_formula_sum   'Ba3 P2 S8'
+_cell_volume   340.20662621
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33333360  0.66666681  0.36729549  1
+  Ba  Ba1  1  0.66666633  0.33333244  0.63270433  1
+  Ba  Ba2  1  -0.00000017  0.00000033  -0.00000002  1
+  P  P3  1  0.66666683  0.33333329  0.21760490  1
+  P  P4  1  0.33333335  0.66666685  0.78239511  1
+  S  S5  1  0.82914091  0.65828430  0.30718314  1
+  S  S6  1  0.17085941  0.34171584  0.69281686  1
+  S  S7  1  0.65828442  0.82914080  0.69281697  1
+  S  S8  1  0.33333143  0.66666893  0.01160799  1
+  S  S9  1  0.66666884  0.33333117  0.98839198  1
+  S  S10  1  0.34171582  0.17085926  0.30718323  1
+  S  S11  1  0.82914118  0.17085894  0.30719478  1
+  S  S12  1  0.17085905  0.82914104  0.69280524  1
