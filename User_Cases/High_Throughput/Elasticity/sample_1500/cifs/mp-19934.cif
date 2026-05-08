@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CeMgPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52410372
+_cell_length_b   7.52398292
+_cell_length_c   4.10494728
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00053076
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeMgPt
+_chemical_formula_sum   'Ce3 Mg3 Pt3'
+_cell_volume   201.25119489
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.58482552  0.58482800  -0.00000000  1
+  Ce  Ce1  1  0.41517334  -0.00000000  -0.00000000  1
+  Ce  Ce2  1  0.99999752  0.41517200  -0.00000000  1
+  Mg  Mg3  1  0.99999963  0.75973484  0.50000000  1
+  Mg  Mg4  1  0.24026479  0.24026516  0.50000000  1
+  Mg  Mg5  1  0.75973400  0.00000000  0.50000000  1
+  Pt  Pt6  1  0.33333311  0.66666299  0.50000000  1
+  Pt  Pt7  1  0.00000098  -0.00000000  -0.00000000  1
+  Pt  Pt8  1  0.66667112  0.33333701  0.50000000  1

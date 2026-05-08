@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_In2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59247459
+_cell_length_b   5.68437538
+_cell_length_c   8.08460103
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2O3
+_chemical_formula_sum   'In8 O12'
+_cell_volume   257.00724245
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.24771156  0.52820326  0.11452594  1
+  In  In1  1  0.25228844  0.02820326  0.38547406  1
+  In  In2  1  0.25228844  0.47179674  0.61452594  1
+  In  In3  1  0.24771156  0.97179674  0.88547406  1
+  In  In4  1  0.75228844  0.47179674  0.88547406  1
+  In  In5  1  0.74771156  0.97179674  0.61452594  1
+  In  In6  1  0.74771156  0.52820326  0.38547406  1
+  In  In7  1  0.75228844  0.02820326  0.11452594  1
+  O  O8  1  0.39009720  0.60417066  0.84933194  1
+  O  O9  1  0.10990280  0.10417066  0.65066806  1
+  O  O10  1  0.10990280  0.39582934  0.34933194  1
+  O  O11  1  0.39009720  0.89582934  0.15066806  1
+  O  O12  1  0.60990280  0.39582934  0.15066806  1
+  O  O13  1  0.89009720  0.89582934  0.34933194  1
+  O  O14  1  0.89009720  0.60417066  0.65066806  1
+  O  O15  1  0.60990280  0.10417066  0.84933194  1
+  O  O16  1  0.95823628  0.75000000  0.00000000  1
+  O  O17  1  0.54176372  0.25000000  0.50000000  1
+  O  O18  1  0.04176372  0.25000000  0.00000000  1
+  O  O19  1  0.45823628  0.75000000  0.50000000  1

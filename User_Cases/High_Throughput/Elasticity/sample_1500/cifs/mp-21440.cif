@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_NbCrGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77667972
+_cell_length_b   6.77680890
+_cell_length_c   3.37310050
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00001366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCrGe
+_chemical_formula_sum   'Nb3 Cr3 Ge3'
+_cell_volume   134.15351378
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.99999726  0.59616895  0.50000000  1
+  Nb  Nb1  1  0.59617149  0.00000315  0.50000000  1
+  Nb  Nb2  1  0.40382545  0.40383172  0.50000000  1
+  Cr  Cr3  1  0.25640175  -0.00000014  -0.00000000  1
+  Cr  Cr4  1  0.74360389  0.74360005  0.00000000  1
+  Cr  Cr5  1  0.00000181  0.25639707  -0.00000000  1
+  Ge  Ge6  1  0.66666821  0.33333473  0.00000000  1
+  Ge  Ge7  1  0.99999665  0.99999753  0.50000000  1
+  Ge  Ge8  1  0.33333349  0.66666694  -0.00000000  1

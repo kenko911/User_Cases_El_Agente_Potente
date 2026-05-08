@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Lu3Mn3Ga2Si
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95704153
+_cell_length_b   6.95718702
+_cell_length_c   3.85671405
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00062176
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Mn3Ga2Si
+_chemical_formula_sum   'Lu3 Mn3 Ga2 Si1'
+_cell_volume   161.66039073
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.40700992  0.40701129  0.50000000  1
+  Lu  Lu1  1  0.99999665  0.59299302  0.50000000  1
+  Lu  Lu2  1  0.59299063  0.99999755  0.50000000  1
+  Mn  Mn3  1  0.00000177  0.22158892  0.00000000  1
+  Mn  Mn4  1  0.22159270  0.00000425  -0.00000000  1
+  Mn  Mn5  1  0.77840605  0.77840893  -0.00000000  1
+  Ga  Ga6  1  0.66666816  0.33333679  0.00000000  1
+  Ga  Ga7  1  0.33333910  0.66666825  -0.00000000  1
+  Si  Si8  1  0.99999502  0.99999100  0.50000000  1

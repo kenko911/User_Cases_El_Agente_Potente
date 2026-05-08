@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Ti3Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75420400
+_cell_length_b   5.75418471
+_cell_length_c   4.65312204
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99988451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3Al
+_chemical_formula_sum   'Ti6 Al2'
+_cell_volume   133.42728025
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.83029346  0.66058236  0.25000000  1
+  Ti  Ti1  1  0.16970626  0.83028811  0.75000000  1
+  Ti  Ti2  1  0.66058356  0.83029178  0.75000000  1
+  Ti  Ti3  1  0.33941645  0.16970823  0.25000000  1
+  Ti  Ti4  1  0.83029346  0.16971110  0.25000000  1
+  Ti  Ti5  1  0.16970626  0.33941816  0.75000000  1
+  Al  Al6  1  0.33333162  0.66666631  0.25000000  1
+  Al  Al7  1  0.66666892  0.33333396  0.75000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.25833707
+_cell_length_b   8.41714971
+_cell_length_c   12.39817199
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnBr2
+_chemical_formula_sum   'Sn4 Br8'
+_cell_volume   444.38843039
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.25000000  0.40354964  0.64681579  1
+  Sn  Sn1  1  0.75000000  0.59645036  0.35318421  1
+  Sn  Sn2  1  0.25000000  0.90354964  0.85318421  1
+  Sn  Sn3  1  0.75000000  0.09645036  0.14681579  1
+  Br  Br4  1  0.25000000  0.68549463  0.52923531  1
+  Br  Br5  1  0.75000000  0.31450537  0.47076469  1
+  Br  Br6  1  0.25000000  0.18549463  0.97076469  1
+  Br  Br7  1  0.75000000  0.81450537  0.02923531  1
+  Br  Br8  1  0.25000000  0.95238838  0.27369807  1
+  Br  Br9  1  0.75000000  0.04761162  0.72630193  1
+  Br  Br10  1  0.25000000  0.45238838  0.22630193  1
+  Br  Br11  1  0.75000000  0.54761162  0.77369807  1

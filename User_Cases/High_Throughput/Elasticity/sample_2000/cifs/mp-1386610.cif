@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ca2Sn3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57817284
+_cell_length_b   6.57817284
+_cell_length_c   5.40461742
+_cell_angle_alpha   72.24680199
+_cell_angle_beta   72.24680199
+_cell_angle_gamma   58.48467290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Sn3O8
+_chemical_formula_sum   'Ca2 Sn3 O8'
+_cell_volume   186.80506710
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.71898649  0.71898649  0.34644046  1
+  Ca  Ca1  1  0.28101351  0.28101351  0.65355954  1
+  Sn  Sn2  1  -0.00000000  -0.00000000  0.50000000  1
+  Sn  Sn3  1  0.73804660  0.26195340  -0.00000000  1
+  Sn  Sn4  1  0.26195340  0.73804660  -0.00000000  1
+  O  O5  1  0.39189553  0.39189553  0.93938184  1
+  O  O6  1  0.60810447  0.60810447  0.06061816  1
+  O  O7  1  0.89793478  0.89793478  0.91330929  1
+  O  O8  1  0.10206522  0.10206522  0.08669071  1
+  O  O9  1  0.33050810  0.88920964  0.60291591  1
+  O  O10  1  0.88920964  0.33050810  0.60291591  1
+  O  O11  1  0.11079036  0.66949190  0.39708409  1
+  O  O12  1  0.66949190  0.11079036  0.39708409  1

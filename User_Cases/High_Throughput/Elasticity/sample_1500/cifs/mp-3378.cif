@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrHfO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79810597
+_cell_length_b   5.82981398
+_cell_length_c   8.20936505
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHfO3
+_chemical_formula_sum   'Sr4 Hf4 O12'
+_cell_volume   277.49196607
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00551479  0.52552040  0.25000000  1
+  Sr  Sr1  1  0.50551479  0.97447960  0.75000000  1
+  Sr  Sr2  1  0.49448521  0.02552040  0.25000000  1
+  Sr  Sr3  1  0.99448521  0.47447960  0.75000000  1
+  Hf  Hf4  1  0.00000000  0.00000000  0.00000000  1
+  Hf  Hf5  1  0.50000000  0.50000000  0.00000000  1
+  Hf  Hf6  1  0.50000000  0.50000000  0.50000000  1
+  Hf  Hf7  1  0.00000000  0.00000000  0.50000000  1
+  O  O8  1  0.21844927  0.28145869  0.46436963  1
+  O  O9  1  0.71844927  0.21854131  0.53563037  1
+  O  O10  1  0.28155073  0.78145869  0.03563037  1
+  O  O11  1  0.78155073  0.71854131  0.96436963  1
+  O  O12  1  0.78155073  0.71854131  0.53563037  1
+  O  O13  1  0.28155073  0.78145869  0.46436963  1
+  O  O14  1  0.71844927  0.21854131  0.96436963  1
+  O  O15  1  0.21844927  0.28145869  0.03563037  1
+  O  O16  1  0.93215438  0.98521310  0.25000000  1
+  O  O17  1  0.43215438  0.51478690  0.75000000  1
+  O  O18  1  0.56784562  0.48521310  0.25000000  1
+  O  O19  1  0.06784562  0.01478690  0.75000000  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Tb6FeBi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.40825121
+_cell_length_b   8.40809155
+_cell_length_c   4.18443724
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00045798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb6FeBi2
+_chemical_formula_sum   'Tb6 Fe1 Bi2'
+_cell_volume   256.19390689
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.23122904  0.00000039  -0.00000000  1
+  Tb  Tb1  1  -0.00000006  0.60488290  0.50000000  1
+  Tb  Tb2  1  0.39511726  0.39511741  0.50000000  1
+  Tb  Tb3  1  0.76877150  0.76877168  -0.00000000  1
+  Tb  Tb4  1  0.00000028  0.23122765  -0.00000000  1
+  Tb  Tb5  1  0.60488310  0.00000003  0.50000000  1
+  Fe  Fe6  1  -0.00000119  -0.00000007  0.50000000  1
+  Bi  Bi7  1  0.33333265  0.66666658  -0.00000000  1
+  Bi  Bi8  1  0.66666740  0.33333343  -0.00000000  1
