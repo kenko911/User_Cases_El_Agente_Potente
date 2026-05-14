@@ -1,0 +1,43 @@
+[Phase stability] Queried 73 MP entries for Ba-O-Zr (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'BaZrO3' (repeats=10, batch_size=10)
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.620972 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.626015 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.624592 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.625175 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.625591 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.623146 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.620918 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.622192 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.622986 eV.
+Relaxation done for BaO3Zr (steps≤1000, fmax=0.1). Energy: -41.624969 eV.
+[Phase stability] Built phase diagram from 73 ML-relaxed MP entries.
+[Phase stability] BaO3Zr passed: e_above_hull=0.0013 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0002 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0005 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0003 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0003 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0008 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0012 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0009 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0008 eV/atom
+[Phase stability] BaO3Zr passed: e_above_hull=0.0004 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for phase-stable, relaxed structures. No other properties are mentioned.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested for phase-stable structures, so only the MLFFDensityOfStates node is needed after structure relaxation and phase stability filtering.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested for phase-stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for phase-stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested for phase-stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for phase-stable structures, so only the MLFFDensityOfStates node is needed after structure relaxation and phase stability filtering.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested for phase-stable, relaxed structures. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering. No other properties (e.g., MD, phonons, elasticity) are mentioned or implied.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested for phase-stable structures, so only the MLFFDensityOfStates node is needed. No other properties are mentioned.
+DOS done for BaO3Zr. Bandgap=3.44880747795105 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.460636854171753 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.4604434967041016 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.478024482727051 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.4770309925079346 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.453037738800049 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.4684863090515137 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.448535203933716 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.448298454284668 eV, Fermi=-10.245590209960938 eV.
+DOS done for BaO3Zr. Bandgap=3.4627835750579834 eV, Fermi=-10.245590209960938 eV.

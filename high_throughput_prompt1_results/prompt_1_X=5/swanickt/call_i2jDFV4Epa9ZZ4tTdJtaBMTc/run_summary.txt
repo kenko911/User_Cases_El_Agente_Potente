@@ -1,0 +1,43 @@
+[Phase stability] Queried 162 MP entries for Ca-O-Ti (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'CaTiO3' (repeats=10, batch_size=10)
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.026440 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.005085 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.001556 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.033043 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -39.994171 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.000126 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.006996 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.013622 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.045429 eV.
+Relaxation done for CaO3Ti (steps≤1000, fmax=0.1). Energy: -40.032269 eV.
+[Phase stability] Built phase diagram from 162 ML-relaxed MP entries.
+[Phase stability] CaO3Ti passed: e_above_hull=0.0529 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0571 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0578 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0515 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0593 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0581 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0568 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0555 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0491 eV/atom
+[Phase stability] CaO3Ti passed: e_above_hull=0.0517 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The user only asks for electronic DOS/bandgap for the stable structures, so only MLFFDensityOfStates is needed. No other property nodes are relevant to the query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates should be run in parallel for each stable structure.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates should be run.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates should be run.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates should be run in parallel for each stable structure.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates is required.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only MLFFDensityOfStates is needed. No other property nodes are relevant to the user query.
+DOS done for CaO3Ti. Bandgap=1.8564075231552124 eV, Fermi=-9.745590209960938 eV.
+DOS done for CaO3Ti. Bandgap=1.806654691696167 eV, Fermi=-9.745590209960938 eV.
+DOS done for CaO3Ti. Bandgap=1.9964067935943604 eV, Fermi=-9.79559326171875 eV.
+DOS done for CaO3Ti. Bandgap=2.067483425140381 eV, Fermi=-9.845596313476562 eV.
+DOS done for CaO3Ti. Bandgap=2.0178468227386475 eV, Fermi=-9.845596313476562 eV.
+DOS done for CaO3Ti. Bandgap=1.833709478378296 eV, Fermi=-9.745590209960938 eV.
+DOS done for CaO3Ti. Bandgap=1.9435904026031494 eV, Fermi=-9.79559326171875 eV.
+DOS done for CaO3Ti. Bandgap=1.7872205972671509 eV, Fermi=-9.79559326171875 eV.
+DOS done for CaO3Ti. Bandgap=1.7966939210891724 eV, Fermi=-9.695602416992188 eV.
+DOS done for CaO3Ti. Bandgap=1.7588040828704834 eV, Fermi=-9.79559326171875 eV.

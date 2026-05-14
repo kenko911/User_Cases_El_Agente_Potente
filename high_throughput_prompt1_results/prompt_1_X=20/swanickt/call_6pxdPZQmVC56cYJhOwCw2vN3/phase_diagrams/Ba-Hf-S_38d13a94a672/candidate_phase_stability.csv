@@ -1,0 +1,11 @@
+structure_iri,chemical_formula,energy_eV,num_atoms,energy_per_atom_eV,e_above_hull_eV_per_atom,cutoff_eV_per_atom,passed,decomposition_json
+https://elagente.ca/grafico/ConceptualAtoms_73a4937f-b1b7-408e-82d6-7cd04dc103dc,BaHfS3,-33.21988296508789,5,-6.6439765930175785,0.029315948486328125,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_e575b548-f687-4bad-96e2-53a88a042443,BaHfS3,-33.221168518066406,5,-6.644233703613281,0.029070281982421342,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_c591c4d4-8a0e-40b7-afa5-a6bf41bb06b1,BaHfS3,-33.22215270996094,5,-6.644430541992188,0.028866577148437322,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_e2dbdb6a-02f9-4985-84f1-5a477336a3e0,BaHfS3,-33.21207046508789,5,-6.642414093017578,0.03088912963867152,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_a9c73017-da81-407d-ac1d-40b13d8643d3,BaHfS3,-33.21742630004883,5,-6.643485260009766,0.029924774169921342,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_e2b954db-0f8f-4555-bb5e-fcd383364818,BaHfS3,-33.22154998779297,5,-6.644309997558594,0.029006195068358664,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_b3b754dc-683c-4b04-a51c-2b2564497568,BaHfS3,-33.22251510620117,5,-6.644503021240235,0.028776550292968217,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_9a3ef501-ff86-4472-aa37-07c0b3449734,BaHfS3,-33.21865463256836,5,-6.643730926513672,0.029549407958984197,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_7fc11856-a7ee-4334-94eb-b6e9c0c3cc54,BaHfS3,-33.220550537109375,5,-6.644110107421875,0.02921295166015625,0.05,True,"{""mp-1105549-GGA"": 1.0}"
+https://elagente.ca/grafico/ConceptualAtoms_759d5811-1763-4af4-968a-52a1a8185d7d,BaHfS3,-33.2257194519043,5,-6.64514389038086,0.028154754638671342,0.05,True,"{""mp-1105549-GGA"": 1.0}"

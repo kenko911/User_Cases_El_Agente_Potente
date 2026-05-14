@@ -1,0 +1,581 @@
+[
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 32.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -49.43357467651367,
+    "energy_adjustments": [],
+    "entry_id": "mp-1120813-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 8.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -30.18899154663086,
+    "energy_adjustments": [],
+    "entry_id": "mp-1179414-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 2.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -7.603878974914551,
+    "energy_adjustments": [],
+    "entry_id": "mp-84-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.8782238960266113,
+    "energy_adjustments": [],
+    "entry_id": "mp-639727-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -1.5276395082473755,
+    "energy_adjustments": [],
+    "entry_id": "mp-998864-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 8.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -7.647843360900879,
+    "energy_adjustments": [],
+    "entry_id": "mp-949029-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 8.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -7.748813629150391,
+    "energy_adjustments": [],
+    "entry_id": "mp-573579-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.779384136199951,
+    "energy_adjustments": [],
+    "entry_id": "mp-1022725-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -0.9698928594589233,
+    "energy_adjustments": [],
+    "entry_id": "mp-1-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 10.0,
+      "Cs": 2.0,
+      "Sn": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -50.51265335083008,
+    "energy_adjustments": [],
+    "entry_id": "mp-23467-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 16.0,
+      "Sn": 16.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -85.40458679199219,
+    "energy_adjustments": [],
+    "entry_id": "mp-11055-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 16.0,
+      "Sn": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -55.555274963378906,
+    "energy_adjustments": [],
+    "entry_id": "mp-23216-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -0.9687491655349731,
+    "energy_adjustments": [],
+    "entry_id": "mp-1183694-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 1.0,
+      "Cs": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -6.10579776763916,
+    "energy_adjustments": [],
+    "entry_id": "mp-571222-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 20.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -19.193971633911133,
+    "energy_adjustments": [],
+    "entry_id": "mp-1183897-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.876143455505371,
+    "energy_adjustments": [],
+    "entry_id": "mp-1007976-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -0.9697182774543762,
+    "energy_adjustments": [],
+    "entry_id": "mp-1055940-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.769486904144287,
+    "energy_adjustments": [],
+    "entry_id": "mp-1056308-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 8.0,
+      "Sn": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -37.7291259765625,
+    "energy_adjustments": [],
+    "entry_id": "mp-29862-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.7792348861694336,
+    "energy_adjustments": [],
+    "entry_id": "mp-623511-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 12.0,
+      "Cs": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -38.82506561279297,
+    "energy_adjustments": [],
+    "entry_id": "mp-27641-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 2.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -7.702598571777344,
+    "energy_adjustments": [],
+    "entry_id": "mp-117-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 8.0,
+      "Sn": 46.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -192.8667755126953,
+    "energy_adjustments": [],
+    "entry_id": "mp-2496-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 1.0,
+      "Cs": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -6.019260406494141,
+    "energy_adjustments": [],
+    "entry_id": "mp-22906-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 8.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -7.734315872192383,
+    "energy_adjustments": [],
+    "entry_id": "mp-672241-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 2.0,
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -9.4603271484375,
+    "energy_adjustments": [],
+    "entry_id": "mp-1272139-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 29.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -27.779125213623047,
+    "energy_adjustments": [],
+    "entry_id": "mp-1184151-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 12.0,
+      "Cs": 4.0,
+      "Sn": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -63.2276725769043,
+    "energy_adjustments": [],
+    "entry_id": "mp-1247749-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 2.0,
+      "Sn": 6.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -26.127233505249023,
+    "energy_adjustments": [],
+    "entry_id": "mp-865565-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 46.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -175.14605712890625,
+    "energy_adjustments": [],
+    "entry_id": "mp-949028-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 32.0,
+      "Sn": 32.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -170.79275512695312,
+    "energy_adjustments": [],
+    "entry_id": "mp-571056-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 3.0,
+      "Cs": 1.0,
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -15.766192436218262,
+    "energy_adjustments": [],
+    "entry_id": "mp-27214-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 6.0,
+      "Cs": 2.0,
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -26.817710876464844,
+    "energy_adjustments": [],
+    "entry_id": "mp-641923-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 4.0,
+      "Sn": 2.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -18.858501434326172,
+    "energy_adjustments": [],
+    "entry_id": "mp-978985-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.7678537368774414,
+    "energy_adjustments": [],
+    "entry_id": "mp-7162-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 2.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -1.9381029605865479,
+    "energy_adjustments": [],
+    "entry_id": "mp-11832-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -0.9699759483337402,
+    "energy_adjustments": [],
+    "entry_id": "mp-1096915-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Sn": 1.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.768120288848877,
+    "energy_adjustments": [],
+    "entry_id": "mp-55-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -6.453350067138672,
+    "energy_adjustments": [],
+    "entry_id": "mp-23154-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.8699746131896973,
+    "energy_adjustments": [],
+    "entry_id": "mp-1012110-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Br": 12.0,
+      "Sn": 6.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -56.45841598510742,
+    "energy_adjustments": [],
+    "entry_id": "mp-1105170-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 2.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -1.9379836320877075,
+    "energy_adjustments": [],
+    "entry_id": "mp-3-GGA",
+    "parameters": {}
+  },
+  {
+    "@class": "ComputedEntry",
+    "@module": "pymatgen.entries.computed_entries",
+    "composition": {
+      "Cs": 4.0
+    },
+    "correction": 0.0,
+    "data": {},
+    "energy": -3.8806581497192383,
+    "energy_adjustments": [],
+    "entry_id": "mp-1182809-GGA",
+    "parameters": {}
+  }
+]

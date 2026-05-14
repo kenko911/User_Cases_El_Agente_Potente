@@ -1,0 +1,43 @@
+[Phase stability] Queried 43 MP entries for Br-Ge-Rb (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'RbGeBr3' (repeats=10, batch_size=10)
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.728652 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.727811 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.727159 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.744106 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.745027 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.737556 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.737715 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.729269 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.705203 eV.
+Relaxation done for Br3GeRb (steps≤1000, fmax=0.1). Energy: -15.735285 eV.
+[Phase stability] Built phase diagram from 43 ML-relaxed MP entries.
+[Phase stability] Br3GeRb passed: e_above_hull=0.0196 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0198 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0199 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0165 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0164 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0179 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0178 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0195 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0243 eV/atom
+[Phase stability] Br3GeRb passed: e_above_hull=0.0183 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and phase stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Br3GeRb. Bandgap=0.835849940776825 eV, Fermi=-7.3455963134765625 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Br3GeRb. Bandgap=1.19288170337677 eV, Fermi=-7.1956024169921875 eV.
+DOS done for Br3GeRb. Bandgap=0.9289109706878662 eV, Fermi=-7.29559326171875 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after phase stability filtering, so only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested for the filtered, relaxed structures, so only MLFFDensityOfStates is needed.
+DOS done for Br3GeRb. Bandgap=1.489304780960083 eV, Fermi=-7.0955963134765625 eV.
+DOS done for Br3GeRb. Bandgap=0.7557783126831055 eV, Fermi=-7.7455902099609375 eV.
+DOS done for Br3GeRb. Bandgap=0.8106605410575867 eV, Fermi=-7.395599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Br3GeRb. Bandgap=0.5720117688179016 eV, Fermi=-8.495590209960938 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after stability filtering, so only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested for the filtered, relaxed structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and phase stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Br3GeRb. Bandgap=0.8164762258529663 eV, Fermi=-7.5955963134765625 eV.
+DOS done for Br3GeRb. Bandgap=1.242037296295166 eV, Fermi=-7.145599365234375 eV.
+DOS done for Br3GeRb. Bandgap=1.4087879657745361 eV, Fermi=-7.145599365234375 eV.

@@ -1,0 +1,43 @@
+[Phase stability] Queried 39 MP entries for Cl-Ge-Rb (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'RbGeCl3' (repeats=10, batch_size=10)
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.439096 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.416937 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.447536 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.433720 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.438549 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.441601 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.442501 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.440256 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.440859 eV.
+Relaxation done for Cl3GeRb (steps≤1000, fmax=0.1). Energy: -17.443134 eV.
+[Phase stability] Built phase diagram from 39 ML-relaxed MP entries.
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0317 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0361 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0301 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0327 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0318 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0313 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0311 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0314 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0313 eV/atom
+[Phase stability] Cl3GeRb passed: e_above_hull=0.0309 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures. No other properties are needed based on the user query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The query is focused on electronic structure screening after phase stability filtering, so only the electronic DOS and band gap calculation is required. No other property nodes are relevant.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS and band gap are requested for stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS and band gap are requested for stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow involves structure generation, relaxation, and phase stability filtering upstream. For the surviving structures, only electronic DOS and band gap are requested, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the screened, stable structures. No other property calculations are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow requires only electronic DOS and band gap for stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow involves structure generation, relaxation, and phase stability filtering, but the only property calculation requested for the stable structures is the electronic density of states and band gap. Thus, only MLFFDensityOfStates is required.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) After structure generation, relaxation, and phase stability filtering, the only requested property is the electronic density of states and band gap. No other property nodes are relevant to the user's query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow requires only electronic density of states and band gap calculations after structure relaxation and phase stability screening. No other properties are requested.
+DOS done for Cl3GeRb. Bandgap=2.5277774333953857 eV, Fermi=-6.6956024169921875 eV.
+DOS done for Cl3GeRb. Bandgap=2.307267189025879 eV, Fermi=-6.645599365234375 eV.
+DOS done for Cl3GeRb. Bandgap=2.179832935333252 eV, Fermi=-6.6956024169921875 eV.
+DOS done for Cl3GeRb. Bandgap=2.2050766944885254 eV, Fermi=-6.6956024169921875 eV.
+DOS done for Cl3GeRb. Bandgap=2.079573154449463 eV, Fermi=-6.6956024169921875 eV.
+DOS done for Cl3GeRb. Bandgap=1.3971308469772339 eV, Fermi=-6.79559326171875 eV.
+DOS done for Cl3GeRb. Bandgap=2.0075037479400635 eV, Fermi=-6.5955963134765625 eV.
+DOS done for Cl3GeRb. Bandgap=2.059541702270508 eV, Fermi=-6.7455902099609375 eV.
+DOS done for Cl3GeRb. Bandgap=2.226036548614502 eV, Fermi=-6.7455902099609375 eV.
+DOS done for Cl3GeRb. Bandgap=2.2164719104766846 eV, Fermi=-6.6956024169921875 eV.

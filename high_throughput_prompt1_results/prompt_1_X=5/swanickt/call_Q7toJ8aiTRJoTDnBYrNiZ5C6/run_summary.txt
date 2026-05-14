@@ -1,0 +1,43 @@
+[Phase stability] Queried 38 MP entries for Br-Cs-Ge (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'CsGeBr3' (repeats=10, batch_size=10)
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.931164 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.931789 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.935174 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.933043 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.634089 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.934386 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.932846 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.930161 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.929133 eV.
+Relaxation done for Br3CsGe (steps≤1000, fmax=0.1). Energy: -15.934225 eV.
+[Phase stability] Built phase diagram from 38 ML-relaxed MP entries.
+[Phase stability] Br3CsGe passed: e_above_hull=0.0012 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0011 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0004 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0008 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0606 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0005 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0009 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0014 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0016 eV/atom
+[Phase stability] Br3CsGe passed: e_above_hull=0.0006 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states / bandgap is requested for the stable structures, so only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS/bandgap is requested for the stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only MLFFDensityOfStates should be run.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates is required.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states / bandgap is requested for the stable structures. No other property nodes are relevant to the user query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The query specifies to compute only the electronic density of states and bandgap for the stable structures, so only the MLFFDensityOfStates node is needed. No other property nodes are relevant to the user's request.
+DOS done for Br3CsGe. Bandgap=2.5174813270568848 eV, Fermi=-6.9456024169921875 eV.
+DOS done for Br3CsGe. Bandgap=1.543866515159607 eV, Fermi=-7.0955963134765625 eV.
+DOS done for Br3CsGe. Bandgap=1.6742750406265259 eV, Fermi=-7.0955963134765625 eV.
+DOS done for Br3CsGe. Bandgap=1.829093337059021 eV, Fermi=-6.9955902099609375 eV.
+DOS done for Br3CsGe. Bandgap=1.4689747095108032 eV, Fermi=-7.145599365234375 eV.
+DOS done for Br3CsGe. Bandgap=1.8999043703079224 eV, Fermi=-6.9955902099609375 eV.
+DOS done for Br3CsGe. Bandgap=1.5070184469223022 eV, Fermi=-7.0955963134765625 eV.
+DOS done for Br3CsGe. Bandgap=1.7297791242599487 eV, Fermi=-7.04559326171875 eV.
+DOS done for Br3CsGe. Bandgap=1.8049945831298828 eV, Fermi=-6.9955902099609375 eV.
+DOS done for Br3CsGe. Bandgap=1.5989069938659668 eV, Fermi=-7.0955963134765625 eV.

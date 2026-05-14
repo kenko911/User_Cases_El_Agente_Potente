@@ -1,0 +1,43 @@
+[Phase stability] Queried 40 MP entries for Cl-Ge-K (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'KGeCl3' (repeats=10, batch_size=10)
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.366341 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.358198 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.361103 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.355389 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.354652 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.364515 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.338440 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.347164 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.359367 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.353231 eV.
+[Phase stability] Built phase diagram from 40 ML-relaxed MP entries.
+[Phase stability] Cl3GeK passed: e_above_hull=0.0324 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0341 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0334 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0347 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0348 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0328 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0380 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0363 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0338 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0351 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic density of states and band gap are requested for stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow requires only the electronic density of states and band gap for stable structures, so only MLFFDensityOfStates is needed after relaxation and stability filtering.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening. No other property nodes are relevant for this query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS and band gap are requested for stable structures; no other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures, so only MLFFDensityOfStates is required.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic density of states and band gap are requested after phase stability screening, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only MLFFDensityOfStates is needed. No other properties are mentioned.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic density of states and band gap are requested after phase stability screening. No other properties are needed.
+DOS done for Cl3GeK. Bandgap=0.5123187303543091 eV, Fermi=-6.4456024169921875 eV.
+DOS done for Cl3GeK. Bandgap=0.5367093086242676 eV, Fermi=-6.4955902099609375 eV.
+DOS done for Cl3GeK. Bandgap=0.6316066980361938 eV, Fermi=-6.5955963134765625 eV.
+DOS done for Cl3GeK. Bandgap=0.6168872117996216 eV, Fermi=-6.4955902099609375 eV.
+DOS done for Cl3GeK. Bandgap=0.7395303249359131 eV, Fermi=-6.895599365234375 eV.
+DOS done for Cl3GeK. Bandgap=0.5886954069137573 eV, Fermi=-6.4456024169921875 eV.
+DOS done for Cl3GeK. Bandgap=0.5757107734680176 eV, Fermi=-6.6956024169921875 eV.
+DOS done for Cl3GeK. Bandgap=0.6498645544052124 eV, Fermi=-6.645599365234375 eV.
+DOS done for Cl3GeK. Bandgap=0.5042763352394104 eV, Fermi=-6.54559326171875 eV.
+DOS done for Cl3GeK. Bandgap=0.5447559356689453 eV, Fermi=-6.4955902099609375 eV.

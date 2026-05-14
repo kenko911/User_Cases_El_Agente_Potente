@@ -1,0 +1,43 @@
+[Phase stability] Queried 51 MP entries for Cs-I-Sn (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'CsSnI3' (repeats=10, batch_size=10)
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.953195 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.958007 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.953811 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.947990 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.946147 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.944677 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.956553 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.956336 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.956859 eV.
+Relaxation done for CsI3Sn (steps≤1000, fmax=0.1). Energy: -13.954892 eV.
+[Phase stability] Built phase diagram from 51 ML-relaxed MP entries.
+[Phase stability] CsI3Sn passed: e_above_hull=0.0275 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0265 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0274 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0285 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0289 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0292 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0268 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0269 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0268 eV/atom
+[Phase stability] CsI3Sn passed: e_above_hull=0.0271 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+DOS done for CsI3Sn. Bandgap=0.2996745705604553 eV, Fermi=-7.54559326171875 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested for phase-stable structures. No other property nodes are relevant to the user query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS band gap is requested after phase stability filtering. No other property nodes are relevant for this query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested for phase-stable structures, so only MLFFDensityOfStates is needed. No other properties are mentioned.
+DOS done for CsI3Sn. Bandgap=0.18166038393974304 eV, Fermi=-7.9955902099609375 eV.
+DOS done for CsI3Sn. Bandgap=0.5181871652603149 eV, Fermi=-7.395599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed for each stable structure.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for phase-stable structures, so only MLFFDensityOfStates is needed.
+DOS done for CsI3Sn. Bandgap=0.3016333281993866 eV, Fermi=-7.6956024169921875 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested for phase-stable structures, so only the MLFFDensityOfStates node is needed after structure relaxation and phase stability filtering.
+DOS done for CsI3Sn. Bandgap=0.28571802377700806 eV, Fermi=-7.5955963134765625 eV.
+DOS done for CsI3Sn. Bandgap=0.1649930626153946 eV, Fermi=-7.9955902099609375 eV.
+DOS done for CsI3Sn. Bandgap=0.1205051988363266 eV, Fermi=-7.8455963134765625 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested after phase stability filtering. No other properties (e.g., MD, phonons, elasticity) are needed.
+DOS done for CsI3Sn. Bandgap=0.48276469111442566 eV, Fermi=-7.4456024169921875 eV.
+DOS done for CsI3Sn. Bandgap=0.1940179020166397 eV, Fermi=-7.5955963134765625 eV.
+DOS done for CsI3Sn. Bandgap=0.2665841579437256 eV, Fermi=-7.54559326171875 eV.

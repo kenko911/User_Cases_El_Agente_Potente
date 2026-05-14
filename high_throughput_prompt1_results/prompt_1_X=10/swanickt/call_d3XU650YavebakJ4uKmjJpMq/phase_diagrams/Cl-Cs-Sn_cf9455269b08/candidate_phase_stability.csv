@@ -1,0 +1,11 @@
+structure_iri,chemical_formula,energy_eV,num_atoms,energy_per_atom_eV,e_above_hull_eV_per_atom,cutoff_eV_per_atom,passed,decomposition_json
+https://elagente.ca/grafico/ConceptualAtoms_5bf35f89-6a8f-408f-a375-44e36e2549f2,Cl3CsSn,-17.402389526367188,5,-3.4804779052734376,0.016137313842774947,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_2d2619a3-b546-41de-8c19-7900aaa4f229,Cl3CsSn,-17.395166397094727,5,-3.479033279418945,0.017590713500978072,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_3b17d406-00ed-4eb8-b8de-9e2b69207d34,Cl3CsSn,-17.400169372558594,5,-3.4800338745117188,0.016640090942384056,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_11674dba-8b9f-4e2a-a719-9a9fa36d0007,Cl3CsSn,-17.403295516967773,5,-3.4806591033935548,0.01595726013183718,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_f268a7bf-1cfb-4fbe-8265-1588d49a69a6,Cl3CsSn,-17.407962799072266,5,-3.481592559814453,0.01502799987793102,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_8f0cb672-7f8f-4eda-bf53-2e8baee5590c,Cl3CsSn,-17.405445098876953,5,-3.4810890197753905,0.01554679870605602,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_a700bfd2-a55b-40af-aecd-20e751feff92,Cl3CsSn,-17.400012969970703,5,-3.480002593994141,0.016611099243165395,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_92dcf99e-c0ae-4d4b-ad32-c65a7996f029,Cl3CsSn,-17.398235321044922,5,-3.4796470642089843,0.01697616577148553,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_865a16fd-485c-48a5-b256-b2d21dd72231,Cl3CsSn,-17.400192260742188,5,-3.4800384521484373,0.01662406921386861,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"
+https://elagente.ca/grafico/ConceptualAtoms_b02f80cf-ca2e-4941-821f-d59fc6a32799,Cl3CsSn,-17.400373458862305,5,-3.4800746917724608,0.01654357910156401,0.1,True,"{""mp-27394-GGA"": 1.0000000000000004}"

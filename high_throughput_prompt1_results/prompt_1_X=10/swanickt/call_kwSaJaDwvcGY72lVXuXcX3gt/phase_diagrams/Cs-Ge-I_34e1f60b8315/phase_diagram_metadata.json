@@ -1,0 +1,12 @@
+{
+  "calculator_identity": "MACE-OMAT;package=0.3.15;model=mh-1;head=omat_pbe",
+  "chemical_system": "Cs-Ge-I",
+  "model_name": "MACE-OMAT",
+  "mp_e_hull_query_threshold_eV_per_atom": 0.2,
+  "phase_diagram_fingerprint": "34e1f60b8315804fcf7301cf2ce77db2f3d2c865f0aae0b0c99ea2bff8915c25",
+  "relax_cell": true,
+  "relax_fmax_eV_per_A": 0.1,
+  "relax_optimizer": "FIRE2",
+  "relax_steps": 1000,
+  "support_entry_count": 43
+}

@@ -1,0 +1,43 @@
+[Phase stability] Queried 40 MP entries for Cl-Ge-K (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'KGeCl3' (repeats=10, batch_size=10)
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.388855 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.369532 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.324015 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.370361 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.360043 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.354828 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.354958 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.360094 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.376019 eV.
+Relaxation done for Cl3GeK (steps≤1000, fmax=0.1). Energy: -17.341055 eV.
+[Phase stability] Built phase diagram from 40 ML-relaxed MP entries.
+[Phase stability] Cl3GeK passed: e_above_hull=0.0279 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0318 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0409 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0316 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0337 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0348 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0347 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0337 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0305 eV/atom
+[Phase stability] Cl3GeK passed: e_above_hull=0.0375 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3GeK. Bandgap=0.5952449440956116 eV, Fermi=-6.395599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and phase stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and phase stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3GeK. Bandgap=0.7800754904747009 eV, Fermi=-6.3455963134765625 eV.
+DOS done for Cl3GeK. Bandgap=0.4882884621620178 eV, Fermi=-6.645599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3GeK. Bandgap=0.5015025734901428 eV, Fermi=-6.6956024169921875 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and phase stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3GeK. Bandgap=0.6819665431976318 eV, Fermi=-6.7455902099609375 eV.
+DOS done for Cl3GeK. Bandgap=0.4933682382106781 eV, Fermi=-6.7455902099609375 eV.
+DOS done for Cl3GeK. Bandgap=0.5156197547912598 eV, Fermi=-6.5955963134765625 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3GeK. Bandgap=0.7738515138626099 eV, Fermi=-6.6956024169921875 eV.
+DOS done for Cl3GeK. Bandgap=0.43526703119277954 eV, Fermi=-6.4955902099609375 eV.
+DOS done for Cl3GeK. Bandgap=0.6657151579856873 eV, Fermi=-6.6956024169921875 eV.

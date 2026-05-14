@@ -1,0 +1,12 @@
+{
+  "calculator_identity": "MACE-OMAT;package=0.3.15;model=mh-1;head=omat_pbe",
+  "chemical_system": "Ca-Se-Zr",
+  "model_name": "MACE-OMAT",
+  "mp_e_hull_query_threshold_eV_per_atom": 0.2,
+  "phase_diagram_fingerprint": "fb43482bd4aec816df366a1286c7711a86fe0ec6b7403b02d4e23a31d5b1ebc7",
+  "relax_cell": true,
+  "relax_fmax_eV_per_A": 0.1,
+  "relax_optimizer": "FIRE2",
+  "relax_steps": 1000,
+  "support_entry_count": 29
+}

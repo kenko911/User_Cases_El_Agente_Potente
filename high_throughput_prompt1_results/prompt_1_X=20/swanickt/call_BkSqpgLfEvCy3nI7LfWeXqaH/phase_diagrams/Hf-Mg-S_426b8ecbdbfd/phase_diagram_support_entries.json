@@ -1,0 +1,359 @@
+[
+  {
+    "composition": "Hf",
+    "energy_eV": -9.745931625366211,
+    "energy_per_atom_eV": -9.745931625366211,
+    "entry_id": "mp-100-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Hf2S",
+    "energy_eV": -54.11693572998047,
+    "energy_per_atom_eV": -9.019489288330078,
+    "entry_id": "mp-10000-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "Hf",
+    "energy_eV": -29.62061309814453,
+    "energy_per_atom_eV": -9.87353769938151,
+    "entry_id": "mp-1009460-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "HfMg3",
+    "energy_eV": -13.791519165039062,
+    "energy_per_atom_eV": -3.4478797912597656,
+    "entry_id": "mp-1016239-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "HfMg7",
+    "energy_eV": -19.646038055419922,
+    "energy_per_atom_eV": -2.4557547569274902,
+    "entry_id": "mp-1016256-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "HfMg15",
+    "energy_eV": -31.770465850830078,
+    "energy_per_atom_eV": -1.9856541156768799,
+    "entry_id": "mp-1023478-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "Hf",
+    "energy_eV": -19.877973556518555,
+    "energy_per_atom_eV": -9.938986778259277,
+    "entry_id": "mp-103-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Mg",
+    "energy_eV": -1.4791563749313354,
+    "energy_per_atom_eV": -1.4791563749313354,
+    "entry_id": "mp-1056351-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Mg",
+    "energy_eV": -1.500701904296875,
+    "energy_per_atom_eV": -1.500701904296875,
+    "entry_id": "mp-1056702-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Mg",
+    "energy_eV": -4.511011123657227,
+    "energy_per_atom_eV": -1.503670374552409,
+    "entry_id": "mp-1094122-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "HfMg",
+    "energy_eV": -11.148539543151855,
+    "energy_per_atom_eV": -5.574269771575928,
+    "entry_id": "mp-1094181-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Hf3Mg",
+    "energy_eV": -30.95547866821289,
+    "energy_per_atom_eV": -7.738869667053223,
+    "entry_id": "mp-1094220-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "Hf3Mg",
+    "energy_eV": -61.81553649902344,
+    "energy_per_atom_eV": -7.72694206237793,
+    "entry_id": "mp-1094259-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "HfMg3",
+    "energy_eV": -13.894963264465332,
+    "energy_per_atom_eV": -3.473740816116333,
+    "entry_id": "mp-1094958-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "Mg",
+    "energy_eV": -1.48003089427948,
+    "energy_per_atom_eV": -1.48003089427948,
+    "entry_id": "mp-110-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "HfMg149",
+    "energy_eV": -233.7355499267578,
+    "energy_per_atom_eV": -1.5582369995117187,
+    "entry_id": "mp-1185513-GGA",
+    "num_atoms": 150
+  },
+  {
+    "composition": "Mg149S",
+    "energy_eV": -229.0950927734375,
+    "energy_per_atom_eV": -1.5273006184895834,
+    "entry_id": "mp-1185578-GGA",
+    "num_atoms": 150
+  },
+  {
+    "composition": "MgS",
+    "energy_eV": -16.932905197143555,
+    "energy_per_atom_eV": -4.233226299285889,
+    "entry_id": "mp-1185942-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "MgS3",
+    "energy_eV": -15.37429428100586,
+    "energy_per_atom_eV": -3.843573570251465,
+    "entry_id": "mp-1185949-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "MgS2",
+    "energy_eV": -24.49367904663086,
+    "energy_per_atom_eV": -4.0822798411051435,
+    "entry_id": "mp-1185953-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "MgS2",
+    "energy_eV": -12.265228271484375,
+    "energy_per_atom_eV": -4.088409423828125,
+    "entry_id": "mp-1185959-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "S",
+    "energy_eV": -329.6609191894531,
+    "energy_per_atom_eV": -4.120761489868164,
+    "entry_id": "mp-1196831-GGA",
+    "num_atoms": 80
+  },
+  {
+    "composition": "HfS",
+    "energy_eV": -17.03921890258789,
+    "energy_per_atom_eV": -8.519609451293945,
+    "entry_id": "mp-1206743-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Mg",
+    "energy_eV": -13.520625114440918,
+    "energy_per_atom_eV": -1.3520625114440918,
+    "entry_id": "mp-1247180-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "MgS",
+    "energy_eV": -8.448695182800293,
+    "energy_per_atom_eV": -4.2243475914001465,
+    "entry_id": "mp-13032-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "MgS",
+    "energy_eV": -8.48447036743164,
+    "energy_per_atom_eV": -4.24223518371582,
+    "entry_id": "mp-1315-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Mg",
+    "energy_eV": -3.0128958225250244,
+    "energy_per_atom_eV": -1.5064479112625122,
+    "entry_id": "mp-153-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "S",
+    "energy_eV": -36.816505432128906,
+    "energy_per_atom_eV": -4.090722825792101,
+    "entry_id": "mp-555760-GGA",
+    "num_atoms": 9
+  },
+  {
+    "composition": "S",
+    "energy_eV": -296.00030517578125,
+    "energy_per_atom_eV": -4.111115349663629,
+    "entry_id": "mp-555915-GGA",
+    "num_atoms": 72
+  },
+  {
+    "composition": "S",
+    "energy_eV": -294.70208740234375,
+    "energy_per_atom_eV": -4.093084547254774,
+    "entry_id": "mp-556269-GGA",
+    "num_atoms": 72
+  },
+  {
+    "composition": "S",
+    "energy_eV": -130.63412475585938,
+    "energy_per_atom_eV": -4.0823163986206055,
+    "entry_id": "mp-557031-GGA",
+    "num_atoms": 32
+  },
+  {
+    "composition": "S",
+    "energy_eV": -81.90589904785156,
+    "energy_per_atom_eV": -4.095294952392578,
+    "entry_id": "mp-557376-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "S",
+    "energy_eV": -148.21810913085938,
+    "energy_per_atom_eV": -4.117169698079427,
+    "entry_id": "mp-557488-GGA",
+    "num_atoms": 36
+  },
+  {
+    "composition": "S",
+    "energy_eV": -114.05069732666016,
+    "energy_per_atom_eV": -4.073239190237863,
+    "entry_id": "mp-557559-GGA",
+    "num_atoms": 28
+  },
+  {
+    "composition": "S",
+    "energy_eV": -198.41928100585938,
+    "energy_per_atom_eV": -4.133735020955403,
+    "entry_id": "mp-557869-GGA",
+    "num_atoms": 48
+  },
+  {
+    "composition": "S",
+    "energy_eV": -99.01820373535156,
+    "energy_per_atom_eV": -4.1257584889729815,
+    "entry_id": "mp-558014-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "S",
+    "energy_eV": -329.5398254394531,
+    "energy_per_atom_eV": -4.119247817993164,
+    "entry_id": "mp-558964-GGA",
+    "num_atoms": 80
+  },
+  {
+    "composition": "S",
+    "energy_eV": -361.2005310058594,
+    "energy_per_atom_eV": -4.104551488702947,
+    "entry_id": "mp-561370-GGA",
+    "num_atoms": 88
+  },
+  {
+    "composition": "S",
+    "energy_eV": -115.291748046875,
+    "energy_per_atom_eV": -4.117562430245536,
+    "entry_id": "mp-561513-GGA",
+    "num_atoms": 28
+  },
+  {
+    "composition": "S",
+    "energy_eV": -426.71929931640625,
+    "energy_per_atom_eV": -4.103070185734675,
+    "entry_id": "mp-583072-GGA",
+    "num_atoms": 104
+  },
+  {
+    "composition": "S",
+    "energy_eV": -132.33090209960938,
+    "energy_per_atom_eV": -4.135340690612793,
+    "entry_id": "mp-666931-GGA",
+    "num_atoms": 32
+  },
+  {
+    "composition": "S",
+    "energy_eV": -24.410850524902344,
+    "energy_per_atom_eV": -4.068475087483724,
+    "entry_id": "mp-7-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "S",
+    "energy_eV": -132.3409881591797,
+    "energy_per_atom_eV": -4.135655879974365,
+    "entry_id": "mp-77-GGA",
+    "num_atoms": 32
+  },
+  {
+    "composition": "S",
+    "energy_eV": -227.8031005859375,
+    "energy_per_atom_eV": -4.067912510463169,
+    "entry_id": "mp-83-GGA",
+    "num_atoms": 56
+  },
+  {
+    "composition": "Hf",
+    "energy_eV": -9.845151901245117,
+    "energy_per_atom_eV": -9.845151901245117,
+    "entry_id": "mp-8640-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "S",
+    "energy_eV": -132.4183349609375,
+    "energy_per_atom_eV": -4.138072967529297,
+    "entry_id": "mp-96-GGA",
+    "num_atoms": 32
+  },
+  {
+    "composition": "Mg",
+    "energy_eV": -6.012312889099121,
+    "energy_per_atom_eV": -1.5030782222747803,
+    "entry_id": "mp-973364-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "HfMg3",
+    "energy_eV": -27.627931594848633,
+    "energy_per_atom_eV": -3.453491449356079,
+    "entry_id": "mp-981375-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "HfS2",
+    "energy_eV": -22.91748046875,
+    "energy_per_atom_eV": -7.63916015625,
+    "entry_id": "mp-985829-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "HfS3",
+    "energy_eV": -54.2647705078125,
+    "energy_per_atom_eV": -6.7830963134765625,
+    "entry_id": "mp-9922-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "S",
+    "energy_eV": -33.06205368041992,
+    "energy_per_atom_eV": -4.13275671005249,
+    "entry_id": "mp-994911-GGA",
+    "num_atoms": 8
+  }
+]

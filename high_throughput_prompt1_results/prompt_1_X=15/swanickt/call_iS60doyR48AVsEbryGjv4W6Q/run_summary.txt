@@ -1,0 +1,43 @@
+[Phase stability] Queried 81 MP entries for Ba-O-Sn (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'BaSnO3' (repeats=10, batch_size=10)
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.438309 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.439308 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.439047 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.439903 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.433397 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.447845 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.445744 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.441811 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.444948 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.438332 eV.
+[Phase stability] Built phase diagram from 81 ML-relaxed MP entries.
+[Phase stability] BaO3Sn passed: e_above_hull=0.0035 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0033 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0033 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0032 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0045 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0016 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0020 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0028 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0022 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0035 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested after phase stability filtering. No other properties are mentioned.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for phase-stable, relaxed structures. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested after structure relaxation and phase stability filtering. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested for phase-stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for phase-stable structures, so only the MLFFDensityOfStates node is needed after structure relaxation and phase stability filtering.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only the MLFFDensityOfStates node is needed for the property calculation stage.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for phase-stable, relaxed structures. No other properties are needed.
+DOS done for BaO3Sn. Bandgap=2.166123390197754 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.190985679626465 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.193218231201172 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.2246603965759277 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.1943938732147217 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.203944206237793 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.1932010650634766 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.1952524185180664 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.1967177391052246 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.1972665786743164 eV, Fermi=-10.145599365234375 eV.

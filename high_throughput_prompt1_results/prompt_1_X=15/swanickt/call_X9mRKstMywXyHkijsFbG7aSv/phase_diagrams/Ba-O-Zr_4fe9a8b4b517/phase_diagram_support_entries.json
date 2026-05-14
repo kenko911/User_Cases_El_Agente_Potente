@@ -1,0 +1,513 @@
+[
+  {
+    "composition": "BaO2",
+    "energy_eV": -16.974998474121094,
+    "energy_per_atom_eV": -5.658332824707031,
+    "entry_id": "mp-1006878-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -23.50990104675293,
+    "energy_per_atom_eV": -5.877475261688232,
+    "entry_id": "mp-1008500-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.885539054870605,
+    "energy_per_atom_eV": -4.942769527435303,
+    "entry_id": "mp-1009490-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Zr3O",
+    "energy_eV": -72.4266357421875,
+    "energy_per_atom_eV": -9.053329467773438,
+    "entry_id": "mp-1017-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "BaZrO3",
+    "energy_eV": -83.20682525634766,
+    "energy_per_atom_eV": -8.320682525634766,
+    "entry_id": "mp-1019544-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "Ba",
+    "energy_eV": -3.800875186920166,
+    "energy_per_atom_eV": -1.900437593460083,
+    "entry_id": "mp-1058581-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -19.73875617980957,
+    "energy_per_atom_eV": -4.934689044952393,
+    "entry_id": "mp-1066100-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "Ba",
+    "energy_eV": -1.9082295894622803,
+    "energy_per_atom_eV": -1.9082295894622803,
+    "entry_id": "mp-10679-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Zr",
+    "energy_eV": -51.05204772949219,
+    "energy_per_atom_eV": -8.508674621582031,
+    "entry_id": "mp-1077723-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -39.46223449707031,
+    "energy_per_atom_eV": -4.932779312133789,
+    "entry_id": "mp-1087546-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "Ba",
+    "energy_eV": -3.8032422065734863,
+    "energy_per_atom_eV": -1.9016211032867432,
+    "entry_id": "mp-1096840-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "BaO2",
+    "energy_eV": -17.3594913482666,
+    "energy_per_atom_eV": -5.786497116088867,
+    "entry_id": "mp-1105-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -23.510414123535156,
+    "energy_per_atom_eV": -5.877603530883789,
+    "entry_id": "mp-1178514-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -376.6743469238281,
+    "energy_per_atom_eV": -5.8855366706848145,
+    "entry_id": "mp-1178531-GGA",
+    "num_atoms": 64
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -19.817398071289062,
+    "energy_per_atom_eV": -4.954349517822266,
+    "entry_id": "mp-1180036-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "BaO6",
+    "energy_eV": -73.37699890136719,
+    "energy_per_atom_eV": -5.241214207240513,
+    "entry_id": "mp-1182164-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "BaO6",
+    "energy_eV": -73.40261840820312,
+    "energy_per_atom_eV": -5.243044172014509,
+    "entry_id": "mp-1182169-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "BaO4",
+    "energy_eV": -107.73121643066406,
+    "energy_per_atom_eV": -5.3865608215332035,
+    "entry_id": "mp-1182327-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "BaO10",
+    "energy_eV": -112.08866882324219,
+    "energy_per_atom_eV": -5.094939491965554,
+    "entry_id": "mp-1182404-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "BaO4",
+    "energy_eV": -107.67231750488281,
+    "energy_per_atom_eV": -5.383615875244141,
+    "entry_id": "mp-1182433-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "BaO10",
+    "energy_eV": -111.94127655029297,
+    "energy_per_atom_eV": -5.088239843195135,
+    "entry_id": "mp-1182511-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "BaO10",
+    "energy_eV": -112.17488098144531,
+    "energy_per_atom_eV": -5.098858226429332,
+    "entry_id": "mp-1182576-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -229.1356201171875,
+    "energy_per_atom_eV": -9.547317504882812,
+    "entry_id": "mp-1190186-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "BaO10",
+    "energy_eV": -222.8811492919922,
+    "energy_per_atom_eV": -5.065480665727095,
+    "entry_id": "mp-1198148-GGA",
+    "num_atoms": 44
+  },
+  {
+    "composition": "BaO6",
+    "energy_eV": -293.9632873535156,
+    "energy_per_atom_eV": -5.249344417027065,
+    "entry_id": "mp-1198787-GGA",
+    "num_atoms": 56
+  },
+  {
+    "composition": "Zr4O",
+    "energy_eV": -134.20318603515625,
+    "energy_per_atom_eV": -8.946879069010416,
+    "entry_id": "mp-1215377-GGA",
+    "num_atoms": 15
+  },
+  {
+    "composition": "Ba",
+    "energy_eV": -1.9034066200256348,
+    "energy_per_atom_eV": -1.9034066200256348,
+    "entry_id": "mp-122-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -571.4743041992188,
+    "energy_per_atom_eV": -5.714743041992188,
+    "entry_id": "mp-1245298-GGA",
+    "num_atoms": 100
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -573.8076171875,
+    "energy_per_atom_eV": -5.738076171875,
+    "entry_id": "mp-1245311-GGA",
+    "num_atoms": 100
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -39.647438049316406,
+    "energy_per_atom_eV": -4.955929756164551,
+    "entry_id": "mp-12957-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "Zr",
+    "energy_eV": -17.057804107666016,
+    "energy_per_atom_eV": -8.528902053833008,
+    "entry_id": "mp-131-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -11.810745239257812,
+    "energy_per_atom_eV": -5.905372619628906,
+    "entry_id": "mp-1342-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Zr3O",
+    "energy_eV": -72.47811889648438,
+    "energy_per_atom_eV": -9.059764862060547,
+    "entry_id": "mp-14024-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -28.502445220947266,
+    "energy_per_atom_eV": -9.500815073649088,
+    "entry_id": "mp-1565-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -57.18227767944336,
+    "energy_per_atom_eV": -9.53037961324056,
+    "entry_id": "mp-2574-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -114.84649658203125,
+    "energy_per_atom_eV": -9.570541381835938,
+    "entry_id": "mp-2858-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "BaZrO3",
+    "energy_eV": -41.62676239013672,
+    "energy_per_atom_eV": -8.325352478027344,
+    "entry_id": "mp-3834-GGA",
+    "num_atoms": 5
+  },
+  {
+    "composition": "Zr",
+    "energy_eV": -8.408449172973633,
+    "energy_per_atom_eV": -8.408449172973633,
+    "entry_id": "mp-41-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -114.56586456298828,
+    "energy_per_atom_eV": -9.547155380249023,
+    "entry_id": "mp-556605-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Ba",
+    "energy_eV": -3.8077809810638428,
+    "energy_per_atom_eV": -1.9038904905319214,
+    "entry_id": "mp-56-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Zr3O",
+    "energy_eV": -144.90020751953125,
+    "energy_per_atom_eV": -9.056262969970703,
+    "entry_id": "mp-561418-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "Ba",
+    "energy_eV": -7.150859832763672,
+    "energy_per_atom_eV": -1.787714958190918,
+    "entry_id": "mp-570384-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "Ba",
+    "energy_eV": -1.7207629680633545,
+    "energy_per_atom_eV": -1.7207629680633545,
+    "entry_id": "mp-605790-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.86624526977539,
+    "energy_per_atom_eV": -4.933122634887695,
+    "entry_id": "mp-607540-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.860146522521973,
+    "energy_per_atom_eV": -4.930073261260986,
+    "entry_id": "mp-610917-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.862442970275879,
+    "energy_per_atom_eV": -4.9312214851379395,
+    "entry_id": "mp-611836-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "Zr27O49",
+    "energy_eV": -718.1913452148438,
+    "energy_per_atom_eV": -9.449886121247944,
+    "entry_id": "mp-684977-GGA",
+    "num_atoms": 76
+  },
+  {
+    "composition": "Zr19O40",
+    "energy_eV": -548.138427734375,
+    "energy_per_atom_eV": -9.290481826006356,
+    "entry_id": "mp-685070-GGA",
+    "num_atoms": 59
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -39.51435089111328,
+    "energy_per_atom_eV": -4.93929386138916,
+    "entry_id": "mp-723285-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "BaO2",
+    "energy_eV": -137.8668212890625,
+    "energy_per_atom_eV": -5.7444508870442705,
+    "entry_id": "mp-726415-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -23.148502349853516,
+    "energy_per_atom_eV": -5.787125587463379,
+    "entry_id": "mp-7487-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "Zr2O",
+    "energy_eV": -164.93252563476562,
+    "energy_per_atom_eV": -9.162918090820312,
+    "entry_id": "mp-753629-GGA",
+    "num_atoms": 18
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -57.35130310058594,
+    "energy_per_atom_eV": -9.558550516764322,
+    "entry_id": "mp-754403-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -113.81558227539062,
+    "energy_per_atom_eV": -9.484631856282553,
+    "entry_id": "mp-754741-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -114.62966918945312,
+    "energy_per_atom_eV": -9.552472432454428,
+    "entry_id": "mp-755089-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Ba6ZrO8",
+    "energy_eV": -100.0845718383789,
+    "energy_per_atom_eV": -6.672304789225261,
+    "entry_id": "mp-755556-GGA",
+    "num_atoms": 15
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -114.33019256591797,
+    "energy_per_atom_eV": -9.52751604715983,
+    "entry_id": "mp-755759-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -114.25077056884766,
+    "energy_per_atom_eV": -9.52089754740397,
+    "entry_id": "mp-755769-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Ba3Zr2O7",
+    "energy_eV": -95.30807495117188,
+    "energy_per_atom_eV": -7.942339579264323,
+    "entry_id": "mp-755895-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Zr6O11",
+    "energy_eV": -161.192138671875,
+    "energy_per_atom_eV": -9.481890510110293,
+    "entry_id": "mp-761151-GGA",
+    "num_atoms": 17
+  },
+  {
+    "composition": "Ba4ZrO6",
+    "energy_eV": -153.14950561523438,
+    "energy_per_atom_eV": -6.961341164328835,
+    "entry_id": "mp-769391-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "Ba2Zr7O16",
+    "energy_eV": -225.97059631347656,
+    "energy_per_atom_eV": -9.038823852539062,
+    "entry_id": "mp-769802-GGA",
+    "num_atoms": 25
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -57.173309326171875,
+    "energy_per_atom_eV": -9.528884887695312,
+    "entry_id": "mp-775909-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -285.1424865722656,
+    "energy_per_atom_eV": -9.504749552408855,
+    "entry_id": "mp-775910-GGA",
+    "num_atoms": 30
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -85.37862396240234,
+    "energy_per_atom_eV": -9.48651377360026,
+    "entry_id": "mp-775935-GGA",
+    "num_atoms": 9
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -343.0694885253906,
+    "energy_per_atom_eV": -9.529708014594185,
+    "entry_id": "mp-775980-GGA",
+    "num_atoms": 36
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -227.86087036132812,
+    "energy_per_atom_eV": -9.494202931722006,
+    "entry_id": "mp-776386-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -229.54449462890625,
+    "energy_per_atom_eV": -9.564353942871094,
+    "entry_id": "mp-776404-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -228.8283233642578,
+    "energy_per_atom_eV": -9.534513473510742,
+    "entry_id": "mp-776427-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "BaO",
+    "energy_eV": -188.3630828857422,
+    "energy_per_atom_eV": -5.886346340179443,
+    "entry_id": "mp-776658-GGA",
+    "num_atoms": 32
+  },
+  {
+    "composition": "Ba2ZrO4",
+    "energy_eV": -53.62944793701172,
+    "energy_per_atom_eV": -7.661349705287388,
+    "entry_id": "mp-8335-GGA",
+    "num_atoms": 7
+  },
+  {
+    "composition": "Zr",
+    "energy_eV": -8.47892951965332,
+    "energy_per_atom_eV": -8.47892951965332,
+    "entry_id": "mp-8635-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "ZrO2",
+    "energy_eV": -113.55392456054688,
+    "energy_per_atom_eV": -9.46282704671224,
+    "entry_id": "mp-963-GGA",
+    "num_atoms": 12
+  }
+]

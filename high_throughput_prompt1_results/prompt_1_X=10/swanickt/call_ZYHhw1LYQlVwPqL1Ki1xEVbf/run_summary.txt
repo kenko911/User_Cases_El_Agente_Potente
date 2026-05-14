@@ -1,0 +1,43 @@
+[Phase stability] Queried 42 MP entries for Cl-Rb-Sn (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'RbSnCl3' (repeats=10, batch_size=10)
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.192806 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.193188 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.188789 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.191582 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.190462 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.196545 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.195286 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.185799 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.190294 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.204121 eV.
+[Phase stability] Built phase diagram from 42 ML-relaxed MP entries.
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0338 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0337 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0346 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0341 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0343 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0331 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0333 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0352 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0343 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0315 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3RbSn. Bandgap=1.8751109838485718 eV, Fermi=-9.195602416992188 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and phase stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3RbSn. Bandgap=1.775513768196106 eV, Fermi=-9.145599365234375 eV.
+DOS done for Cl3RbSn. Bandgap=1.745642900466919 eV, Fermi=-7.9456024169921875 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3RbSn. Bandgap=1.73491370677948 eV, Fermi=-9.345596313476562 eV.
+DOS done for Cl3RbSn. Bandgap=1.7714899778366089 eV, Fermi=-7.395599365234375 eV.
+DOS done for Cl3RbSn. Bandgap=1.8205832242965698 eV, Fermi=-9.29559326171875 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3RbSn. Bandgap=1.7558023929595947 eV, Fermi=-8.145599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested for the filtered, relaxed structures, so only the MLFFDensityOfStates node is needed.
+DOS done for Cl3RbSn. Bandgap=1.727257490158081 eV, Fermi=-8.395599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3RbSn. Bandgap=1.8617360591888428 eV, Fermi=-9.29559326171875 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap is requested after structure generation, relaxation, and stability filtering. Thus, only the MLFFDensityOfStates node is needed.
+DOS done for Cl3RbSn. Bandgap=1.9400922060012817 eV, Fermi=-9.29559326171875 eV.

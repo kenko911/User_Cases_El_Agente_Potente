@@ -1,0 +1,43 @@
+[Phase stability] Queried 48 MP entries for Ba-Hf-S (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'BaHfS3' (repeats=10, batch_size=10)
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.219883 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.221169 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.222153 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.212070 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.217426 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.221550 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.222515 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.218655 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.220551 eV.
+Relaxation done for BaHfS3 (steps≤1000, fmax=0.1). Energy: -33.225719 eV.
+[Phase stability] Built phase diagram from 48 ML-relaxed MP entries.
+[Phase stability] BaHfS3 passed: e_above_hull=0.0293 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0291 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0289 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0309 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0299 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0290 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0288 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0295 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0292 eV/atom
+[Phase stability] BaHfS3 passed: e_above_hull=0.0282 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The user only asks for electronic DOS and band gap after stability screening, so only MLFFDensityOfStates is needed. No other property nodes are relevant to the query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the screened, stable structures. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS and band gap are requested after phase stability screening, so only MLFFDensityOfStates is needed. No other property nodes are relevant to the user query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow requires relaxation and phase stability filtering upstream, but for property calculations, only the electronic density of states and band gap are requested for stable structures. No other property nodes are relevant to the user query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the screened, stable structures. No other property calculations are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow involves structure generation, relaxation, and phase stability filtering upstream. For the surviving structures, only electronic DOS and band gap are requested, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The query is focused on electronic properties (DOS and band gap) after structure generation, relaxation, and stability screening. No other properties are requested.
+DOS done for BaHfS3. Bandgap=0.9398502111434937 eV, Fermi=-7.5955963134765625 eV.
+DOS done for BaHfS3. Bandgap=0.8999183177947998 eV, Fermi=-7.5955963134765625 eV.
+DOS done for BaHfS3. Bandgap=0.9416470527648926 eV, Fermi=-7.4955902099609375 eV.
+DOS done for BaHfS3. Bandgap=0.9165883660316467 eV, Fermi=-7.54559326171875 eV.
+DOS done for BaHfS3. Bandgap=0.9274519085884094 eV, Fermi=-7.5955963134765625 eV.
+DOS done for BaHfS3. Bandgap=0.9356356859207153 eV, Fermi=-7.54559326171875 eV.
+DOS done for BaHfS3. Bandgap=0.9165283441543579 eV, Fermi=-7.5955963134765625 eV.
+DOS done for BaHfS3. Bandgap=0.8876453638076782 eV, Fermi=-7.5955963134765625 eV.
+DOS done for BaHfS3. Bandgap=0.9166063666343689 eV, Fermi=-7.54559326171875 eV.
+DOS done for BaHfS3. Bandgap=0.9176137447357178 eV, Fermi=-7.54559326171875 eV.

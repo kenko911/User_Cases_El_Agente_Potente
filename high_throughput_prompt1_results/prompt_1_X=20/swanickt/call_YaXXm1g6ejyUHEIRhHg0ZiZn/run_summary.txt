@@ -1,0 +1,43 @@
+[Phase stability] Queried 57 MP entries for Ba-S-Zr (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'BaZrS3' (repeats=10, batch_size=10)
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.721989 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.701004 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.722857 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.715878 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.709078 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.718958 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.715126 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.717644 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.715540 eV.
+Relaxation done for BaS3Zr (steps≤1000, fmax=0.1). Energy: -31.706366 eV.
+[Phase stability] Built phase diagram from 57 ML-relaxed MP entries.
+[Phase stability] BaS3Zr passed: e_above_hull=0.0381 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0424 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0379 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0393 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0407 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0387 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0395 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0390 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0394 eV/atom
+[Phase stability] BaS3Zr passed: e_above_hull=0.0412 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS and band gap are requested after phase stability screening, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures, so only MLFFDensityOfStates is needed.
+DOS done for BaS3Zr. Bandgap=0.6046732664108276 eV, Fermi=-8.145599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic density of states and band gap are requested after phase stability screening, so only MLFFDensityOfStates is required.
+DOS done for BaS3Zr. Bandgap=0.5924060344696045 eV, Fermi=-8.195602416992188 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening. No other properties are needed.
+DOS done for BaS3Zr. Bandgap=0.5801708698272705 eV, Fermi=-8.145599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening, so only MLFFDensityOfStates is needed. No other properties are requested.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening, so only MLFFDensityOfStates is required.
+DOS done for BaS3Zr. Bandgap=0.5872507095336914 eV, Fermi=-8.095596313476562 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening. No other properties are needed.
+DOS done for BaS3Zr. Bandgap=0.5440686941146851 eV, Fermi=-8.095596313476562 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures. No other properties are mentioned.
+DOS done for BaS3Zr. Bandgap=0.5910452604293823 eV, Fermi=-8.095596313476562 eV.
+DOS done for BaS3Zr. Bandgap=0.5826490521430969 eV, Fermi=-8.145599365234375 eV.
+DOS done for BaS3Zr. Bandgap=0.5722416639328003 eV, Fermi=-8.195602416992188 eV.
+DOS done for BaS3Zr. Bandgap=0.6017465591430664 eV, Fermi=-8.145599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening, so only MLFFDensityOfStates is needed.
+DOS done for BaS3Zr. Bandgap=0.5762643218040466 eV, Fermi=-8.195602416992188 eV.

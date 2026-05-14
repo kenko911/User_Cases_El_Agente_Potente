@@ -1,0 +1,165 @@
+{
+  "chemical_formula": "CsGeI3",
+  "phase_stability_assessment": {
+    "cutoff": 0.1,
+    "e_above_hull": 0.0034404754638686086,
+    "instance_iri": "https://elagente.ca/ontomlff/MLFFPhaseStabilityAssessment_70067676-dfa1-407e-ad9f-6c04de00164f",
+    "passed": true,
+    "phase_diagram_iri": "https://elagente.ca/ontomlff/MLFFPhaseDiagram_5606ad90-a17f-4fda-8595-6dc5d3aa9d7a",
+    "rdfs_comment": [],
+    "rdfs_label": []
+  },
+  "properties": {
+    "density_of_states": {
+      "band_gap": 1.624082088470459,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5eecfe59-cb7c-4c6b-848e-f5cd89f58b69",
+      "fermi_level": -7.1956024169921875,
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFDensityOfStatesResult_f9213edc-02bf-4b23-9cf8-197f15ad3f4f",
+      "rdfs_comment": [],
+      "rdfs_label": []
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 6.047907791875684,
+      "alpha": 90.07428291065496,
+      "b": 6.089379074403307,
+      "beta": 90.13712646562529,
+      "c": 6.067538882078969,
+      "gamma": 90.77984581633207,
+      "matrix": [
+        [
+          6.047578352788266,
+          -0.05344310074066536,
+          -0.033594060495854214
+        ],
+        [
+          -0.02904828465069189,
+          6.089308308561066,
+          0.0042464371995060415
+        ],
+        [
+          0.019076334338610272,
+          -0.012006765945822784,
+          6.067497014138517
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 223.43380589211122
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.20619813086045785,
+          0.18686848776249876,
+          0.31814232462006464
+        ],
+        "label": "Cs",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cs",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2476401329040525,
+          1.1230601072311404,
+          1.924194097518921
+        ]
+      },
+      {
+        "abc": [
+          0.7371691431090638,
+          0.6492769136673527,
+          0.8115438301843367
+        ],
+        "label": "Ge",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ge",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.45470905303955,
+          3.90450668334961,
+          4.902032375335693
+        ]
+      },
+      {
+        "abc": [
+          0.19993518707230218,
+          0.6783050741353807,
+          0.838661937384467
+        ],
+        "label": "I",
+        "properties": {},
+        "species": [
+          {
+            "element": "I",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2054187059402464,
+          4.109653949737549,
+          5.084742546081543
+        ]
+      },
+      {
+        "abc": [
+          0.7093846633242399,
+          0.1936771387233209,
+          0.8254027910184838
+        ],
+        "label": "I",
+        "properties": {},
+        "species": [
+          {
+            "element": "I",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.30017900466919,
+          1.1315376758575442,
+          4.985120296478272
+        ]
+      },
+      {
+        "abc": [
+          0.7019382016345734,
+          0.6708961310880026,
+          0.35199144008333366
+        ],
+        "label": "I",
+        "properties": {},
+        "species": [
+          {
+            "element": "I",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.232252597808838,
+          4.043553352355957,
+          2.1149749755859375
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5eecfe59-cb7c-4c6b-848e-f5cd89f58b69"
+}

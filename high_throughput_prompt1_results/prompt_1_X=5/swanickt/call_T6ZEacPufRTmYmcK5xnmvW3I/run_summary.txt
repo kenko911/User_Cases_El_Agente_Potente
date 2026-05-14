@@ -1,0 +1,23 @@
+[Phase stability] Queried 38 MP entries for Hf-S-Sr (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'SrHfS3' (repeats=10, batch_size=10)
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.294159 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.285767 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.337498 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.320797 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.338375 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.344158 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.289577 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.290215 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.296898 eV.
+Relaxation done for HfS3Sr (steps≤1000, fmax=0.1). Energy: -32.329651 eV.
+[Phase stability] Built phase diagram from 38 ML-relaxed MP entries.
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1349 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1366 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1262 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1296 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1261 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1248 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1358 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1357 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1343 eV/atom exceeds cutoff=0.1 eV/atom
+[Phase stability] Filtered HfS3Sr: e_above_hull=0.1277 eV/atom exceeds cutoff=0.1 eV/atom

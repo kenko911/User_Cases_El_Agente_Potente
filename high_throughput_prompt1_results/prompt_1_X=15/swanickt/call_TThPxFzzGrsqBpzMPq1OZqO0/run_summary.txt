@@ -1,0 +1,43 @@
+[Phase stability] Queried 43 MP entries for Cs-Ge-I (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'CsGeI3' (repeats=10, batch_size=10)
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.108346 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.129469 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.126687 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.115863 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.128846 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.125395 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.125037 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.132112 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.125942 eV.
+Relaxation done for CsGeI3 (steps≤1000, fmax=0.1). Energy: -14.122131 eV.
+[Phase stability] Built phase diagram from 43 ML-relaxed MP entries.
+[Phase stability] CsGeI3 passed: e_above_hull=0.0062 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0020 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0025 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0047 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0021 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0028 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0028 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0015 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0027 eV/atom
+[Phase stability] CsGeI3 passed: e_above_hull=0.0034 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested after phase stability filtering. No other property nodes are relevant for this query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested after structure relaxation and phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS are requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap and DOS band gap are requested for the filtered, relaxed structures. No other properties are mentioned or implied.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic bandgap/DOS is requested after phase stability filtering, so only MLFFDensityOfStates is needed for the property calculation stage.
+DOS done for CsGeI3. Bandgap=1.605413794517517 eV, Fermi=-7.2455902099609375 eV.
+DOS done for CsGeI3. Bandgap=1.5584694147109985 eV, Fermi=-7.29559326171875 eV.
+DOS done for CsGeI3. Bandgap=1.4562147855758667 eV, Fermi=-7.29559326171875 eV.
+DOS done for CsGeI3. Bandgap=1.5771446228027344 eV, Fermi=-7.2455902099609375 eV.
+DOS done for CsGeI3. Bandgap=1.6116869449615479 eV, Fermi=-7.0955963134765625 eV.
+DOS done for CsGeI3. Bandgap=1.5911309719085693 eV, Fermi=-7.29559326171875 eV.
+DOS done for CsGeI3. Bandgap=1.6403367519378662 eV, Fermi=-7.2455902099609375 eV.
+DOS done for CsGeI3. Bandgap=1.5922762155532837 eV, Fermi=-7.1956024169921875 eV.
+DOS done for CsGeI3. Bandgap=1.624082088470459 eV, Fermi=-7.1956024169921875 eV.
+DOS done for CsGeI3. Bandgap=1.5299856662750244 eV, Fermi=-7.29559326171875 eV.

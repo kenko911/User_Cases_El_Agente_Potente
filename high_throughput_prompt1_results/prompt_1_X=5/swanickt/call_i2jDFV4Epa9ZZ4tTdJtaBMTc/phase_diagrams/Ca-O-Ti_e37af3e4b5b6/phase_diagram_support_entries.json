@@ -1,0 +1,1136 @@
+[
+  {
+    "composition": "Ca",
+    "energy_eV": -7.074588298797607,
+    "energy_per_atom_eV": -1.7686470746994019,
+    "entry_id": "mp-1008498-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.885466575622559,
+    "energy_per_atom_eV": -4.942733287811279,
+    "entry_id": "mp-1009490-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "CaTi4O9",
+    "energy_eV": -238.78297424316406,
+    "energy_per_atom_eV": -8.527963365827288,
+    "entry_id": "mp-1040874-GGA",
+    "num_atoms": 28
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.74785614013672,
+    "energy_per_atom_eV": -8.895654678344727,
+    "entry_id": "mp-1041565-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -113.9544906616211,
+    "energy_per_atom_eV": -8.139606475830078,
+    "entry_id": "mp-1041570-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "Ca2Ti3O8",
+    "energy_eV": -212.69796752929688,
+    "energy_per_atom_eV": -8.18069105881911,
+    "entry_id": "mp-1042523-GGA",
+    "num_atoms": 26
+  },
+  {
+    "composition": "CaTi2O5",
+    "energy_eV": -133.29220581054688,
+    "energy_per_atom_eV": -8.33076286315918,
+    "entry_id": "mp-1042976-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "CaTi3O7",
+    "energy_eV": -373.26318359375,
+    "energy_per_atom_eV": -8.483254172585227,
+    "entry_id": "mp-1043835-GGA",
+    "num_atoms": 44
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -344.8775939941406,
+    "energy_per_atom_eV": -8.211371285574776,
+    "entry_id": "mp-1044645-GGA",
+    "num_atoms": 42
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -114.46092224121094,
+    "energy_per_atom_eV": -8.175780160086495,
+    "entry_id": "mp-1044676-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -315.4932861328125,
+    "energy_per_atom_eV": -8.763702392578125,
+    "entry_id": "mp-1044853-GGA",
+    "num_atoms": 36
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -344.0459899902344,
+    "energy_per_atom_eV": -8.191571190243675,
+    "entry_id": "mp-1044919-GGA",
+    "num_atoms": 42
+  },
+  {
+    "composition": "Ca2Ti9O13",
+    "energy_eV": -203.3336181640625,
+    "energy_per_atom_eV": -8.472234090169271,
+    "entry_id": "mp-1045642-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "Ti9O13",
+    "energy_eV": -194.2731475830078,
+    "energy_per_atom_eV": -8.830597617409445,
+    "entry_id": "mp-1045643-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "Ti5O7",
+    "energy_eV": -211.62120056152344,
+    "energy_per_atom_eV": -8.81755002339681,
+    "entry_id": "mp-1045759-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "CaTiO2",
+    "energy_eV": -120.14342498779297,
+    "energy_per_atom_eV": -7.5089640617370605,
+    "entry_id": "mp-1045983-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "CaTi4O6",
+    "energy_eV": -186.08248901367188,
+    "energy_per_atom_eV": -8.458294955166904,
+    "entry_id": "mp-1046693-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "Ti2O3",
+    "energy_eV": -176.8977508544922,
+    "energy_per_atom_eV": -8.84488754272461,
+    "entry_id": "mp-1046793-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -115.1593017578125,
+    "energy_per_atom_eV": -8.225664411272321,
+    "entry_id": "mp-1047318-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -3.8423283100128174,
+    "energy_per_atom_eV": -1.9211641550064087,
+    "entry_id": "mp-1064227-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -19.737716674804688,
+    "energy_per_atom_eV": -4.934429168701172,
+    "entry_id": "mp-1066100-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "TiO",
+    "energy_eV": -53.19889450073242,
+    "energy_per_atom_eV": -8.866482416788736,
+    "entry_id": "mp-1071163-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "Ti4O5",
+    "energy_eV": -80.3822021484375,
+    "energy_per_atom_eV": -8.931355794270834,
+    "entry_id": "mp-10734-GGA",
+    "num_atoms": 9
+  },
+  {
+    "composition": "Ca2Ti2O5",
+    "energy_eV": -140.24789428710938,
+    "energy_per_atom_eV": -7.7915496826171875,
+    "entry_id": "mp-1076151-GGA",
+    "num_atoms": 18
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -15.326131820678711,
+    "energy_per_atom_eV": -1.9157664775848389,
+    "entry_id": "mp-1078638-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "CaTi2O6",
+    "energy_eV": -69.76301574707031,
+    "energy_per_atom_eV": -7.751446194118923,
+    "entry_id": "mp-1079825-GGA",
+    "num_atoms": 9
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -39.46110153198242,
+    "energy_per_atom_eV": -4.932637691497803,
+    "entry_id": "mp-1087546-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "Ca2TiO4",
+    "energy_eV": -52.797794342041016,
+    "energy_per_atom_eV": -7.542542048863003,
+    "entry_id": "mp-1096860-GGA",
+    "num_atoms": 7
+  },
+  {
+    "composition": "Ca2Ti2O5",
+    "energy_eV": -281.34967041015625,
+    "energy_per_atom_eV": -7.81526862250434,
+    "entry_id": "mp-1096895-GGA",
+    "num_atoms": 36
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.726806640625,
+    "energy_per_atom_eV": -8.893900553385416,
+    "entry_id": "mp-1101022-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Ti2O3",
+    "energy_eV": -88.68412017822266,
+    "energy_per_atom_eV": -8.868412017822266,
+    "entry_id": "mp-1101295-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "Ti11O14",
+    "energy_eV": -223.16429138183594,
+    "energy_per_atom_eV": -8.926571655273438,
+    "entry_id": "mp-1101463-GGA",
+    "num_atoms": 25
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -143.57672119140625,
+    "energy_per_atom_eV": -8.97354507446289,
+    "entry_id": "mp-1147-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -19.81652069091797,
+    "energy_per_atom_eV": -4.954130172729492,
+    "entry_id": "mp-1180036-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "CaTi2O6",
+    "energy_eV": -279.28448486328125,
+    "energy_per_atom_eV": -7.757902357313368,
+    "entry_id": "mp-1181883-GGA",
+    "num_atoms": 36
+  },
+  {
+    "composition": "CaO10",
+    "energy_eV": -111.10198211669922,
+    "energy_per_atom_eV": -5.050090096213601,
+    "entry_id": "mp-1182183-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "CaO10",
+    "energy_eV": -112.52047729492188,
+    "energy_per_atom_eV": -5.114567149769176,
+    "entry_id": "mp-1182382-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -1.9172297716140747,
+    "energy_per_atom_eV": -1.9172297716140747,
+    "entry_id": "mp-1183455-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -7.694908142089844,
+    "energy_per_atom_eV": -1.923727035522461,
+    "entry_id": "mp-1183484-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "Ti2O3",
+    "energy_eV": -178.0238037109375,
+    "energy_per_atom_eV": -8.901190185546875,
+    "entry_id": "mp-1188323-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "CaTi2O6",
+    "energy_eV": -139.64410400390625,
+    "energy_per_atom_eV": -7.758005777994792,
+    "entry_id": "mp-1188864-GGA",
+    "num_atoms": 18
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -211.21788024902344,
+    "energy_per_atom_eV": -8.800745010375977,
+    "entry_id": "mp-1190753-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -425.720947265625,
+    "energy_per_atom_eV": -8.869186401367188,
+    "entry_id": "mp-1201727-GGA",
+    "num_atoms": 48
+  },
+  {
+    "composition": "TiO",
+    "energy_eV": -88.75471496582031,
+    "energy_per_atom_eV": -8.875471496582032,
+    "entry_id": "mp-1203-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "CaTiO3",
+    "energy_eV": -160.88011169433594,
+    "energy_per_atom_eV": -8.044005584716796,
+    "entry_id": "mp-1205364-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "Ti2O",
+    "energy_eV": -26.01103973388672,
+    "energy_per_atom_eV": -8.67034657796224,
+    "entry_id": "mp-1215-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "Ti4O3",
+    "energy_eV": -60.890506744384766,
+    "energy_per_atom_eV": -8.698643820626396,
+    "entry_id": "mp-1217135-GGA",
+    "num_atoms": 7
+  },
+  {
+    "composition": "Ti2O",
+    "energy_eV": -77.31168365478516,
+    "energy_per_atom_eV": -8.590187072753906,
+    "entry_id": "mp-1217152-GGA",
+    "num_atoms": 9
+  },
+  {
+    "composition": "Ti3O4",
+    "energy_eV": -62.64940643310547,
+    "energy_per_atom_eV": -8.949915204729352,
+    "entry_id": "mp-1217157-GGA",
+    "num_atoms": 7
+  },
+  {
+    "composition": "Ti4O7",
+    "energy_eV": -197.37103271484375,
+    "energy_per_atom_eV": -8.971410577947443,
+    "entry_id": "mp-12205-GGA",
+    "num_atoms": 22
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -763.9343872070312,
+    "energy_per_atom_eV": -7.639343872070312,
+    "entry_id": "mp-1244924-GGA",
+    "num_atoms": 100
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -767.7080078125,
+    "energy_per_atom_eV": -7.677080078125,
+    "entry_id": "mp-1245006-GGA",
+    "num_atoms": 100
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -917.9927368164062,
+    "energy_per_atom_eV": -8.826853238619291,
+    "entry_id": "mp-1245051-GGA",
+    "num_atoms": 104
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -915.6484985351562,
+    "energy_per_atom_eV": -8.804312485914965,
+    "entry_id": "mp-1245086-GGA",
+    "num_atoms": 104
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -789.468994140625,
+    "energy_per_atom_eV": -8.77187771267361,
+    "entry_id": "mp-1245098-GGA",
+    "num_atoms": 90
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -788.2633056640625,
+    "energy_per_atom_eV": -8.758481174045139,
+    "entry_id": "mp-1245134-GGA",
+    "num_atoms": 90
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -912.8712158203125,
+    "energy_per_atom_eV": -8.777607844426083,
+    "entry_id": "mp-1245135-GGA",
+    "num_atoms": 104
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -765.3167724609375,
+    "energy_per_atom_eV": -7.653167724609375,
+    "entry_id": "mp-1245164-GGA",
+    "num_atoms": 100
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -762.966064453125,
+    "energy_per_atom_eV": -7.62966064453125,
+    "entry_id": "mp-1245170-GGA",
+    "num_atoms": 100
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -914.5936889648438,
+    "energy_per_atom_eV": -8.79417008620042,
+    "entry_id": "mp-1245292-GGA",
+    "num_atoms": 104
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -789.4088134765625,
+    "energy_per_atom_eV": -8.771209038628472,
+    "entry_id": "mp-1245308-GGA",
+    "num_atoms": 90
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -765.5978393554688,
+    "energy_per_atom_eV": -7.655978393554688,
+    "entry_id": "mp-1245320-GGA",
+    "num_atoms": 100
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -788.5891723632812,
+    "energy_per_atom_eV": -8.76210191514757,
+    "entry_id": "mp-1245321-GGA",
+    "num_atoms": 90
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -39.652076721191406,
+    "energy_per_atom_eV": -4.956509590148926,
+    "entry_id": "mp-12957-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -3.8433003425598145,
+    "energy_per_atom_eV": -1.9216501712799072,
+    "entry_id": "mp-132-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -457.22235107421875,
+    "energy_per_atom_eV": -8.164684840611049,
+    "entry_id": "mp-1327109-GGA",
+    "num_atoms": 56
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -210.63987731933594,
+    "energy_per_atom_eV": -8.77666155497233,
+    "entry_id": "mp-1341203-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "CaTi5O7",
+    "energy_eV": -220.59727478027344,
+    "energy_per_atom_eV": -8.484510568472055,
+    "entry_id": "mp-1341727-GGA",
+    "num_atoms": 26
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -230.94027709960938,
+    "energy_per_atom_eV": -8.247867039271764,
+    "entry_id": "mp-1345518-GGA",
+    "num_atoms": 28
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -231.62503051757812,
+    "energy_per_atom_eV": -8.272322518484932,
+    "entry_id": "mp-1345605-GGA",
+    "num_atoms": 28
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -420.2062072753906,
+    "energy_per_atom_eV": -8.75429598490397,
+    "entry_id": "mp-1350429-GGA",
+    "num_atoms": 48
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -342.7930908203125,
+    "energy_per_atom_eV": -8.161740257626487,
+    "entry_id": "mp-1354855-GGA",
+    "num_atoms": 42
+  },
+  {
+    "composition": "Ca2Ti2O5",
+    "energy_eV": -140.47103881835938,
+    "energy_per_atom_eV": -7.803946601019965,
+    "entry_id": "mp-1370679-GGA",
+    "num_atoms": 18
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -315.353759765625,
+    "energy_per_atom_eV": -8.75982666015625,
+    "entry_id": "mp-1380335-GGA",
+    "num_atoms": 36
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -105.47827911376953,
+    "energy_per_atom_eV": -8.789856592814127,
+    "entry_id": "mp-1386640-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "CaTi4O8",
+    "energy_eV": -111.40685272216797,
+    "energy_per_atom_eV": -8.569757901705229,
+    "entry_id": "mp-1387047-GGA",
+    "num_atoms": 13
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -113.76792907714844,
+    "energy_per_atom_eV": -8.126280648367745,
+    "entry_id": "mp-1390652-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "Ca2Ti3O8",
+    "energy_eV": -107.55181884765625,
+    "energy_per_atom_eV": -8.273216834435097,
+    "entry_id": "mp-1397126-GGA",
+    "num_atoms": 13
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.52230834960938,
+    "energy_per_atom_eV": -8.876859029134115,
+    "entry_id": "mp-1400963-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "CaTi2O5",
+    "energy_eV": -134.264404296875,
+    "energy_per_atom_eV": -8.391525268554688,
+    "entry_id": "mp-1403610-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -105.04695892333984,
+    "energy_per_atom_eV": -8.753913243611654,
+    "entry_id": "mp-1408285-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -26.369182586669922,
+    "energy_per_atom_eV": -8.789727528889975,
+    "entry_id": "mp-1426806-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.8362808227539,
+    "energy_per_atom_eV": -8.903023401896158,
+    "entry_id": "mp-1439-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "CaTi4O8",
+    "energy_eV": -111.1377182006836,
+    "energy_per_atom_eV": -8.54905524620643,
+    "entry_id": "mp-1443685-GGA",
+    "num_atoms": 13
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -115.17290496826172,
+    "energy_per_atom_eV": -8.226636069161552,
+    "entry_id": "mp-1445898-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "Ca4Ti3O10",
+    "energy_eV": -534.4254150390625,
+    "energy_per_atom_eV": -7.859197279986213,
+    "entry_id": "mp-15315-GGA",
+    "num_atoms": 68
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -1.9186609983444214,
+    "energy_per_atom_eV": -1.9186609983444214,
+    "entry_id": "mp-166-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -213.90243530273438,
+    "energy_per_atom_eV": -8.912601470947266,
+    "entry_id": "mp-1840-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -1.9214398860931396,
+    "energy_per_atom_eV": -1.9214398860931396,
+    "entry_id": "mp-21-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.9912109375,
+    "energy_per_atom_eV": -8.915934244791666,
+    "entry_id": "mp-2420244-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -104.98009490966797,
+    "energy_per_atom_eV": -8.74834124247233,
+    "entry_id": "mp-25262-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -26.35820770263672,
+    "energy_per_atom_eV": -8.78606923421224,
+    "entry_id": "mp-25433-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "Ti3O",
+    "energy_eV": -135.71572875976562,
+    "energy_per_atom_eV": -8.482233047485352,
+    "entry_id": "mp-2591-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "CaO",
+    "energy_eV": -12.80473518371582,
+    "energy_per_atom_eV": -6.40236759185791,
+    "entry_id": "mp-2605-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -53.36747360229492,
+    "energy_per_atom_eV": -8.89457893371582,
+    "entry_id": "mp-2657-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "Ti9O17",
+    "energy_eV": -465.48052978515625,
+    "energy_per_atom_eV": -8.951548649714542,
+    "entry_id": "mp-27273-GGA",
+    "num_atoms": 52
+  },
+  {
+    "composition": "Ti6O11",
+    "energy_eV": -304.7415771484375,
+    "energy_per_atom_eV": -8.962987563189339,
+    "entry_id": "mp-30524-GGA",
+    "num_atoms": 34
+  },
+  {
+    "composition": "Ti9O8",
+    "energy_eV": -296.72705078125,
+    "energy_per_atom_eV": -8.727266199448529,
+    "entry_id": "mp-32544-GGA",
+    "num_atoms": 34
+  },
+  {
+    "composition": "Ti9O10",
+    "energy_eV": -165.51806640625,
+    "energy_per_atom_eV": -8.711477179276315,
+    "entry_id": "mp-32813-GGA",
+    "num_atoms": 19
+  },
+  {
+    "composition": "CaTiO3",
+    "energy_eV": -80.33639526367188,
+    "energy_per_atom_eV": -8.033639526367187,
+    "entry_id": "mp-3442-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "CaTi2O4",
+    "energy_eV": -116.14691162109375,
+    "energy_per_atom_eV": -8.296207972935267,
+    "entry_id": "mp-3463-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -53.59149169921875,
+    "energy_per_atom_eV": -8.931915283203125,
+    "entry_id": "mp-34688-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -53.599090576171875,
+    "energy_per_atom_eV": -8.933181762695312,
+    "entry_id": "mp-390-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "CaTiO3",
+    "energy_eV": -161.1634063720703,
+    "energy_per_atom_eV": -8.058170318603516,
+    "entry_id": "mp-4019-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "Ca3Ti2O7",
+    "energy_eV": -186.6406707763672,
+    "energy_per_atom_eV": -7.776694615681966,
+    "entry_id": "mp-4163-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.28854370117188,
+    "energy_per_atom_eV": -8.857378641764322,
+    "entry_id": "mp-430-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Ca",
+    "energy_eV": -1.9254177808761597,
+    "energy_per_atom_eV": -1.9254177808761597,
+    "entry_id": "mp-45-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Ti2O3",
+    "energy_eV": -89.66899108886719,
+    "energy_per_atom_eV": -8.966899108886718,
+    "entry_id": "mp-458-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -15.596229553222656,
+    "energy_per_atom_eV": -7.798114776611328,
+    "entry_id": "mp-46-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "CaO",
+    "energy_eV": -25.343482971191406,
+    "energy_per_atom_eV": -6.335870742797852,
+    "entry_id": "mp-545512-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -79.87321472167969,
+    "energy_per_atom_eV": -8.874801635742188,
+    "entry_id": "mp-553432-GGA",
+    "num_atoms": 9
+  },
+  {
+    "composition": "Ti3O",
+    "energy_eV": -67.20683288574219,
+    "energy_per_atom_eV": -8.400854110717773,
+    "entry_id": "mp-554032-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "Ti6O",
+    "energy_eV": -114.87483215332031,
+    "energy_per_atom_eV": -8.205345153808594,
+    "entry_id": "mp-554098-GGA",
+    "num_atoms": 14
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -107.21560668945312,
+    "energy_per_atom_eV": -8.93463389078776,
+    "entry_id": "mp-554278-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "CaTiO3",
+    "energy_eV": -80.44332122802734,
+    "energy_per_atom_eV": -8.044332122802734,
+    "entry_id": "mp-556003-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -143.5172576904297,
+    "energy_per_atom_eV": -8.969828605651855,
+    "entry_id": "mp-556480-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "Ti7O13",
+    "energy_eV": -358.32769775390625,
+    "energy_per_atom_eV": -8.958192443847656,
+    "entry_id": "mp-556724-GGA",
+    "num_atoms": 40
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -143.53683471679688,
+    "energy_per_atom_eV": -8.971052169799805,
+    "entry_id": "mp-556754-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "Ti3O",
+    "energy_eV": -203.48776245117188,
+    "energy_per_atom_eV": -8.478656768798828,
+    "entry_id": "mp-557812-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "Ti6O11",
+    "energy_eV": -305.000732421875,
+    "energy_per_atom_eV": -8.970609777113971,
+    "entry_id": "mp-559964-GGA",
+    "num_atoms": 34
+  },
+  {
+    "composition": "Ti8O15",
+    "energy_eV": -411.9073486328125,
+    "energy_per_atom_eV": -8.954507578974185,
+    "entry_id": "mp-565700-GGA",
+    "num_atoms": 46
+  },
+  {
+    "composition": "CaTiO3",
+    "energy_eV": -39.98223114013672,
+    "energy_per_atom_eV": -7.996446228027343,
+    "entry_id": "mp-5827-GGA",
+    "num_atoms": 5
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.866623878479004,
+    "energy_per_atom_eV": -4.933311939239502,
+    "entry_id": "mp-607540-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.860219955444336,
+    "energy_per_atom_eV": -4.930109977722168,
+    "entry_id": "mp-610917-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -9.861823081970215,
+    "energy_per_atom_eV": -4.930911540985107,
+    "entry_id": "mp-611836-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "CaO2",
+    "energy_eV": -17.496013641357422,
+    "energy_per_atom_eV": -5.832004547119141,
+    "entry_id": "mp-634859-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "Ti13O22",
+    "energy_eV": -627.0399169921875,
+    "energy_per_atom_eV": -8.957713099888393,
+    "entry_id": "mp-656852-GGA",
+    "num_atoms": 70
+  },
+  {
+    "composition": "TiO",
+    "energy_eV": -366.6418151855469,
+    "energy_per_atom_eV": -8.729567028227306,
+    "entry_id": "mp-673667-GGA",
+    "num_atoms": 42
+  },
+  {
+    "composition": "Ti10O11",
+    "energy_eV": -370.4706115722656,
+    "energy_per_atom_eV": -8.820728846958705,
+    "entry_id": "mp-684733-GGA",
+    "num_atoms": 42
+  },
+  {
+    "composition": "TiO",
+    "energy_eV": -104.77367401123047,
+    "energy_per_atom_eV": -8.731139500935873,
+    "entry_id": "mp-685151-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -7.725327968597412,
+    "energy_per_atom_eV": -7.725327968597412,
+    "entry_id": "mp-6985-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -23.357383728027344,
+    "energy_per_atom_eV": -7.785794576009114,
+    "entry_id": "mp-72-GGA",
+    "num_atoms": 3
+  },
+  {
+    "composition": "O2",
+    "energy_eV": -39.51405334472656,
+    "energy_per_atom_eV": -4.93925666809082,
+    "entry_id": "mp-723285-GGA",
+    "num_atoms": 8
+  },
+  {
+    "composition": "Ti",
+    "energy_eV": -7.666015148162842,
+    "energy_per_atom_eV": -7.666015148162842,
+    "entry_id": "mp-73-GGA",
+    "num_atoms": 1
+  },
+  {
+    "composition": "Ti5O9",
+    "energy_eV": -251.08197021484375,
+    "energy_per_atom_eV": -8.967213221958705,
+    "entry_id": "mp-748-GGA",
+    "num_atoms": 28
+  },
+  {
+    "composition": "Ti8O13",
+    "energy_eV": -188.1016082763672,
+    "energy_per_atom_eV": -8.957219441731771,
+    "entry_id": "mp-752989-GGA",
+    "num_atoms": 21
+  },
+  {
+    "composition": "Ti10O13",
+    "energy_eV": -205.69493103027344,
+    "energy_per_atom_eV": -8.943257870881453,
+    "entry_id": "mp-753593-GGA",
+    "num_atoms": 23
+  },
+  {
+    "composition": "TiO",
+    "energy_eV": -35.132843017578125,
+    "energy_per_atom_eV": -8.783210754394531,
+    "entry_id": "mp-754333-GGA",
+    "num_atoms": 4
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.72554779052734,
+    "energy_per_atom_eV": -8.893795649210611,
+    "entry_id": "mp-754672-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "CaTiO3",
+    "energy_eV": -80.3134536743164,
+    "energy_per_atom_eV": -8.03134536743164,
+    "entry_id": "mp-754701-GGA",
+    "num_atoms": 10
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -213.1656494140625,
+    "energy_per_atom_eV": -8.881902058919271,
+    "entry_id": "mp-754769-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "TiO",
+    "energy_eV": -17.647104263305664,
+    "energy_per_atom_eV": -8.823552131652832,
+    "entry_id": "mp-755264-GGA",
+    "num_atoms": 2
+  },
+  {
+    "composition": "TiO",
+    "energy_eV": -53.37464141845703,
+    "energy_per_atom_eV": -8.895773569742838,
+    "entry_id": "mp-755300-GGA",
+    "num_atoms": 6
+  },
+  {
+    "composition": "Ti3O4",
+    "energy_eV": -62.44538879394531,
+    "energy_per_atom_eV": -8.920769827706474,
+    "entry_id": "mp-755875-GGA",
+    "num_atoms": 7
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -211.75047302246094,
+    "energy_per_atom_eV": -8.822936375935873,
+    "entry_id": "mp-756587-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -212.67822265625,
+    "energy_per_atom_eV": -8.861592610677084,
+    "entry_id": "mp-756655-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "Ti11O14",
+    "energy_eV": -223.19268798828125,
+    "energy_per_atom_eV": -8.92770751953125,
+    "entry_id": "mp-759754-GGA",
+    "num_atoms": 25
+  },
+  {
+    "composition": "Ti5O8",
+    "energy_eV": -349.3387451171875,
+    "energy_per_atom_eV": -8.957403720953526,
+    "entry_id": "mp-759920-GGA",
+    "num_atoms": 39
+  },
+  {
+    "composition": "Ti19O30",
+    "energy_eV": -438.9649963378906,
+    "energy_per_atom_eV": -8.958469313018176,
+    "entry_id": "mp-760075-GGA",
+    "num_atoms": 49
+  },
+  {
+    "composition": "Ti11O18",
+    "energy_eV": -259.66278076171875,
+    "energy_per_atom_eV": -8.953888991783405,
+    "entry_id": "mp-760747-GGA",
+    "num_atoms": 29
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -79.88392639160156,
+    "energy_per_atom_eV": -8.875991821289062,
+    "entry_id": "mp-766454-GGA",
+    "num_atoms": 9
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -320.2292785644531,
+    "energy_per_atom_eV": -8.895257737901476,
+    "entry_id": "mp-775938-GGA",
+    "num_atoms": 36
+  },
+  {
+    "composition": "Ti2O3",
+    "energy_eV": -267.2762756347656,
+    "energy_per_atom_eV": -8.909209187825521,
+    "entry_id": "mp-776456-GGA",
+    "num_atoms": 30
+  },
+  {
+    "composition": "Ti2O3",
+    "energy_eV": -178.3534698486328,
+    "energy_per_atom_eV": -8.917673492431641,
+    "entry_id": "mp-776655-GGA",
+    "num_atoms": 20
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -479.4277648925781,
+    "energy_per_atom_eV": -8.878291942455151,
+    "entry_id": "mp-777129-GGA",
+    "num_atoms": 54
+  },
+  {
+    "composition": "Ti4O7",
+    "energy_eV": -390.9317321777344,
+    "energy_per_atom_eV": -8.884812094948508,
+    "entry_id": "mp-778663-GGA",
+    "num_atoms": 44
+  },
+  {
+    "composition": "Ti7O8",
+    "energy_eV": -132.41578674316406,
+    "energy_per_atom_eV": -8.827719116210938,
+    "entry_id": "mp-779692-GGA",
+    "num_atoms": 15
+  },
+  {
+    "composition": "Ti3O5",
+    "energy_eV": -143.51620483398438,
+    "energy_per_atom_eV": -8.969762802124023,
+    "entry_id": "mp-8057-GGA",
+    "num_atoms": 16
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -212.232666015625,
+    "energy_per_atom_eV": -8.843027750651041,
+    "entry_id": "mp-849533-GGA",
+    "num_atoms": 24
+  },
+  {
+    "composition": "Ti6O",
+    "energy_eV": -57.467369079589844,
+    "energy_per_atom_eV": -8.20962415422712,
+    "entry_id": "mp-882-GGA",
+    "num_atoms": 7
+  },
+  {
+    "composition": "TiO2",
+    "energy_eV": -106.53813934326172,
+    "energy_per_atom_eV": -8.878178278605143,
+    "entry_id": "mp-9173-GGA",
+    "num_atoms": 12
+  },
+  {
+    "composition": "Ti3O2",
+    "energy_eV": -87.25550842285156,
+    "energy_per_atom_eV": -8.725550842285156,
+    "entry_id": "mp-978968-GGA",
+    "num_atoms": 10
+  }
+]

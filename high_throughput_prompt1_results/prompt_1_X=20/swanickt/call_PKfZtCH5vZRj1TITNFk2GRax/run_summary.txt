@@ -1,0 +1,23 @@
+[Phase stability] Queried 39 MP entries for Ca-Hf-S (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'CaHfS3' (repeats=10, batch_size=10)
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.333031 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.150841 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.157600 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.137741 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.105194 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.423565 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.452545 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.435692 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.434433 eV.
+Relaxation done for CaHfS3 (steps≤1000, fmax=0.1). Energy: -32.434105 eV.
+[Phase stability] Built phase diagram from 39 ML-relaxed MP entries.
+[Phase stability] Filtered CaHfS3: e_above_hull=0.1869 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.2234 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.2220 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.2260 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.2325 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.1689 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.1631 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.1664 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.1667 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered CaHfS3: e_above_hull=0.1667 eV/atom exceeds cutoff=0.05 eV/atom

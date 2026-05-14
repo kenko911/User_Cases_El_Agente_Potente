@@ -1,0 +1,165 @@
+{
+  "chemical_formula": "CaO3Ti",
+  "phase_stability_assessment": {
+    "cutoff": 0.1,
+    "e_above_hull": 0.057830047607421164,
+    "instance_iri": "https://elagente.ca/ontomlff/MLFFPhaseStabilityAssessment_303cd599-b07d-497f-a6d6-982e965fef6e",
+    "passed": true,
+    "phase_diagram_iri": "https://elagente.ca/ontomlff/MLFFPhaseDiagram_00df0a10-b07e-4993-885d-151ccc3c15b5",
+    "rdfs_comment": [],
+    "rdfs_label": []
+  },
+  "properties": {
+    "density_of_states": {
+      "band_gap": 1.8564075231552124,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_23933a8c-b59e-4924-a601-d715cd20ffeb",
+      "fermi_level": -9.745590209960938,
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFDensityOfStatesResult_c808bf58-6b0d-447f-9663-79019160a681",
+      "rdfs_comment": [],
+      "rdfs_label": []
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.9412751352932873,
+      "alpha": 89.90698456693198,
+      "b": 3.898996499690014,
+      "beta": 90.23877480680662,
+      "c": 3.882357566488675,
+      "gamma": 90.4196739755171,
+      "matrix": [
+        [
+          3.9411750286195364,
+          -0.006887648173293812,
+          -0.02723318140719368
+        ],
+        [
+          -0.021726042422120825,
+          3.8989349416338666,
+          0.0028292370303058863
+        ],
+        [
+          0.010653114388904917,
+          0.003544981641309554,
+          3.882341332022578
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 59.65806428114705
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          -0.03515781585090404,
+          0.9359975115637534,
+          0.699789488960689
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -0.15144369006156919,
+          3.6521162986755367,
+          2.7204272747039795
+        ]
+      },
+      {
+        "abc": [
+          0.499188574793217,
+          0.4200065702716225,
+          0.19102647583806556
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9602994918823242,
+          1.6348172426223753,
+          0.7292237877845764
+        ]
+      },
+      {
+        "abc": [
+          0.5487920057924601,
+          0.9005825975628917,
+          0.17654562128252238
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.1452000141143794,
+          3.5081589221954346,
+          0.6730129718780518
+        ]
+      },
+      {
+        "abc": [
+          0.5466870738947223,
+          0.39386942612252723,
+          0.6803903619575012
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.1532804965972896,
+          1.5343178510665894,
+          2.6277339458465576
+        ]
+      },
+      {
+        "abc": [
+          0.0336368423605756,
+          0.3922892066766337,
+          0.17522820406559586
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.12591251730918887,
+          1.5298995971679688,
+          0.6804895401000977
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_23933a8c-b59e-4924-a601-d715cd20ffeb"
+}

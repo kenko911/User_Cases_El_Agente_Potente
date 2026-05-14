@@ -1,0 +1,23 @@
+[Phase stability] Queried 50 MP entries for S-Sr-Zr (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'SrZrS3' (repeats=10, batch_size=10)
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.889755 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.736244 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.847965 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.755735 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.888229 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.864046 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.880333 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.858610 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.840937 eV.
+Relaxation done for S3SrZr (steps≤1000, fmax=0.1). Energy: -30.881443 eV.
+[Phase stability] Built phase diagram from 50 ML-relaxed MP entries.
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1210 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1518 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1294 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1478 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1213 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1262 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1229 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1273 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1308 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered S3SrZr: e_above_hull=0.1227 eV/atom exceeds cutoff=0.05 eV/atom

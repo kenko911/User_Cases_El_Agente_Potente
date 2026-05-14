@@ -1,0 +1,43 @@
+[Phase stability] Queried 81 MP entries for Ba-O-Sn (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'BaSnO3' (repeats=10, batch_size=10)
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.437334 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.435053 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.444420 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.430336 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.434731 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.445848 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.432753 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.443508 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.438005 eV.
+Relaxation done for BaO3Sn (steps≤1000, fmax=0.1). Energy: -31.433046 eV.
+[Phase stability] Built phase diagram from 81 ML-relaxed MP entries.
+[Phase stability] BaO3Sn passed: e_above_hull=0.0038 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0042 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0024 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0052 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0043 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0020 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0047 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0026 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0036 eV/atom
+[Phase stability] BaO3Sn passed: e_above_hull=0.0046 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only MLFFDensityOfStates is needed. No other property nodes are relevant to the user's query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS/bandgap is requested for the stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only MLFFDensityOfStates is relevant.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only the MLFFDensityOfStates node should be visited.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and bandgap are requested for the stable structures, so only the MLFFDensityOfStates node is needed. No other property nodes are relevant to the user query.
+DOS done for BaO3Sn. Bandgap=2.2375893592834473 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.190236806869507 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.197873592376709 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.230111598968506 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.1831846237182617 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.225849151611328 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.241960048675537 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.212477207183838 eV, Fermi=-10.145599365234375 eV.
+DOS done for BaO3Sn. Bandgap=2.2074546813964844 eV, Fermi=-10.145599365234375 eV.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures, so only MLFFDensityOfStates is required.
+DOS done for BaO3Sn. Bandgap=2.19748592376709 eV, Fermi=-10.145599365234375 eV.

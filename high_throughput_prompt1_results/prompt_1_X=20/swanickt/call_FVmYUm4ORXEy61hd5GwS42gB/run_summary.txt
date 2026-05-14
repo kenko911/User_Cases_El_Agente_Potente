@@ -1,0 +1,23 @@
+[Phase stability] Queried 27 MP entries for Se-Sr-Zr (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'SrZrSe3' (repeats=10, batch_size=10)
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.831676 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.885534 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.643059 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.909184 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.902355 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.842751 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.879923 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.850658 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.924168 eV.
+Relaxation done for Se3SrZr (steps≤1000, fmax=0.1). Energy: -27.899338 eV.
+[Phase stability] Built phase diagram from 27 ML-relaxed MP entries.
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.2007 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1899 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.2384 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1852 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1866 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1984 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1910 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1968 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1822 eV/atom exceeds cutoff=0.05 eV/atom
+[Phase stability] Filtered Se3SrZr: e_above_hull=0.1871 eV/atom exceeds cutoff=0.05 eV/atom

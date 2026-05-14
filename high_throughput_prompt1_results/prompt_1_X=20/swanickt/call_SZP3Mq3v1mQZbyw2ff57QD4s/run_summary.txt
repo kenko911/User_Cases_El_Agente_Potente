@@ -1,0 +1,43 @@
+[Phase stability] Queried 42 MP entries for Cl-Rb-Sn (DFT hull threshold=0.2 eV/atom)
+Generated 10 structure(s) via 'ALEX_MP20_CSP' for 'RbSnCl3' (repeats=10, batch_size=10)
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.185946 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.197609 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.190748 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.181963 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.177658 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.195629 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.187077 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.189152 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.185436 eV.
+Relaxation done for Cl3RbSn (steps≤1000, fmax=0.1). Energy: -17.189615 eV.
+[Phase stability] Built phase diagram from 42 ML-relaxed MP entries.
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0352 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0329 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0342 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0360 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0368 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0332 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0349 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0345 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0353 eV/atom
+[Phase stability] Cl3RbSn passed: e_above_hull=0.0345 eV/atom
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures. No other properties are mentioned.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the screened, stable structures. No other properties are mentioned.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for stable structures, so MLFFDensityOfStates is the only relevant node. All other property nodes are not required for this workflow.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) The workflow requires only electronic DOS and band gap for stable structures, so only MLFFDensityOfStates is needed. No other property nodes are relevant to the user query.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures after relaxation and phase stability screening. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested after phase stability screening. No other properties (e.g., MD, phonons, elasticity) are mentioned or implied.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only electronic DOS and band gap are requested for stable structures, so only MLFFDensityOfStates is needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures. No other properties are needed.
+[AI routing] Properties: ['MLFFDensityOfStates'] (conf=1.00) Only the electronic density of states and band gap are requested for the stable structures. No other properties are mentioned.
+DOS done for Cl3RbSn. Bandgap=1.8393055200576782 eV, Fermi=-9.195602416992188 eV.
+DOS done for Cl3RbSn. Bandgap=1.8471187353134155 eV, Fermi=-9.395599365234375 eV.
+DOS done for Cl3RbSn. Bandgap=1.8682762384414673 eV, Fermi=-9.495590209960938 eV.
+DOS done for Cl3RbSn. Bandgap=1.7385573387145996 eV, Fermi=-9.195602416992188 eV.
+DOS done for Cl3RbSn. Bandgap=1.76417875289917 eV, Fermi=-9.29559326171875 eV.
+DOS done for Cl3RbSn. Bandgap=1.9800387620925903 eV, Fermi=-9.645599365234375 eV.
+DOS done for Cl3RbSn. Bandgap=1.9555518627166748 eV, Fermi=-9.445602416992188 eV.
+DOS done for Cl3RbSn. Bandgap=1.8564115762710571 eV, Fermi=-9.395599365234375 eV.
+DOS done for Cl3RbSn. Bandgap=1.791675329208374 eV, Fermi=-9.145599365234375 eV.
+DOS done for Cl3RbSn. Bandgap=1.9933557510375977 eV, Fermi=-9.445602416992188 eV.
