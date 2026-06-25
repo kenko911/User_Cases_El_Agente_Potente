@@ -1,0 +1,34 @@
+{
+    "Z_ads": 4,
+    "n_equil": 5000,
+    "n_equil_completed": 5000,
+    "n_prod": 5000,
+    "n_prod_completed": 5000,
+    "moves": {
+        "insertion": {
+            "attempted": 2480,
+            "accepted": 305
+        },
+        "deletion": {
+            "attempted": 2537,
+            "accepted": 301
+        },
+        "translation": {
+            "attempted": 2484,
+            "accepted": 1836
+        },
+        "rotation": {
+            "attempted": 2499,
+            "accepted": 984
+        }
+    },
+    "rejections": {
+        "insertion_vdw": 1716,
+        "insertion_acc": 459,
+        "insertion_acc_100": 0,
+        "insertion_rej_100": 1716,
+        "deletion_acc": 2226,
+        "deletion_acc_100": 0,
+        "deletion_rej_100": 0
+    }
+}
