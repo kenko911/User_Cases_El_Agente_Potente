@@ -1,0 +1,79 @@
+{
+  "chemical_formula": "Te",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.29541133646411605,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_49ebc28f-fe3a-4694-b294-a6fe45cefd41",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_f89ebc38-558f-474f-890e-96e3797a4527",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.05249283829240799,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.1486724450003829
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.19944752,
+      "alpha": 90.0,
+      "b": 3.19944752,
+      "beta": 90.0,
+      "c": 3.19944752,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          3.19944752,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.19944752,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.19944752
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 32.75103074447921
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.5000000174773827,
+          0.5000000174773827,
+          0.5000000174773827
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.5997238159179685,
+          1.5997238159179685,
+          1.5997238159179685
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_49ebc28f-fe3a-4694-b294-a6fe45cefd41"
+}

@@ -1,0 +1,199 @@
+{
+  "chemical_formula": "InPPd5",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.9789659600475484,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_50f80027-278a-409a-8019-f399588356e2",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_88bd9bb1-f475-4939-b70e-0a01ac9a913b",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.34018950303607387,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.9146248300626456
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.99004471,
+      "alpha": 90.0,
+      "b": 3.99004471,
+      "beta": 90.0,
+      "c": 7.03315496,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          3.99004471,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.99004471,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.03315496
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 111.97103962257408
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.4999999854401425,
+          0.4999999854401425,
+          0.0
+        ],
+        "label": "In",
+        "properties": {},
+        "species": [
+          {
+            "element": "In",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9950222969055176,
+          1.9950222969055176,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.500000000316147
+        ],
+        "label": "P",
+        "properties": {},
+        "species": [
+          {
+            "element": "P",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          3.5165774822235107
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Pd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.4999999854401425,
+          0.0,
+          0.700594965931865
+        ],
+        "label": "Pd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9950222969055176,
+          0.0,
+          4.9273929595947275
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999854401425,
+          0.700594965931865
+        ],
+        "label": "Pd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          1.9950222969055176,
+          4.9273929595947275
+        ]
+      },
+      {
+        "abc": [
+          0.4999999854401425,
+          0.0,
+          0.2994050347004291
+        ],
+        "label": "Pd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9950222969055176,
+          0.0,
+          2.1057620048522954
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999854401425,
+          0.2994050347004291
+        ],
+        "label": "Pd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          1.9950222969055176,
+          2.1057620048522954
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_50f80027-278a-409a-8019-f399588356e2"
+}

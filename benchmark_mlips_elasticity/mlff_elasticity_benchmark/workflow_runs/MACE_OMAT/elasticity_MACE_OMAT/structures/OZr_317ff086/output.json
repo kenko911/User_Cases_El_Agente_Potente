@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "OZr",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.3487943573093766,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_eb047337-5ea4-45fc-8dd1-916d39000c9d",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_10bda530-3362-45aa-9b4a-667321587a8d",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": -0.05813131300087626,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": -0.17693584188800338
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.2289917580344953,
+      "alpha": 60.00009306066998,
+      "b": 3.2290028076561668,
+      "beta": 60.00012292941269,
+      "c": 3.2290018111287444,
+      "gamma": 60.00010430924454,
+      "matrix": [
+        [
+          3.228991758034413,
+          2.5048482197937583e-07,
+          -6.845127603800163e-07
+        ],
+        [
+          1.61449609594348,
+          2.7964015248232545,
+          -9.195577463437608e-07
+        ],
+        [
+          1.614495392421028,
+          0.9321333808174384,
+          2.636472014736708
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 23.80617935223365
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          1.584787947627134e-08,
+          -3.7399062130217237e-08,
+          4.027104860781391e-08
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.580945483529832e-08,
+          -6.704480171038088e-08,
+          1.0617351620112458e-07
+        ]
+      },
+      {
+        "abc": [
+          0.4999999686249864,
+          0.5000000093006677,
+          0.4999999823958589
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.2289915084838876,
+          1.8642675876617432,
+          1.318235158920288
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_eb047337-5ea4-45fc-8dd1-916d39000c9d"
+}

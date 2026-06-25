@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ba2Pt4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.6228882201354262,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0777921d-1bd9-403d-8ab5-0e2b360c2af6",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_2e9a0bb4-49e9-4082-ab2d-2f0f483b9a9f",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.3061565268137423,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.7891736832040839
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.71585414,
+      "alpha": 59.99999999999999,
+      "b": 5.715854139999999,
+      "beta": 59.99999999999999,
+      "c": 5.71585414,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          5.71585414,
+          0.0,
+          0.0
+        ],
+        [
+          2.8579270700000006,
+          4.950074889566455,
+          0.0
+        ],
+        [
+          2.8579270700000006,
+          1.6500249631888186,
+          4.666975362391588
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 132.0469624450854
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.4999999905592179,
+          0.5000000141073807,
+          0.5000000145498813
+        ],
+        "label": "Ba",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ba",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.7158541679382315,
+          3.300050020217895,
+          2.3334877490997314
+        ]
+      },
+      {
+        "abc": [
+          0.7499999887648908,
+          0.7499999574284959,
+          0.7499999962816639
+        ],
+        "label": "Ba",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ba",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.573781013488768,
+          4.950074672698975,
+          3.500231504440308
+        ]
+      },
+      {
+        "abc": [
+          0.12499999763980447,
+          0.12500000352684518,
+          0.12500000363747032
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4289635419845579,
+          0.8250125050544738,
+          0.5833719372749329
+        ]
+      },
+      {
+        "abc": [
+          0.6249999792278277,
+          0.12500000352684518,
+          0.12500000363747032
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.286890506744385,
+          0.8250125050544738,
+          0.5833719372749329
+        ]
+      },
+      {
+        "abc": [
+          0.1249999917527637,
+          0.6250000177448511,
+          0.12500000363747032
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.857927083969116,
+          3.3000500202178955,
+          0.5833719372749329
+        ]
+      },
+      {
+        "abc": [
+          0.12499999589933161,
+          0.12500000767341304,
+          0.6250000054157726
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.8579270839691158,
+          1.6500250101089478,
+          2.9168596267700195
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0777921d-1bd9-403d-8ab5-0e2b360c2af6"
+}

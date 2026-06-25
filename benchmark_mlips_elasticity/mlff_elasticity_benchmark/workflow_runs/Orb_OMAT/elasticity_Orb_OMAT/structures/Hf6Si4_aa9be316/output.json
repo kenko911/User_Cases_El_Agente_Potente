@@ -1,0 +1,259 @@
+{
+  "chemical_formula": "Hf6Si4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.8094276020514566,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_4ee66d21-dcd2-4ceb-95c2-f8cd5eb250d8",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_791450f2-4753-44b8-9213-4c96abb46528",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.5855325505256324,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.4153209038506547
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 7.03298492,
+      "alpha": 90.0,
+      "b": 7.03298492,
+      "beta": 90.0,
+      "c": 3.66754291,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          7.03298492,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          7.03298492,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.66754291
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 181.4072234275917
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.8265016590606893,
+          0.6734983689799614,
+          0.5000000033288943
+        ],
+        "label": "Hf",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hf",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.812773704528809,
+          4.736703872680664,
+          1.8337714672088625
+        ]
+      },
+      {
+        "abc": [
+          0.3265016723138427,
+          0.8265016590606893,
+          0.5000000033288943
+        ],
+        "label": "Hf",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hf",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.296281337738037,
+          5.812773704528809,
+          1.8337714672088625
+        ]
+      },
+      {
+        "abc": [
+          0.17349834833305935,
+          0.3265016723138427,
+          0.5000000033288943
+        ],
+        "label": "Hf",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hf",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2202112674713135,
+          2.296281337738037,
+          1.8337714672088625
+        ]
+      },
+      {
+        "abc": [
+          0.6734983689799614,
+          0.17349834833305935,
+          0.5000000033288943
+        ],
+        "label": "Hf",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hf",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.736703872680664,
+          1.2202112674713135,
+          1.8337714672088625
+        ]
+      },
+      {
+        "abc": [
+          0.49999998674684654,
+          0.49999998674684654,
+          0.0
+        ],
+        "label": "Hf",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hf",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.5164923667907715,
+          3.5164923667907715,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Hf",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hf",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.12381807972680278,
+          0.6238181088487187,
+          0.0
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.8708106875419617,
+          4.387303352355957,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.6238181088487187,
+          0.8761819191919319,
+          0.0
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.387303352355957,
+          6.162174224853516,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.37618193244508535,
+          0.12381807972680278,
+          0.0
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.6456818580627437,
+          0.8708106875419617,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.8761819191919319,
+          0.37618193244508535,
+          0.0
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.162174224853516,
+          2.6456818580627437,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_4ee66d21-dcd2-4ceb-95c2-f8cd5eb250d8"
+}

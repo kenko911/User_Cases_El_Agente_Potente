@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "Dy2Li2Se4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.35909147348745885,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ad924cab-ca2e-4781-8f6e-6dbae159abc2",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_db55691d-5a20-4811-ace2-26f8dbf47b8f",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.2321923712687996,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.5730612729713238
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 7.06726987,
+      "alpha": 132.51125135,
+      "b": 7.06726987,
+      "beta": 132.51125135,
+      "c": 7.067269869999999,
+      "gamma": 69.42274967,
+      "matrix": [
+        [
+          7.06726987,
+          0.0,
+          0.0
+        ],
+        [
+          2.4839330021272463,
+          6.616372137081842,
+          0.0
+        ],
+        [
+          -4.7756014361793095,
+          -3.30818606862106,
+          4.024405455909414
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 188.1799413028988
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7499999966650834,
+          0.25000000146119333,
+          0.5000000029223868
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.533634901046753,
+          -4.006994236407654e-11,
+          2.012202739715576
+        ]
+      },
+      {
+        "abc": [
+          0.49999999382124055,
+          0.4999999978370043,
+          0.0
+        ],
+        "label": "Dy",
+        "properties": {},
+        "species": [
+          {
+            "element": "Dy",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.775601387023927,
+          3.3081860542297363,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.2500000000927847,
+          0.7499999993042538,
+          0.5000000029223868
+        ],
+        "label": "Dy",
+        "properties": {},
+        "species": [
+          {
+            "element": "Dy",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2419664859771729,
+          3.3081860542297363,
+          2.012202739715576
+        ]
+      },
+      {
+        "abc": [
+          0.7459314706204268,
+          0.7459314338099988,
+          0.0
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          7.124542713165283,
+          4.935359954833984,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.25406855709019927,
+          0.2540685438466904,
+          0.0
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.426660299301148,
+          1.6810120344161987,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.004068546493944152,
+          0.5040685453139399,
+          0.5000000029223868
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.106974720954895,
+          1.6810120344161985,
+          2.012202739715576
+        ]
+      },
+      {
+        "abc": [
+          0.49593144315637244,
+          0.9959314352772483,
+          0.5000000029223868
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.590907573699952,
+          4.935359954833984,
+          2.012202739715576
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ad924cab-ca2e-4781-8f6e-6dbae159abc2"
+}

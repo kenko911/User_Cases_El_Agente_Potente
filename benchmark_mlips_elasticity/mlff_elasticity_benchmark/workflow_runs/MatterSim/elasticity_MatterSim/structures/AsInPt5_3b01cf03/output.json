@@ -1,0 +1,199 @@
+{
+  "chemical_formula": "AsInPt5",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.1792885307618683,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_c7c179e9-f3dc-4169-939d-27ed1c0c3d05",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_bee8c1e7-85be-4381-a396-425fe33dbd78",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.3437664088181944,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.9399649548403604
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.06541779,
+      "alpha": 90.0,
+      "b": 4.06541779,
+      "beta": 90.0,
+      "c": 7.15735205,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          4.06541779,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.06541779,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.15735205
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 118.29400782373463
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.4999999971185059,
+          0.4999999971185059,
+          0.0
+        ],
+        "label": "In",
+        "properties": {},
+        "species": [
+          {
+            "element": "In",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.0327088832855225,
+          2.0327088832855225,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.4999999944583282
+        ],
+        "label": "As",
+        "properties": {},
+        "species": [
+          {
+            "element": "As",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          3.578675985336304
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999971185059,
+          0.2856008490633103
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.0327088832855225,
+          2.0441458225250244
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999971185059,
+          0.7143991731643495
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.0327088832855225,
+          5.113206386566162
+        ]
+      },
+      {
+        "abc": [
+          0.4999999971185059,
+          0.0,
+          0.2856008490633103
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.0327088832855225,
+          0.0,
+          2.0441458225250244
+        ]
+      },
+      {
+        "abc": [
+          0.4999999971185059,
+          0.0,
+          0.7143991731643495
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.0327088832855225,
+          0.0,
+          5.113206386566162
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_c7c179e9-f3dc-4169-939d-27ed1c0c3d05"
+}

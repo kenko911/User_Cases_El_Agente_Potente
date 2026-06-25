@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "Fe2Se2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.3942804573167684,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_45fda111-091c-4ea6-946f-829246048d16",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_01a1cb77-e125-43d6-a33c-727315905bcb",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.22741865602479933,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.5722353107157985
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.8666665689433173,
+      "alpha": 89.99996816506484,
+      "b": 3.866667002760089,
+      "beta": 90.00002447160344,
+      "c": 5.056933371815264,
+      "gamma": 119.99995592472192,
+      "matrix": [
+        [
+          3.8666665689428714,
+          1.6636644298798208e-06,
+          -8.244419549653298e-07
+        ],
+        [
+          -1.9333323661913135,
+          3.348632507766362,
+          1.0733845234893102e-06
+        ],
+        [
+          -1.081639542743707e-06,
+          9.989710993169622e-07,
+          5.05693337181505
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 65.47741899377229
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          8.076903537908107e-07,
+          1.5224621499500962e-06,
+          0.5000034448061836
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -3.611795591496046e-07,
+          5.597656581812771e-06,
+          2.5284841060638428
+        ]
+      },
+      {
+        "abc": [
+          -7.039652554464911e-07,
+          -5.964685001622676e-07,
+          2.3704305210173305e-08
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.568827087794489e-06,
+          -1.9973549569840547e-06,
+          1.1987103221144935e-07
+        ]
+      },
+      {
+        "abc": [
+          0.33333350558218144,
+          0.6666674839323928,
+          0.24999541185358615
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -5.722355926035875e-07,
+          2.2324252128601074,
+          1.26421058177948
+        ]
+      },
+      {
+        "abc": [
+          0.6666663727057413,
+          0.333331562734194,
+          0.7500011269403317
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9333350658416746,
+          1.1162067651748657,
+          3.792705535888672
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_45fda111-091c-4ea6-946f-829246048d16"
+}

@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "Cr6Si2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.4554398407465932,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_3714bdd8-ffc5-4f1f-8c45-b30b54aec4da",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_2a71f348-daaa-40cc-a1a9-2f542955802c",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.7813194030763384,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.9881873295226007
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.51651709,
+      "alpha": 90.0,
+      "b": 4.51651709,
+      "beta": 90.0,
+      "c": 4.51651709,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          4.51651709,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.51651709,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.51651709
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 92.13210071613562
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.5000000080065011,
+          0.25000000400325056
+        ],
+        "label": "Cr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.258258581161499,
+          1.1291292905807495
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.5000000080065011,
+          0.749999985615677
+        ],
+        "label": "Cr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.258258581161499,
+          3.3873877525329594
+        ]
+      },
+      {
+        "abc": [
+          0.5000000080065011,
+          0.749999985615677,
+          0.0
+        ],
+        "label": "Cr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.258258581161499,
+          3.3873877525329594,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000080065011,
+          0.25000000400325056,
+          0.0
+        ],
+        "label": "Cr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.258258581161499,
+          1.1291292905807495,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.749999985615677,
+          0.0,
+          0.5000000080065011
+        ],
+        "label": "Cr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.3873877525329594,
+          0.0,
+          2.258258581161499
+        ]
+      },
+      {
+        "abc": [
+          0.25000000400325056,
+          0.0,
+          0.5000000080065011
+        ],
+        "label": "Cr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.1291292905807495,
+          0.0,
+          2.258258581161499
+        ]
+      },
+      {
+        "abc": [
+          0.5000000080065011,
+          0.5000000080065011,
+          0.5000000080065011
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.258258581161499,
+          2.258258581161499,
+          2.258258581161499
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_3714bdd8-ffc5-4f1f-8c45-b30b54aec4da"
+}

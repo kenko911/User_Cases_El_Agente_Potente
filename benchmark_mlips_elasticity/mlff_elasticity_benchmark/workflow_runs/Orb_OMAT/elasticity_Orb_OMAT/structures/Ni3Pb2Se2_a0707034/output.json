@@ -1,0 +1,199 @@
+{
+  "chemical_formula": "Ni3Pb2Se2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5010206659814451,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_61d4938c-7fd6-41d3-bed8-fbc674061a85",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_452b98b9-a4ae-472a-87bd-3805c2bda69a",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.19230785340953316,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.5114824227916273
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.85318773,
+      "alpha": 58.459645369999976,
+      "b": 5.85318773,
+      "beta": 58.459645369999976,
+      "c": 5.853187599999999,
+      "gamma": 58.45965380999999,
+      "matrix": [
+        [
+          5.85318773,
+          0.0,
+          0.0
+        ],
+        [
+          3.0617957237792814,
+          4.988508148582045,
+          0.0
+        ],
+        [
+          3.061796390612511,
+          1.7132725285535628,
+          4.685072591340463
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 136.79791047618252
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          7.039747318717264e-09,
+          1.0516747506485461e-08,
+          0.49999998193060285
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.5308982133865356,
+          0.8566362857818604,
+          2.342536211013794
+        ]
+      },
+      {
+        "abc": [
+          0.4999999855664254,
+          0.0,
+          0.0
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.926593780517578,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          -5.0272011761232535e-09,
+          0.500000007608012,
+          0.0
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.530897855758667,
+          2.4942541122436523,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Pb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000079455298,
+          0.5000000181247596,
+          0.49999998193060285
+        ],
+        "label": "Pb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.98838996887207,
+          3.350890398025513,
+          2.342536211013794
+        ]
+      },
+      {
+        "abc": [
+          0.7220985411913221,
+          0.7220985973985352,
+          0.7220985867824579
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.648415565490723,
+          4.839346408843994,
+          3.383084297180176
+        ]
+      },
+      {
+        "abc": [
+          0.2779014164891118,
+          0.2779014213734748,
+          0.27790142796773076
+        ],
+        "label": "Se",
+        "properties": {},
+        "species": [
+          {
+            "element": "Se",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.3283641338348393,
+          1.8624343872070312,
+          1.3019883632659912
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_61d4938c-7fd6-41d3-bed8-fbc674061a85"
+}

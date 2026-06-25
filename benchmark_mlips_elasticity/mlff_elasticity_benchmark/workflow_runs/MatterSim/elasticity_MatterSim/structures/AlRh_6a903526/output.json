@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "AlRh",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.2363166025734087,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_343b6ad0-429a-456b-964b-e40c5c4eee9b",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_1cf26475-f364-4357-82e6-f1e332cdbe6a",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.5537488692777298,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.445441199010122
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.00654663,
+      "alpha": 90.0,
+      "b": 3.00654663,
+      "beta": 90.0,
+      "c": 3.00654663,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          3.00654663,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.00654663,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.00654663
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 27.17714501585706
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000175888757,
+          0.5000000175888757,
+          0.5000000175888757
+        ],
+        "label": "Rh",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rh",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.503273367881775,
+          1.503273367881775,
+          1.503273367881775
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_343b6ad0-429a-456b-964b-e40c5c4eee9b"
+}

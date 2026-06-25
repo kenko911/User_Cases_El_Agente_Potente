@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "KMg6V",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.1772815505109832,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ed9a249f-08ba-4f5c-a002-d92533ad3dc9",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_a1d8d01c-1210-4b0c-a3fc-f3e5d96391f6",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.08528595954215996,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.22049893792012584
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 7.64373428,
+      "alpha": 90.0,
+      "b": 7.64373428,
+      "beta": 90.0,
+      "c": 3.47560186,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          7.64373428,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          7.64373428,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.47560186
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 203.06785593564285
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.500000011454391,
+          0.500000011454391,
+          0.5000000074152336
+        ],
+        "label": "K",
+        "properties": {},
+        "species": [
+          {
+            "element": "K",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.8218672275543213,
+          3.8218672275543213,
+          1.7378009557723997
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.500000011454391,
+          0.5000000074152336
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          3.8218672275543213,
+          1.7378009557723997
+        ]
+      },
+      {
+        "abc": [
+          0.500000011454391,
+          0.0,
+          0.5000000074152336
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.8218672275543213,
+          0.0,
+          1.7378009557723997
+        ]
+      },
+      {
+        "abc": [
+          0.7897525039355947,
+          0.2102474877818128,
+          0.0
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.036658287048341,
+          1.6070759296417236,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.2102474877818128,
+          0.7897525039355947,
+          0.0
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6070759296417236,
+          6.036658287048341,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7897525039355947,
+          0.7897525039355947,
+          0.0
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.036658287048341,
+          6.036658287048341,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.2102474877818128,
+          0.2102474877818128,
+          0.0
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6070759296417236,
+          1.6070759296417236,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.5000000074152336
+        ],
+        "label": "V",
+        "properties": {},
+        "species": [
+          {
+            "element": "V",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          1.7378009557723997
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ed9a249f-08ba-4f5c-a002-d92533ad3dc9"
+}

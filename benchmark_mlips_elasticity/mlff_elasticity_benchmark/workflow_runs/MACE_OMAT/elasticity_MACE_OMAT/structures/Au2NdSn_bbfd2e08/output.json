@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "Au2NdSn",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5208165142453229,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5bab5d74-3967-471d-8a6e-42cd53483aec",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_c8458064-622a-4600-85d4-8d697f4ed9c1",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.13883801925753111,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.382523339174555
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.083282497314949,
+      "alpha": 60.000012892873144,
+      "b": 5.083280629846552,
+      "beta": 60.00000408045366,
+      "c": 5.083282779758977,
+      "gamma": 59.999993532947194,
+      "matrix": [
+        [
+          5.083282497314943,
+          -2.522133719178599e-07,
+          -1.6337667425763106e-08
+        ],
+        [
+          2.5416410302343304,
+          4.402249747027362,
+          -2.4037218842596643e-07
+        ],
+        [
+          2.5416411625100896,
+          1.4674162793478387,
+          4.150483524016624
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 92.87902303213698
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.49999994961192834,
+          0.5000002240368531,
+          0.49999992618509076
+        ],
+        "label": "Nd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Nd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.083282470703125,
+          2.9348337650299072,
+          2.0752413272857666
+        ]
+      },
+      {
+        "abc": [
+          -2.957280443774584e-08,
+          8.459353417246186e-08,
+          8.551151349257285e-09
+        ],
+        "label": "Sn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Sn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.641343640647392e-08,
+          3.8494997056659486e-07,
+          3.54913929356826e-08
+        ]
+      },
+      {
+        "abc": [
+          0.7500001403708395,
+          0.7500001052018566,
+          0.7499996882251385
+        ],
+        "label": "Au",
+        "properties": {},
+        "species": [
+          {
+            "element": "Au",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          7.6249237060546875,
+          4.402249336242675,
+          3.112861156463623
+        ]
+      },
+      {
+        "abc": [
+          0.25000011388075954,
+          0.24999955429061488,
+          0.25000033647570025
+        ],
+        "label": "Au",
+        "properties": {},
+        "species": [
+          {
+            "element": "Au",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.5416414737701416,
+          1.4674149751663208,
+          1.0376222133636475
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5bab5d74-3967-471d-8a6e-42cd53483aec"
+}

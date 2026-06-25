@@ -1,0 +1,239 @@
+{
+  "chemical_formula": "FeSb2Zr6",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.617157329142574,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_f1bdaada-8ce9-4996-8c1c-0905f371eb8e",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_818f4eb0-05ac-4bde-9a7b-9e4744688b26",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.3591691739931765,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.9024418019546335
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 7.84781488,
+      "alpha": 90.0,
+      "b": 7.847814879999999,
+      "beta": 90.0,
+      "c": 3.62245556,
+      "gamma": 119.99999496,
+      "matrix": [
+        [
+          7.84781488,
+          0.0,
+          0.0
+        ],
+        [
+          -3.923906842156794,
+          6.796407395442426,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.62245556
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 193.2107205341449
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.6001200990387889,
+          0.0,
+          0.5000000050965191
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.709631443023682,
+          0.0,
+          1.811227798461914
+        ]
+      },
+      {
+        "abc": [
+          0.9999999802188966,
+          0.24011670465754034,
+          0.0
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.905619144439696,
+          1.631930947303772,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7598832828030697,
+          0.7598832874728116,
+          0.0
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.981712102890015,
+          5.164476394653319,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.3998799297636082,
+          0.3998799387541427,
+          0.5000000050965191
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.5690920352935789,
+          2.7177469730377197,
+          1.811227798461914
+        ]
+      },
+      {
+        "abc": [
+          0.9999999905788208,
+          0.600120070916254,
+          0.5000000050965191
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.49299955368042,
+          4.078660488128661,
+          1.811227798461914
+        ]
+      },
+      {
+        "abc": [
+          0.24011671720898056,
+          0.0,
+          0.0
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.8843915462493896,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.5000000050965191
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          1.811227798461914
+        ]
+      },
+      {
+        "abc": [
+          0.333333000263875,
+          0.6666670005277656,
+          0.0
+        ],
+        "label": "Sb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Sb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -3.5253451645128076e-06,
+          4.530940532684326,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.666667005630766,
+          0.3333330091426311,
+          0.0
+        ],
+        "label": "Sb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Sb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.923911571502685,
+          2.2654669284820557,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_f1bdaada-8ce9-4996-8c1c-0905f371eb8e"
+}

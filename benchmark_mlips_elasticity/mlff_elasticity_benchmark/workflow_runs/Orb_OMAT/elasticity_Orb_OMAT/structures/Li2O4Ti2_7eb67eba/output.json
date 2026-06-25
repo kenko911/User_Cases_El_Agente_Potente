@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "Li2O4Ti2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.132239525079394,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_588f8bbf-95bc-49ef-9f2b-abac3353f95d",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_54a7ab90-e3d9-4238-b91a-2ebf363d8fb6",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.729248077826536,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.8010692040398906
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 2.87671852,
+      "alpha": 90.0,
+      "b": 2.87671852,
+      "beta": 90.0,
+      "c": 10.23207609,
+      "gamma": 120.00001877,
+      "matrix": [
+        [
+          2.87671852,
+          0.0,
+          0.0
+        ],
+        [
+          -1.4383600761492772,
+          2.4913108466529894,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          10.23207609
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 73.33124345023256
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          7.1400001253371926e-06
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          7.305702456505969e-05
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.49999285037826247
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          5.115964889526366
+        ]
+      },
+      {
+        "abc": [
+          0.6666670075613134,
+          0.33333299680856365,
+          0.7499999940711873
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4383604526519778,
+          0.8304361104965209,
+          7.6740570068359375
+        ]
+      },
+      {
+        "abc": [
+          0.3333329992338482,
+          0.6666669984676797,
+          0.24999999025669736
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.9824590250552786e-06,
+          1.6608747243881223,
+          2.558018922805786
+        ]
+      },
+      {
+        "abc": [
+          0.6666670075613134,
+          0.33333299680856365,
+          0.12939452343097266
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4383604526519778,
+          0.8304361104965209,
+          1.323974609375
+        ]
+      },
+      {
+        "abc": [
+          0.6666670075613134,
+          0.33333299680856365,
+          0.37060548038351726
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4383604526519778,
+          0.8304361104965209,
+          3.792063474655151
+        ]
+      },
+      {
+        "abc": [
+          0.3333329992338482,
+          0.6666669984676797,
+          0.870599845332968
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.9824590250552786e-06,
+          1.6608747243881223,
+          8.90804386138916
+        ]
+      },
+      {
+        "abc": [
+          0.3333329992338482,
+          0.6666669984676797,
+          0.6294001428094066
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.9824590250552786e-06,
+          1.6608747243881223,
+          6.440070152282714
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_588f8bbf-95bc-49ef-9f2b-abac3353f95d"
+}

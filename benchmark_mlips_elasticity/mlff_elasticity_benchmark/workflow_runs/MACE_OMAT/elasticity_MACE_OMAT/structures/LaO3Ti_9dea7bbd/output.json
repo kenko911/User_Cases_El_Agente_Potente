@@ -1,0 +1,159 @@
+{
+  "chemical_formula": "LaO3Ti",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.240650957822888,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_516860b4-540b-47b1-ac2c-7256cfbe2a18",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_3dff76bf-9446-4deb-9843-3b75e5013a6c",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.517495395835728,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.3629793453195913
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.95723052,
+      "alpha": 90.0,
+      "b": 3.95723052,
+      "beta": 90.0,
+      "c": 3.95723052,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          3.95723052,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.95723052,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.95723052
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 61.96893746588534
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "La",
+        "properties": {},
+        "species": [
+          {
+            "element": "La",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.500000006056272,
+          0.500000006056272,
+          0.500000006056272
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9786152839660645,
+          1.9786152839660645,
+          1.9786152839660645
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.500000006056272,
+          0.500000006056272
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          1.9786152839660645,
+          1.9786152839660645
+        ]
+      },
+      {
+        "abc": [
+          0.500000006056272,
+          0.0,
+          0.500000006056272
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9786152839660645,
+          0.0,
+          1.9786152839660645
+        ]
+      },
+      {
+        "abc": [
+          0.500000006056272,
+          0.500000006056272,
+          0.0
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9786152839660645,
+          1.9786152839660645,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_516860b4-540b-47b1-ac2c-7256cfbe2a18"
+}

@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "GaHfNi2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.9242951066899785,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_d8fc0074-994c-42eb-b6ec-e1918b0da4fa",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_aae00f3a-bb2a-4367-aaf6-e4408cb1eac2",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.2677041948804875,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.7324037280816729
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.3026353,
+      "alpha": 59.99999999999999,
+      "b": 4.3026353,
+      "beta": 59.99999999999999,
+      "c": 4.3026353,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          4.3026353,
+          0.0,
+          0.0
+        ],
+        [
+          2.1513176500000006,
+          3.7261914730196795,
+          0.0
+        ],
+        [
+          2.1513176500000006,
+          1.2420638243398934,
+          3.5130870114289405
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 56.32336714664192
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.49999995909144956,
+          0.5000000287757063,
+          0.5000000032445144
+        ],
+        "label": "Hf",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hf",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.302635192871094,
+          2.4841277599334717,
+          1.7565435171127317
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7499999602887908,
+          0.7500000168267846,
+          0.7499999879003132
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.45395278930664,
+          3.726191520690918,
+          2.6348152160644527
+        ]
+      },
+      {
+        "abc": [
+          0.24999997954572478,
+          0.25000001438785313,
+          0.2500000016222572
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.151317596435547,
+          1.2420638799667358,
+          0.8782717585563659
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_d8fc0074-994c-42eb-b6ec-e1918b0da4fa"
+}

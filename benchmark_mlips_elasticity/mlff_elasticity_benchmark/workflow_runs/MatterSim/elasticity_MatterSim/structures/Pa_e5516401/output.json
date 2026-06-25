@@ -1,0 +1,79 @@
+{
+  "chemical_formula": "Pa",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5847498140767595,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_8601f81b-3fea-40f3-a2fa-6b2ebdadacd8",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_ef6f7f53-9c0d-41e1-a9f2-88d2ef2fe845",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.1401964408587823,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.3894640597146481
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.29432807,
+      "alpha": 59.999999999999986,
+      "b": 3.2943280699999997,
+      "beta": 59.99999999999999,
+      "c": 3.29432807,
+      "gamma": 59.999999999999986,
+      "matrix": [
+        [
+          3.29432807,
+          0.0,
+          0.0
+        ],
+        [
+          1.6471640350000005,
+          2.8529717970201602,
+          0.0
+        ],
+        [
+          1.6471640350000005,
+          0.9509905990067203,
+          2.6898076056092344
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 25.280493205889478
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Pa",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pa",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_8601f81b-3fea-40f3-a2fa-6b2ebdadacd8"
+}

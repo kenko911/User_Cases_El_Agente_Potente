@@ -1,0 +1,4 @@
+2
+Lattice="3.30909696 0.0 0.0 0.0 3.30909696 0.0 0.0 0.0 3.30909696" Properties=species:S:1:pos:R:3 charge=0.0 multiplicity=1 spin=1 comment="relax_step=1 E=-6.013273 eV" pbc="T T T"
+Mg       1.65454853       1.65454853       1.65454853
+Au       0.00000000       0.00000000       0.00000000

@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "FeMn3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.5998933727690554,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ad036fb7-e6e4-4e12-b1ce-9f03a9ea633e",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_99aac103-7b63-4d9d-a612-0a5355c1c9a1",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.6788481057426407,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.7841947453224318
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.953705051357787,
+      "alpha": 89.99999996836117,
+      "b": 2.473059663068343,
+      "beta": 90.00000004267005,
+      "c": 3.4881295345974572,
+      "gamma": 90.00000007521389,
+      "matrix": [
+        [
+          4.953705051357787,
+          -3.252302176676466e-09,
+          -1.844846664035627e-09
+        ],
+        [
+          -1.6227982363819722e-09,
+          2.473059663068343,
+          6.826681369837507e-10
+        ],
+        [
+          -1.2986834920088606e-09,
+          9.632816278402904e-10,
+          3.4881295345974572
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 42.73240571413654
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.500000026188857,
+          -9.031840925944301e-11,
+          1.9486861654987787e-09
+        ],
+        "label": "Mn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.4768526554107666,
+          -1.8495139864072028e-09,
+          5.8748463871438625e-09
+        ]
+      },
+      {
+        "abc": [
+          0.7521924996924629,
+          0.4999999990087036,
+          0.4999999777617701
+        ],
+        "label": "Mn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.7261397838592534,
+          1.23652982711792,
+          1.7440646886825562
+        ]
+      },
+      {
+        "abc": [
+          0.24780748108099065,
+          0.49999999834539066,
+          0.49999997749500447
+        ],
+        "label": "Mn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2275651693344116,
+          1.23652982711792,
+          1.7440646886825564
+        ]
+      },
+      {
+        "abc": [
+          6.0698234564181414e-09,
+          5.358276641256627e-09,
+          -4.989410005087567e-10
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.006811510886109e-08,
+          1.3251337804831566e-08,
+          -1.7403708474361679e-09
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ad036fb7-e6e4-4e12-b1ce-9f03a9ea633e"
+}

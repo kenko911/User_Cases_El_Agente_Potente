@@ -1,0 +1,199 @@
+{
+  "chemical_formula": "Br4FeLi2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.20126036178909817,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_81ab74ab-54a2-4c4d-b8b3-83cadde89135",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_27aaf3d1-3975-42f8-accf-b49ccaa4ed63",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.09864054302865906,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.2543655764148428
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 6.79214203,
+      "alpha": 90.0,
+      "b": 6.79214203,
+      "beta": 90.0,
+      "c": 3.81047931,
+      "gamma": 109.22056050999998,
+      "matrix": [
+        [
+          6.79214203,
+          0.0,
+          0.0
+        ],
+        [
+          -2.2360106060472185,
+          6.4135364601237645,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.81047931
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 165.99076813687074
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.4999999914877867,
+          0.0,
+          0.5000000121431067
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.396070957183838,
+          0.0,
+          1.905239701271057
+        ]
+      },
+      {
+        "abc": [
+          6.290057449468293e-09,
+          0.5000000068987476,
+          0.5000000121431067
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.1180052757263184,
+          3.2067682743072514,
+          1.905239701271057
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.2328919939407146,
+          0.23289199238728467,
+          0.5000000121431067
+        ],
+        "label": "Br",
+        "properties": {},
+        "species": [
+          {
+            "element": "Br",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.0610865354537964,
+          1.4936612844467165,
+          1.905239701271057
+        ]
+      },
+      {
+        "abc": [
+          0.7671080130470448,
+          0.767108002823072,
+          0.5000000121431067
+        ],
+        "label": "Br",
+        "properties": {},
+        "species": [
+          {
+            "element": "Br",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.4950449466705327,
+          4.919875144958496,
+          1.905239701271057
+        ]
+      },
+      {
+        "abc": [
+          0.7607383655938352,
+          0.23926163741845338,
+          0.0
+        ],
+        "label": "Br",
+        "properties": {},
+        "species": [
+          {
+            "element": "Br",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.632051467895508,
+          1.534513235092163,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.23926163308105333,
+          0.760738339204765,
+          0.0
+        ],
+        "label": "Br",
+        "properties": {},
+        "species": [
+          {
+            "element": "Br",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -0.07592000067234017,
+          4.87902307510376,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_81ab74ab-54a2-4c4d-b8b3-83cadde89135"
+}

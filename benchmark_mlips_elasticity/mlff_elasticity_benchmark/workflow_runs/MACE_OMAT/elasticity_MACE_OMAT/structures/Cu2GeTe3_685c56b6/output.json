@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Cu2GeTe3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.3034305360842342,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_9079feb9-a505-4a36-b9ed-8c7c303758a9",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_2e18d883-ee0a-43db-8cce-d7a8fb1a5dae",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.16105272223962525,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.41052611387866256
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 7.38738155,
+      "alpha": 145.78379708000003,
+      "b": 7.38738155,
+      "beta": 132.21125716,
+      "c": 7.387381549999999,
+      "gamma": 60.080171920000005,
+      "matrix": [
+        [
+          7.38738155,
+          0.0,
+          0.0
+        ],
+        [
+          3.684735146643587,
+          6.402822273370538,
+          0.0
+        ],
+        [
+          -4.9633314201391086,
+          -4.1918024228209605,
+          3.5167513172205704
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 166.3426577868773
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.09498232561620135,
+          0.8323032246315526,
+          0.2626791261882046
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.4647240638732906,
+          4.227990627288818,
+          0.9237771630287169
+        ]
+      },
+      {
+        "abc": [
+          0.43037593364173465,
+          0.1676967974159333,
+          0.2626791261882046
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.4935059547424316,
+          -0.027366207912564132,
+          0.9237771630287169
+        ]
+      },
+      {
+        "abc": [
+          0.7391727397796629,
+          0.49999999233227194,
+          0.23917271051530833
+        ],
+        "label": "Ge",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ge",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.115825176239014,
+          2.1988463401794434,
+          0.8411109447479248
+        ]
+      },
+      {
+        "abc": [
+          0.6677006134440635,
+          0.6732038534936275,
+          0.9944967909734996
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.4771199226379403,
+          0.14167056977748904,
+          3.497397899627685
+        ]
+      },
+      {
+        "abc": [
+          0.321292941482095,
+          0.32679615517892113,
+          0.9944967909734996
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.3583463430404659,
+          -2.076316356658935,
+          3.497397899627685
+        ]
+      },
+      {
+        "abc": [
+          0.01947551988441562,
+          0.9999999633786525,
+          0.019475489418049732
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.7319447994232178,
+          6.3211846351623535,
+          0.06849045306444168
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_9079feb9-a505-4a36-b9ed-8c7c303758a9"
+}

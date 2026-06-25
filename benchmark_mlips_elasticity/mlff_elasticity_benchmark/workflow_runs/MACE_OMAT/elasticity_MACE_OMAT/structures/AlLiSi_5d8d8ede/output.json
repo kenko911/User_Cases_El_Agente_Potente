@@ -1,0 +1,119 @@
+{
+  "chemical_formula": "AlLiSi",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.4184211447747396,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ed17a764-2450-4504-aaa0-73b6667c7dba",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_02373372-edc4-47dc-9469-6dc0f67cc621",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.3315909503081734,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.7869039511859682
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.19897288,
+      "alpha": 59.99999999999999,
+      "b": 4.19897288,
+      "beta": 59.99999999999999,
+      "c": 4.19897288,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          4.19897288,
+          0.0,
+          0.0
+        ],
+        [
+          2.0994864400000006,
+          3.6364171838819073,
+          0.0
+        ],
+        [
+          2.0994864400000006,
+          1.2121390612939693,
+          3.4284469999282465
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 52.34970167941031
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.4999999712036619,
+          0.4999999716260357,
+          0.5000000011965604
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.198972702026367,
+          2.4242780208587646,
+          1.7142235040664673
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7500000481797787,
+          0.7499999844260191,
+          0.7500000191801597
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.298459529876708,
+          3.6364171504974365,
+          2.5713353157043457
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ed17a764-2450-4504-aaa0-73b6667c7dba"
+}

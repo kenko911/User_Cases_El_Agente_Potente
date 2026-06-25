@@ -1,0 +1,199 @@
+{
+  "chemical_formula": "Ca2O4Si",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.0925818454676695,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_2a46983e-5423-4d5c-8330-5819b4c185f3",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_8a63c596-f3f3-4745-8c84-43e78e76bd41",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.745009217150706,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.82110328794287
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 6.39097884,
+      "alpha": 147.19873759000004,
+      "b": 6.390978840000001,
+      "beta": 147.19873759000004,
+      "c": 6.39097884,
+      "gamma": 47.06960863999999,
+      "matrix": [
+        [
+          6.39097884,
+          0.0,
+          0.0
+        ],
+        [
+          4.352955350221326,
+          4.679357888888953,
+          0.0
+        ],
+        [
+          -5.371967095263991,
+          -2.3396789445112556,
+          2.551956601774294
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 76.31799049549879
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.646257736307074,
+          0.6462577829711277,
+          0.0
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.943350791931152,
+          3.024071455001831,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.35374324316107253,
+          0.3537432355013069,
+          0.0
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.8005940914154057,
+          1.655291199684143,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          1.0000000159963496,
+          0.5000000113150413,
+          0.5000000101531266
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.881473064422607,
+          1.1698395013809204,
+          1.2759783267974854
+        ]
+      },
+      {
+        "abc": [
+          0.49999998895809844,
+          0.9999999983021608,
+          0.5000000101531266
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.8624610900878915,
+          3.5095183849334712,
+          1.2759783267974854
+        ]
+      },
+      {
+        "abc": [
+          0.8445986575631867,
+          0.8445986153102499,
+          0.0
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          9.07431221008301,
+          3.952179193496704,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.15540136455242992,
+          0.15540137140177185,
+          0.0
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6696220636367798,
+          0.7271786332130432,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_2a46983e-5423-4d5c-8330-5819b4c185f3"
+}

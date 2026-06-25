@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "Ca2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.10722122605079643,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_c0c47a7f-c3ce-4d06-91ca-35895f4a6968",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_247c6ffd-b498-446d-964a-c0135da6b65a",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.06923483803825325,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.17091647886026903
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.890574072838904,
+      "alpha": 89.99999986803077,
+      "b": 3.8905740439670704,
+      "beta": 90.0000001119827,
+      "c": 6.419326064684374,
+      "gamma": 119.99999483407176,
+      "matrix": [
+        [
+          3.8905740728388993,
+          1.9187483664799487e-07,
+          -3.792784941801839e-09
+        ],
+        [
+          -1.9452868843644076,
+          3.369336036834275,
+          4.46958373261694e-09
+        ],
+        [
+          -6.288384422834825e-09,
+          4.926821435197528e-09,
+          6.419326064684374
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 84.14871017800913
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.33333303270816034,
+          0.6666669720357258,
+          0.24999999053662414
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.6638369973211666e-06,
+          2.2462251186370854,
+          1.6048314571380615
+        ]
+      },
+      {
+        "abc": [
+          0.666666951690146,
+          0.3333330320624772,
+          0.7500000097141268
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9452887773513792,
+          1.1231111288070679,
+          4.814494609832764
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_c0c47a7f-c3ce-4d06-91ca-35895f4a6968"
+}

@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "CdCu2Zr",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.7274236825191578,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_31805031-fdee-406c-9ce6-b84252914a08",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_d5c6ba37-b743-450c-a9de-642528d7b7dc",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.2659783405453642,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.7112471891182386
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.54347139,
+      "alpha": 59.99999999999999,
+      "b": 4.54347139,
+      "beta": 59.99999999999999,
+      "c": 4.54347139,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          4.54347139,
+          0.0,
+          0.0
+        ],
+        [
+          2.2717356950000003,
+          3.9347616451077942,
+          0.0
+        ],
+        [
+          2.2717356950000003,
+          1.3115872150359316,
+          3.709728855477942
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 66.32059214542537
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.4999999838128018,
+          0.4999999951861532,
+          0.5000000135784307
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.543471336364746,
+          2.6231744289398193,
+          1.8548644781112673
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Cd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7499999659266855,
+          0.7500000284313801,
+          0.7500000043005297
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.815207004547118,
+          3.934761762619018,
+          2.7822966575622554
+        ]
+      },
+      {
+        "abc": [
+          0.2499999919064009,
+          0.2499999975930766,
+          0.25000000678921536
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.271735668182373,
+          1.3115872144699097,
+          0.9274322390556337
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_31805031-fdee-406c-9ce6-b84252914a08"
+}

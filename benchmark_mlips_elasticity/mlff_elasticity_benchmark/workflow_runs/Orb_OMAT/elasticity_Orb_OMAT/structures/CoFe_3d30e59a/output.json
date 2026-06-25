@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "CoFe",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.0096851808850174,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a6731dab-6dcc-4f60-b5f0-be09aa0dfb2a",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_30eea87e-93d8-4cb6-b848-8375726f4090",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.523025864441627,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.3380389231567014
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 2.8491258,
+      "alpha": 90.0,
+      "b": 2.8491258,
+      "beta": 90.0,
+      "c": 2.8491258,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          2.8491258,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          2.8491258,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.8491258
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 23.127829464961135
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000109018672,
+          0.5000000109018672,
+          0.5000000109018672
+        ],
+        "label": "Co",
+        "properties": {},
+        "species": [
+          {
+            "element": "Co",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.424562931060791,
+          1.424562931060791,
+          1.424562931060791
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a6731dab-6dcc-4f60-b5f0-be09aa0dfb2a"
+}

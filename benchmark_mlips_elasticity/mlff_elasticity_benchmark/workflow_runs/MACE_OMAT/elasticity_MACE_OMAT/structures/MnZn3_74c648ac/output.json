@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "MnZn3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5614685203294305,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_96ab6fdd-243b-48ee-badf-504b93fcb50a",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_eb961017-e686-4f0d-815d-608cdc961fc3",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.3424939995385009,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.8538639141218759
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.825296,
+      "alpha": 90.0,
+      "b": 3.825296,
+      "beta": 90.0,
+      "c": 3.825296,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          3.825296,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.825296,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.825296
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 55.975133625419524
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Mn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999902151861,
+          0.4999999902151861
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          1.9126479625701904,
+          1.9126479625701904
+        ]
+      },
+      {
+        "abc": [
+          0.4999999902151861,
+          0.4999999902151861,
+          0.0
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9126479625701904,
+          1.9126479625701904,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.4999999902151861,
+          0.0,
+          0.4999999902151861
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9126479625701904,
+          0.0,
+          1.9126479625701904
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_96ab6fdd-243b-48ee-badf-504b93fcb50a"
+}

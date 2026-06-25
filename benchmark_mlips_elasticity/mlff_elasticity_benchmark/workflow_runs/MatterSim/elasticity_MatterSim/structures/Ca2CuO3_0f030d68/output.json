@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ca2CuO3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.7057529935420895,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_50af2004-884d-4ac0-ba39-7955aab1aec2",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_17a73227-5733-470d-9710-69d7c82471d3",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.393956836923232,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.9964599360107242
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 6.59788167,
+      "alpha": 151.10778225999996,
+      "b": 6.5978816700000005,
+      "beta": 146.21454181,
+      "c": 6.59788167,
+      "gamma": 45.036531240000016,
+      "matrix": [
+        [
+          6.59788167,
+          0.0,
+          0.0
+        ],
+        [
+          4.662431303514975,
+          4.668380540543545,
+          0.0
+        ],
+        [
+          -5.483668570902513,
+          -2.6875247434654863,
+          2.4977254230757135
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 76.93349578797286
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.8508458721964587,
+          0.3508459083112629,
+          0.5000000127475296
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.50774097442627,
+          0.2941198050975802,
+          1.2488627433776855
+        ]
+      },
+      {
+        "abc": [
+          0.1491541130962956,
+          0.6491541054411277,
+          0.5000000127475296
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2689032554626463,
+          1.686735987663269,
+          1.2488627433776855
+        ]
+      },
+      {
+        "abc": [
+          0.5000000101013096,
+          1.762052391097005e-09,
+          0.5000000127475296
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.5571065545082096,
+          -1.3437623977661133,
+          1.2488627433776855
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.3394547243704443,
+          0.8394547159763336,
+          0.5000000127475296
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.411747694015503,
+          2.57513165473938,
+          1.2488627433776855
+        ]
+      },
+      {
+        "abc": [
+          0.6605452654335069,
+          0.16054529139218962,
+          0.5000000127475296
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.364896535873415,
+          -0.5942758917808532,
+          1.2488627433776855
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_50af2004-884d-4ac0-ba39-7955aab1aec2"
+}

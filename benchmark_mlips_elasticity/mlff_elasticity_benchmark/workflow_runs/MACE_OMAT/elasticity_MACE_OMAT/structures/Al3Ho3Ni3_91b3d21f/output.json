@@ -1,0 +1,239 @@
+{
+  "chemical_formula": "Al3Ho3Ni3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5945418898493842,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_d835acd8-3a8f-426c-af5b-5d6c09100bce",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_e78801ad-373e-46b1-ae6a-c214d8c3b164",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.2641319963948673,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.6901880287215505
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 6.99991639,
+      "alpha": 90.0,
+      "b": 6.999916390000001,
+      "beta": 90.0,
+      "c": 3.82590419,
+      "gamma": 119.99999458000002,
+      "matrix": [
+        [
+          6.99991639,
+          0.0,
+          0.0
+        ],
+        [
+          -3.4999576215439365,
+          6.062105749192037,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.82590419
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 162.34931133267625
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          -4.336047413978782e-09,
+          0.5825687424249569,
+          0.4999999922809971
+        ],
+        "label": "Ho",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ho",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.038965940475464,
+          3.5315933227539062,
+          1.9129520654678347
+        ]
+      },
+      {
+        "abc": [
+          0.5825687237655829,
+          0.0,
+          0.4999999922809971
+        ],
+        "label": "Ho",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ho",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.077932357788086,
+          0.0,
+          1.9129520654678347
+        ]
+      },
+      {
+        "abc": [
+          0.4174312537023718,
+          0.41743124214775185,
+          0.4999999922809971
+        ],
+        "label": "Ho",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ho",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4609922170639038,
+          2.5305123329162598,
+          1.9129520654678347
+        ]
+      },
+      {
+        "abc": [
+          0.23669503435330405,
+          0.0,
+          0.0
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6568454504013062,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7633049737353238,
+          0.7633049643210824,
+          0.0
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.6715359687805176,
+          4.627235412597656,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          1.0000000224605214,
+          0.23669502025162636,
+          0.0
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.171494007110597,
+          1.4348702430725098,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.3333329855082437,
+          0.6666669710164743,
+          0.0
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -3.1176539324166623e-06,
+          4.04140567779541,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.6666670020519623,
+          0.3333330135562344,
+          0.0
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.4999618530273438,
+          2.020699977874756,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.4999999922809971
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          1.9129520654678347
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_d835acd8-3a8f-426c-af5b-5d6c09100bce"
+}

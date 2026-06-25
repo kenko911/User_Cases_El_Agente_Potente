@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ge2Ni4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.0874823454735183,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5a1445fa-9534-43be-8a34-393a0796450a",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_22c83db1-7651-4ee2-a3c4-2e50f830f479",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.34181918893607033,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.928205851241596
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.03138868,
+      "alpha": 90.0,
+      "b": 4.03138868,
+      "beta": 90.0,
+      "c": 5.10048957,
+      "gamma": 120.00001503000001,
+      "matrix": [
+        [
+          4.03138868,
+          0.0,
+          0.0
+        ],
+        [
+          -2.015695255844242,
+          3.4912844806459353,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.10048957
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 71.78798670606008
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.500000004547999
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          2.550244808197021
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.3333330049153408,
+          0.6666670098307315,
+          0.2500000022739995
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.6262575827760383e-06,
+          2.327524185180664,
+          1.2751224040985105
+        ]
+      },
+      {
+        "abc": [
+          0.66666699595561,
+          0.3333329927430254,
+          0.7500000068219985
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.0156960487365723,
+          1.1637603044509888,
+          3.8253672122955322
+        ]
+      },
+      {
+        "abc": [
+          0.3333330049153408,
+          0.6666670098307315,
+          0.7500000068219985
+        ],
+        "label": "Ge",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ge",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.6262575827760383e-06,
+          2.327524185180664,
+          3.8253672122955322
+        ]
+      },
+      {
+        "abc": [
+          0.66666699595561,
+          0.3333329927430254,
+          0.2500000022739995
+        ],
+        "label": "Ge",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ge",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.0156960487365723,
+          1.1637603044509888,
+          1.2751224040985105
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5a1445fa-9534-43be-8a34-393a0796450a"
+}

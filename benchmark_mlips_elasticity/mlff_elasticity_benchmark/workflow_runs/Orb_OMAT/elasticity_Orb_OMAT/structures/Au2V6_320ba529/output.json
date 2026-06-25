@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "Au2V6",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.0136970864623276,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ea4aacd3-8b97-4d28-b60a-faf48716d7da",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_e5f1bd20-329d-4498-b0dd-7258b9414525",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.48923560287910406,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.264310790821407
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.88004899,
+      "alpha": 90.0,
+      "b": 4.88011036,
+      "beta": 90.0,
+      "c": 4.88014682,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          4.88004899,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.88011036,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.88014682
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 116.22156339540403
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.49999997559768916,
+          0.25000771418858114,
+          0.0
+        ],
+        "label": "V",
+        "properties": {},
+        "species": [
+          {
+            "element": "V",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.4400243759155273,
+          1.2200652360916138,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.49999997559768916,
+          0.7499922905313434,
+          0.0
+        ],
+        "label": "V",
+        "properties": {},
+        "species": [
+          {
+            "element": "V",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.4400243759155273,
+          3.6600451469421387,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.24999576177424226,
+          0.0,
+          0.5000000164222154
+        ],
+        "label": "V",
+        "properties": {},
+        "species": [
+          {
+            "element": "V",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2199915647506714,
+          0.0,
+          2.4400734901428223
+        ]
+      },
+      {
+        "abc": [
+          0.7500042627047997,
+          0.0,
+          0.5000000164222154
+        ],
+        "label": "V",
+        "properties": {},
+        "species": [
+          {
+            "element": "V",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.6600575447082524,
+          0.0,
+          2.4400734901428223
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999901461719,
+          0.24999644181097333
+        ],
+        "label": "V",
+        "properties": {},
+        "species": [
+          {
+            "element": "V",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.4400551319122314,
+          1.2200193405151365
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999901461719,
+          0.750003542178661
+        ],
+        "label": "V",
+        "properties": {},
+        "species": [
+          {
+            "element": "V",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.4400551319122314,
+          3.6601274013519287
+        ]
+      },
+      {
+        "abc": [
+          0.49999997559768916,
+          0.4999999901461719,
+          0.5000000164222154
+        ],
+        "label": "Au",
+        "properties": {},
+        "species": [
+          {
+            "element": "Au",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.4400243759155273,
+          2.4400551319122314,
+          2.4400734901428223
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Au",
+        "properties": {},
+        "species": [
+          {
+            "element": "Au",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_ea4aacd3-8b97-4d28-b60a-faf48716d7da"
+}

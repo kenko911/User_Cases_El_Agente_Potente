@@ -1,0 +1,199 @@
+{
+  "chemical_formula": "N4W3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 2.192434764786471,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_f144aec3-e03f-486e-b7f0-a45c34b0913a",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_0c873fc5-80d5-4ad3-8e95-5272332618ca",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.471471047254023,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.3198073680102023
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.22752741,
+      "alpha": 90.0,
+      "b": 4.22752741,
+      "beta": 90.0,
+      "c": 4.22752741,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          4.22752741,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.22752741,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.22752741
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 75.55431915091994
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.5000000246489475,
+          0.5000000246489475
+        ],
+        "label": "W",
+        "properties": {},
+        "species": [
+          {
+            "element": "W",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.1137638092041016,
+          2.1137638092041016
+        ]
+      },
+      {
+        "abc": [
+          0.5000000246489475,
+          0.0,
+          0.5000000246489475
+        ],
+        "label": "W",
+        "properties": {},
+        "species": [
+          {
+            "element": "W",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.1137638092041016,
+          0.0,
+          2.1137638092041016
+        ]
+      },
+      {
+        "abc": [
+          0.5000000246489475,
+          0.5000000246489475,
+          0.0
+        ],
+        "label": "W",
+        "properties": {},
+        "species": [
+          {
+            "element": "W",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.1137638092041016,
+          2.1137638092041016,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000246489475,
+          0.5000000246489475,
+          0.5000000246489475
+        ],
+        "label": "N",
+        "properties": {},
+        "species": [
+          {
+            "element": "N",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.1137638092041016,
+          2.1137638092041016,
+          2.1137638092041016
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.5000000246489475,
+          0.0
+        ],
+        "label": "N",
+        "properties": {},
+        "species": [
+          {
+            "element": "N",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.1137638092041016,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.5000000246489475
+        ],
+        "label": "N",
+        "properties": {},
+        "species": [
+          {
+            "element": "N",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          2.1137638092041016
+        ]
+      },
+      {
+        "abc": [
+          0.5000000246489475,
+          0.0,
+          0.0
+        ],
+        "label": "N",
+        "properties": {},
+        "species": [
+          {
+            "element": "N",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.1137638092041016,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_f144aec3-e03f-486e-b7f0-a45c34b0913a"
+}

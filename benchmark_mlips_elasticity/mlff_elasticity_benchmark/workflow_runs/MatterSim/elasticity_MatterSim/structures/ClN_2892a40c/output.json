@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "ClN",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.5734280485219456,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_250c50ef-deda-4423-85a6-b989045a177a",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_1db75caa-1f7d-44d4-97e5-1cd254741491",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.031068971321872276,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.09259743644084492
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 2.816658321980647,
+      "alpha": 89.9999985639447,
+      "b": 2.81665826176726,
+      "beta": 89.9999999643649,
+      "c": 2.8166582278319607,
+      "gamma": 89.99999997513669,
+      "matrix": [
+        [
+          2.816658321980647,
+          6.111397920695323e-10,
+          8.759096161948394e-10
+        ],
+        [
+          6.111400403458905e-10,
+          2.81665826176726,
+          3.5298211254242836e-08
+        ],
+        [
+          8.759102098801338e-10,
+          3.529821057884382e-08,
+          2.8166582278319607
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 22.346138128428805
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          -7.204616925244948e-09,
+          6.255849215855715e-09,
+          1.6485813651875075e-09
+        ],
+        "label": "N",
+        "properties": {},
+        "species": [
+          {
+            "element": "N",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.0292944213906594e-08,
+          1.762058943199918e-08,
+          4.643490481015533e-09
+        ]
+      },
+      {
+        "abc": [
+          0.5000000307792022,
+          0.49999999303456494,
+          0.49999999901159986
+        ],
+        "label": "Cl",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cl",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4083292484283445,
+          1.4083291292190552,
+          1.4083291292190552
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_250c50ef-deda-4423-85a6-b989045a177a"
+}

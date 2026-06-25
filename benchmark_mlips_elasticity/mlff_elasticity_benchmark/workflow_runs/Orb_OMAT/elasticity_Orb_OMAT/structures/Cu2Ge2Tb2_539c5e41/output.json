@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Cu2Ge2Tb2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5082932858384991,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_43f4bc55-5073-463f-85ef-665a62b7f636",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_b38a6883-ce67-4dec-8f20-645bf86564d7",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.37660487343261106,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.9060454334333026
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.26622255,
+      "alpha": 90.0,
+      "b": 4.26622255,
+      "beta": 90.0,
+      "c": 7.36324542,
+      "gamma": 120.00000448999997,
+      "matrix": [
+        [
+          4.26622255,
+          0.0,
+          0.0
+        ],
+        [
+          -2.1331115645328427,
+          3.694656939336148,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.36324542
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 116.0611586458755
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.7522856307675212
+        ],
+        "label": "Tb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Tb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          5.539263725280762
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.2522855938238733
+        ],
+        "label": "Tb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Tb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          1.8576407432556152
+        ]
+      },
+      {
+        "abc": [
+          0.6666670129115296,
+          0.3333329917665144,
+          0.5272614492841204
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.133113384246826,
+          1.2315510511398315,
+          3.8823554515838623
+        ]
+      },
+      {
+        "abc": [
+          0.33333300801165616,
+          0.6666670160232784,
+          0.02726146090979872
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.326133198765186e-06,
+          2.4631059169769287,
+          0.20073282718658447
+        ]
+      },
+      {
+        "abc": [
+          0.33333300801165616,
+          0.6666670160232784,
+          0.4809519243194797
+        ],
+        "label": "Ge",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ge",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.326133198765186e-06,
+          2.4631059169769287,
+          3.5413670539855957
+        ]
+      },
+      {
+        "abc": [
+          0.6666670129115296,
+          0.3333329917665144,
+          0.9809519612631277
+        ],
+        "label": "Ge",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ge",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.133113384246826,
+          1.2315510511398315,
+          7.222990036010742
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_43f4bc55-5073-463f-85ef-665a62b7f636"
+}

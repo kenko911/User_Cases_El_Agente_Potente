@@ -1,0 +1,199 @@
+{
+  "chemical_formula": "Pt5SiSn",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.2788897934812358,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a8d083cb-01e0-4cba-9250-e6924345e032",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_38062849-ced1-4b29-be0b-54aac7a8d29b",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.39487489491115724,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.0740790972471954
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.01642393,
+      "alpha": 90.0,
+      "b": 4.01642393,
+      "beta": 90.0,
+      "c": 7.10711658,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          4.01642393,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.01642393,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          7.10711658
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 114.64959667424351
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.5000000083872798
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          3.553558349609375
+        ]
+      },
+      {
+        "abc": [
+          0.4999999716464181,
+          0.4999999716464181,
+          0.0
+        ],
+        "label": "Sn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Sn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.008211851119995,
+          2.008211851119995,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999716464181,
+          0.29598599032911826
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.008211851119995,
+          2.103606939315796
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.4999999716464181,
+          0.7040139928989846
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.008211851119995,
+          5.003509521484375
+        ]
+      },
+      {
+        "abc": [
+          0.4999999716464181,
+          0.0,
+          0.29598599032911826
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.008211851119995,
+          0.0,
+          2.103606939315796
+        ]
+      },
+      {
+        "abc": [
+          0.4999999716464181,
+          0.0,
+          0.7040139928989846
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.008211851119995,
+          0.0,
+          5.003509521484375
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Pt",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pt",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a8d083cb-01e0-4cba-9250-e6924345e032"
+}

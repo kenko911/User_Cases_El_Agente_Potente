@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "FeRh",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.1909185674606841,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_f075f42e-2400-4d63-8afd-d4ba9daaf26a",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_8eafc523-05d3-41a2-b00e-dd57f0a5184e",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.45231926070453665,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.204469158562056
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.0171023,
+      "alpha": 90.0,
+      "b": 3.0171023,
+      "beta": 90.0,
+      "c": 3.0171023,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          3.0171023,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          3.0171023,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.0171023
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 27.46439950021651
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.49999999030793774,
+          0.49999999030793774,
+          0.49999999030793774
+        ],
+        "label": "Rh",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rh",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.5085511207580566,
+          1.5085511207580566,
+          1.5085511207580566
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_f075f42e-2400-4d63-8afd-d4ba9daaf26a"
+}

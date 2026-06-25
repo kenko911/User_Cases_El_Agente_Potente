@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Li2Na2O2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.34664285084884383,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_2ee5a1e6-cf4a-4ef6-8d46-02f29b62aa9d",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_82438d3f-4a3f-488e-a024-70cfd7c3e71c",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.27601320590058026,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.6543618177326521
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.34994016,
+      "alpha": 90.0,
+      "b": 3.34994016,
+      "beta": 90.0,
+      "c": 6.75885129,
+      "gamma": 119.99999479,
+      "matrix": [
+        [
+          3.34994016,
+          0.0,
+          0.0
+        ],
+        [
+          -1.6749698161951454,
+          2.9011334320254947,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.75885129
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 65.68673025991694
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Na",
+        "properties": {},
+        "species": [
+          {
+            "element": "Na",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.50000001761895
+        ],
+        "label": "Na",
+        "properties": {},
+        "species": [
+          {
+            "element": "Na",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          3.3794257640838627
+        ]
+      },
+      {
+        "abc": [
+          0.6666669943446972,
+          0.3333330030066615,
+          0.250000008809475
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6749718189239504,
+          0.9670435190200805,
+          1.6897128820419314
+        ]
+      },
+      {
+        "abc": [
+          0.3333329960937578,
+          0.6666669921875258,
+          0.7500000087909175
+        ],
+        "label": "Li",
+        "properties": {},
+        "species": [
+          {
+            "element": "Li",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.4991001080395788e-06,
+          1.9340898990631104,
+          5.069138526916505
+        ]
+      },
+      {
+        "abc": [
+          0.6666669943446972,
+          0.3333330030066615,
+          0.7500000087909175
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6749718189239504,
+          0.9670435190200805,
+          5.069138526916505
+        ]
+      },
+      {
+        "abc": [
+          0.3333329960937578,
+          0.6666669921875258,
+          0.250000008809475
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.4991001080395788e-06,
+          1.9340898990631104,
+          1.6897128820419314
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_2ee5a1e6-cf4a-4ef6-8d46-02f29b62aa9d"
+}

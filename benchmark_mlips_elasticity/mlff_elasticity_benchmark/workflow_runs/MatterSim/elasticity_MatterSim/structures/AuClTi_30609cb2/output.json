@@ -1,0 +1,119 @@
+{
+  "chemical_formula": "AuClTi",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.3753527921798586,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_8432a033-0ce0-445f-85f7-21187009373b",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_b225304a-43fb-41b1-b3d1-d75daba9d442",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": -0.07086511018814207,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": -0.22687289658607565
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.37426276,
+      "alpha": 59.99999999999999,
+      "b": 4.37426276,
+      "beta": 59.99999999999999,
+      "c": 4.37426276,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          4.37426276,
+          0.0,
+          0.0
+        ],
+        [
+          2.1871313800000003,
+          3.7882226729882325,
+          0.0
+        ],
+        [
+          2.1871313800000003,
+          1.2627408909960778,
+          3.5715705876194774
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 59.18335818019133
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000198740602,
+          0.4999999763892534,
+          0.500000006610879
+        ],
+        "label": "Au",
+        "properties": {},
+        "species": [
+          {
+            "element": "Au",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.374262809753418,
+          2.525481700897217,
+          1.7857853174209595
+        ]
+      },
+      {
+        "abc": [
+          0.7499999927798158,
+          0.7500000219577923,
+          0.7500000266049553
+        ],
+        "label": "Cl",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cl",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.561394214630127,
+          3.788222789764404,
+          2.678678035736084
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_8432a033-0ce0-445f-85f7-21187009373b"
+}

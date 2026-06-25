@@ -1,0 +1,159 @@
+{
+  "chemical_formula": "CaIrO3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.131599359652139,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_7e78ccb2-0d9a-44c6-83b8-13a80cfb8571",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_16ff286d-3eb8-4b9d-9d0e-065aec722dea",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.23870624247655298,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.6690726816651091
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.957262969462146,
+      "alpha": 90.00000001801622,
+      "b": 3.957255736674941,
+      "beta": 90.00000001877173,
+      "c": 3.9572616965999825,
+      "gamma": 89.9999997103897,
+      "matrix": [
+        [
+          3.957262969462146,
+          1.0001290953270856e-08,
+          -6.482553589236884e-10
+        ],
+        [
+          1.0001282333211304e-08,
+          3.957255736674941,
+          -6.221647030316844e-10
+        ],
+        [
+          -6.482557767407029e-10,
+          -6.221656402738708e-10,
+          3.9572616965999825
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 61.97032872448333
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          1.234881394047335e-10,
+          3.5875925813670063e-10,
+          -7.999797100770824e-11
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.88675044874043e-10,
+          1.4197021336315174e-09,
+          -3.1657290677777894e-10
+        ]
+      },
+      {
+        "abc": [
+          0.5000000017744226,
+          0.49999998178395055,
+          0.49999998319770583
+        ],
+        "label": "Ir",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ir",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9786314964294431,
+          1.978627800941467,
+          1.978630781173706
+        ]
+      },
+      {
+        "abc": [
+          0.5000000016925156,
+          0.4999999817053398,
+          4.711604601401147e-10
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9786314964294434,
+          1.978627800941467,
+          1.229295221172322e-09
+        ]
+      },
+      {
+        "abc": [
+          0.5000000030380841,
+          -7.242861369405681e-10,
+          0.4999999831190953
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.9786314964294431,
+          1.8233772269837802e-09,
+          1.978630781173706
+        ]
+      },
+      {
+        "abc": [
+          5.635536486649264e-11,
+          0.49999998304761556,
+          0.4999999831157988
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.899526118151698e-09,
+          1.9786278009414673,
+          1.9786307811737063
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_7e78ccb2-0d9a-44c6-83b8-13a80cfb8571"
+}

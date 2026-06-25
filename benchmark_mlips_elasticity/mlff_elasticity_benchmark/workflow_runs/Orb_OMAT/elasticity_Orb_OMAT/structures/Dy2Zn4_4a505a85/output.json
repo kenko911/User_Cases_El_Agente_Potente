@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Dy2Zn4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.38534494093477745,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5b786174-2e32-4030-a29e-bba0199b76f7",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_33f5f0d9-c4f2-4909-a83b-d9c9f276d0b9",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.18698857139146066,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.4828626982877011
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.65954252,
+      "alpha": 133.31470998000003,
+      "b": 5.65954252,
+      "beta": 102.16509028,
+      "c": 5.65954252,
+      "gamma": 95.92724926000001,
+      "matrix": [
+        [
+          5.65954252,
+          0.0,
+          0.0
+        ],
+        [
+          -0.5844360266981465,
+          5.629285573355222,
+          0.0
+        ],
+        [
+          -1.1926310259118014,
+          -4.027163169430552,
+          3.7934166101949014
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 120.85514661879381
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.720755041118216,
+          0.4707550347402975,
+          0.24999999274378745
+        ],
+        "label": "Dy",
+        "properties": {},
+        "species": [
+          {
+            "element": "Dy",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.5058598518371573,
+          1.6432237625122073,
+          0.9483541250228882
+        ]
+      },
+      {
+        "abc": [
+          0.27924496449877845,
+          0.5292449669337422,
+          0.7500000096566715
+        ],
+        "label": "Dy",
+        "properties": {},
+        "species": [
+          {
+            "element": "Dy",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.37661564350128174,
+          -0.041101358830929094,
+          2.845062494277954
+        ]
+      },
+      {
+        "abc": [
+          0.8770586668277552,
+          0.8340450595952968,
+          0.04301363931587879
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.425005435943603,
+          4.521854877471925,
+          0.16316865384578705
+        ]
+      },
+      {
+        "abc": [
+          0.12294133868020041,
+          0.1659549868973118,
+          0.9569863905817256
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -0.5425300002098083,
+          -2.9197323322296143,
+          3.6302480697631836
+        ]
+      },
+      {
+        "abc": [
+          0.7089686029539553,
+          0.1659549612838338,
+          0.5430136287316173
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.26783299446106,
+          -1.252596616744995,
+          2.059876918792724
+        ]
+      },
+      {
+        "abc": [
+          0.2910313903545431,
+          0.8340450231841953,
+          0.4569863736688416
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.6146424412727355,
+          2.8547189235687256,
+          1.7335397005081177
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_5b786174-2e32-4030-a29e-bba0199b76f7"
+}

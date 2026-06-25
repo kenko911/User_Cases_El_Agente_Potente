@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ga2Pd2Ti2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.804239125441865,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_52b72f5a-aaaa-4be4-8dec-988a2eb2fd87",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_50c4dda5-5138-41f6-ac44-b49ba2a491ce",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.32915428943034597,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.8689206174590401
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.44250074,
+      "alpha": 90.0,
+      "b": 4.44250074,
+      "beta": 90.0,
+      "c": 5.43788366,
+      "gamma": 119.99999876,
+      "matrix": [
+        [
+          4.44250074,
+          0.0,
+          0.0
+        ],
+        [
+          -2.221250286736013,
+          3.8473185452436516,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.43788366
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 92.94276035322996
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.500000017829763
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          2.7189419269561768
+        ]
+      },
+      {
+        "abc": [
+          0.3333330076016179,
+          0.6666670152032642,
+          0.7499999609786423
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.165741079661444e-06,
+          2.56488037109375,
+          4.0784125328063965
+        ]
+      },
+      {
+        "abc": [
+          0.666667019611005,
+          0.3333330118411147,
+          0.2500000089148815
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.2212526798248295,
+          1.2824382781982422,
+          1.3594709634780884
+        ]
+      },
+      {
+        "abc": [
+          0.3333330076016179,
+          0.6666670152032642,
+          0.2500000089148815
+        ],
+        "label": "Pd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.165741079661444e-06,
+          2.56488037109375,
+          1.3594709634780884
+        ]
+      },
+      {
+        "abc": [
+          0.666667019611005,
+          0.3333330118411147,
+          0.7499999609786423
+        ],
+        "label": "Pd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.2212526798248295,
+          1.2824382781982422,
+          4.0784125328063965
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_52b72f5a-aaaa-4be4-8dec-988a2eb2fd87"
+}

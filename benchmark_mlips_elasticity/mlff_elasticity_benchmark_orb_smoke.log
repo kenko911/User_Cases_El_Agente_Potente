@@ -1,0 +1,55 @@
+/scratch/kenko/repos/potente/.venv/lib/python3.12/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.5.0) or chardet (7.4.3)/charset_normalizer (3.4.3) doesn't match a supported version!
+  warnings.warn(
+Logfire project URL: https://logfire-eu.pydantic.dev/jb2197/grafico
+/scratch/kenko/repos/potente/.venv/lib/python3.12/site-packages/matcalc/utils.py:54: UserWarning: Unable to get pre-trained MatGL universal calculators.
+  warnings.warn("Unable to get pre-trained MatGL universal calculators.", stacklevel=1)
+/scratch/kenko/repos/potente/.venv/lib/python3.12/site-packages/orb_models/utils.py:30: UserWarning: Setting global torch default dtype to torch.float32.
+  warnings.warn(f"Setting global torch default dtype to {torch_dtype}.")
+/scratch/kenko/repos/potente/.venv/lib/python3.12/site-packages/orb_models/utils.py:30: UserWarning: Setting global torch default dtype to torch.float32.
+  warnings.warn(f"Setting global torch default dtype to {torch_dtype}.")
+/scratch/kenko/repos/potente/domains/mlffs/graph/mlffs_graph.py:780: FormattingFailedWarning: 
+    Ensure you are either:
+      (1) passing an f-string directly, with inspect_arguments enabled and working, or
+      (2) passing a literal `str.format`-style template, not a preformatted string.
+    See https://logfire.pydantic.dev/docs/guides/onboarding-checklist/add-manual-tracing/#messages-and-span-names.
+    The problem was: The field {'bulk_modulus_vrh'} is not defined.
+  logfire.info(message)
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+03:15:12.660 Starting MLFF elasticity benchmark for Orb-OMAT
+03:15:12.671 run graph mlff_workflow_graph
+03:15:12.679   run node prepare_mp_branch
+03:15:12.679   run node generate_structures
+03:15:12.691   run node relax_mp_entry
+03:15:12.748     relax_mp_entry received sentinel; skipping MP relaxation
+03:15:12.748   Generated 1 structure(s) from directory: /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/mlff_elasticity_benchmark_orb_smoke/cifs_first_1 (.cif/.xyz)
+03:15:12.749   run node relax_gen_structure
+03:15:12.750     structure B6Zr
+03:15:12.750       relax_structure B6Zr
+03:15:12.767   reduce_mp_entries received sentinel item; count remains 0 (should remain 0)
+               run node relax_gen_structure
+                 structure B6Zr
+                   relax_structure B6Zr
+03:15:12.803         Assigned GPU slot 0 on cuda:0 to B6Zr; remaining slots={0: 3}
+03:15:12.815         Using GPU (CUDA:0) for MLFF calculations
+03:15:14.275         Relaxation done for B6Zr (steps≤1000, fmax=0.1). Energy: -48.883549 eV.
+03:15:14.276   run node build_phase_diagram
+03:15:14.277     build_pd_node start: relaxed_entries=0
+03:15:14.277     [build_phase_diagram] no relaxed entries from queried MP data, skipping phase diagram construction (likely enable_phase_stability_filter=False)
+03:15:14.278   run node tag_relaxed_batch
+03:15:14.278   run node tag_phase_diagram
+03:15:14.278   run node filter_by_stability
+03:15:14.279   run node route_properties
+03:15:14.280 route_properties B6Zr
+             run graph mlff_workflow_graph
+03:15:14.281   run node MLFFElasticity
+03:15:14.282 MLFFElasticity B6Zr
+03:15:14.282   Assigned GPU slot 1 on cuda:0 to B6Zr; remaining slots={0: 3}
+03:15:14.282   Using GPU (CUDA:0) for MLFF calculations
+03:15:16.770   Elasticity done for B6Zr. {'bulk_modulus_vrh': np.float64(1.026422353991113), 'shear_modulus_vrh': np.float64(0.5125311074139567), 'youngs_modulus': np.float64(1.3181866710225556)}
+             run graph mlff_workflow_graph
+03:15:16.772   run node assemble_outputs
+03:15:16.788 Finished MLFF elasticity benchmark for Orb-OMAT
+[Orb-OMAT] wrote /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/mlff_elasticity_benchmark_orb_smoke/Orb_OMAT_elasticity_predictions.csv (1 rows)
+Wrote merged comparison CSV: /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/mlff_elasticity_benchmark_orb_smoke/all_models_elasticity_predictions_with_ground_truth.csv
+Wrote benchmark plot:       /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/mlff_elasticity_benchmark_orb_smoke/mlip_elasticity_benchmark.png
+Wrote benchmark metrics:    /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/mlff_elasticity_benchmark_orb_smoke/mlip_elasticity_benchmark_metrics.csv

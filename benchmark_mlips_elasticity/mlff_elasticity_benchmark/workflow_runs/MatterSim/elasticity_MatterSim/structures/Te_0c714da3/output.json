@@ -1,0 +1,79 @@
+{
+  "chemical_formula": "Te",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.49515482097590413,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_cf196c35-3371-4c96-b625-0707b751a314",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_d91f5846-f9ac-46b8-b774-11893d32bb5d",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.11677597773478382,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.32479500700331965
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.153119373834774,
+      "alpha": 90.00000000087098,
+      "b": 3.153119374929065,
+      "beta": 90.00000000174198,
+      "c": 3.153119299941406,
+      "gamma": 90.00000000087098,
+      "matrix": [
+        [
+          3.153119373834774,
+          -2.3966295110148307e-11,
+          -4.793261672143615e-11
+        ],
+        [
+          -2.3966302403761746e-11,
+          3.153119374929065,
+          -2.396597117854622e-11
+        ],
+        [
+          -4.793261310037968e-11,
+          -2.3966678241667247e-11,
+          3.153119299941406
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 31.348822220359473
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.5000000301754388,
+          0.5000000299981133,
+          0.5000000040861615
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.5765597820281982,
+          1.5765597820281982,
+          1.5765596628189085
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_cf196c35-3371-4c96-b625-0707b751a314"
+}

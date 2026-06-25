@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Al4Sr2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.2973550809082619,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_fa92bee7-dcaf-4cdc-b7ef-0423262372cd",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_24725d3b-5c9c-4a17-bd5c-f296fd545bb9",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.20316488710500027,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.4964335696918119
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.86098052,
+      "alpha": 59.99999999999999,
+      "b": 5.86098052,
+      "beta": 59.99999999999999,
+      "c": 5.86098052,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          5.86098052,
+          0.0,
+          0.0
+        ],
+        [
+          2.9304902600000005,
+          5.075758021405729,
+          0.0
+        ],
+        [
+          2.9304902600000005,
+          1.6919193404685766,
+          4.785470555464006
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 142.36257539394055
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.7499999563301856,
+          0.7499999872524372,
+          0.7500000139749533
+        ],
+        "label": "Sr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Sr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.791470527648926,
+          5.07575798034668,
+          3.589102983474732
+        ]
+      },
+      {
+        "abc": [
+          0.5000000035418005,
+          0.4999999970373299,
+          0.49999999270952056
+        ],
+        "label": "Sr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Sr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.86098051071167,
+          3.383838653564453,
+          2.392735242843628
+        ]
+      },
+      {
+        "abc": [
+          0.12499999944174138,
+          0.12499999618950607,
+          0.6250000033422369
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.930490255355835,
+          1.6919193267822268,
+          2.9909191131591797
+        ]
+      },
+      {
+        "abc": [
+          0.12500000251156776,
+          0.6249999952147101,
+          0.12499999817738014
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.9304902553558345,
+          3.383838653564453,
+          0.598183810710907
+        ]
+      },
+      {
+        "abc": [
+          0.12500000088545013,
+          0.12499999925933247,
+          0.12499999817738014
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4652451276779175,
+          0.8459596633911133,
+          0.598183810710907
+        ]
+      },
+      {
+        "abc": [
+          0.6249999797535842,
+          0.12499999925933247,
+          0.12499999817738014
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.395735263824464,
+          0.8459596633911133,
+          0.598183810710907
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_fa92bee7-dcaf-4cdc-b7ef-0423262372cd"
+}

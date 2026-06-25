@@ -1,0 +1,259 @@
+{
+  "chemical_formula": "Ca6Hg4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.17993353586151856,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6df9d25d-545b-4d42-b095-72559fcf7427",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_ea3ffb51-2bf4-4093-91c4-7950b640f804",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.09241733636645445,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.2367234343754599
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 8.6193439,
+      "alpha": 90.0,
+      "b": 8.6193439,
+      "beta": 90.0,
+      "c": 4.18158395,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          8.6193439,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          8.6193439,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.18158395
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 310.6627896725766
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.49999999174121557,
+          0.49999999174121557,
+          0.0
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.309671878814697,
+          4.309671878814697,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.6557375680258112,
+          0.155737562454159,
+          0.4999999917947568
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.652027606964111,
+          1.3423556089401245,
+          2.090791940689087
+        ]
+      },
+      {
+        "abc": [
+          0.155737562454159,
+          0.3442624431174932,
+          0.4999999917947568
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.3423556089401245,
+          2.9673163890838623,
+          2.090791940689087
+        ]
+      },
+      {
+        "abc": [
+          0.844262462519582,
+          0.6557375680258112,
+          0.4999999917947568
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          7.276988506317139,
+          5.652027606964111,
+          2.090791940689087
+        ]
+      },
+      {
+        "abc": [
+          0.3442624431174932,
+          0.844262462519582,
+          0.4999999917947568
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.9673163890838623,
+          7.276988506317139,
+          2.090791940689087
+        ]
+      },
+      {
+        "abc": [
+          0.8577844804070223,
+          0.3577844886658067,
+          0.0
+        ],
+        "label": "Hg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          7.3935394287109375,
+          3.0838675498962402,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.3577844886658067,
+          0.14221551690584552,
+          0.0
+        ],
+        "label": "Hg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.0838675498962402,
+          1.2258044481277466,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.6422154948166244,
+          0.8577844804070223,
+          0.0
+        ],
+        "label": "Hg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.535476207733153,
+          7.3935394287109375,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.14221551690584552,
+          0.6422154948166244,
+          0.0
+        ],
+        "label": "Hg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2258044481277466,
+          5.535476207733153,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6df9d25d-545b-4d42-b095-72559fcf7427"
+}

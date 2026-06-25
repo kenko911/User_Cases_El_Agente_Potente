@@ -1,0 +1,119 @@
+{
+  "chemical_formula": "Ca2Pb",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.17902792611278773,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6fda5ee4-b82e-40ff-b6b2-6ca247618a10",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_66d20b74-e57d-4834-8fd4-144456b44c54",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.0886164700353459,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.22819777684265227
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.40767713,
+      "alpha": 59.999999999999986,
+      "b": 5.40767713,
+      "beta": 59.999999999999986,
+      "c": 5.407677129999999,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          5.40767713,
+          0.0,
+          0.0
+        ],
+        [
+          2.7038385650000003,
+          4.6831857700441235,
+          0.0
+        ],
+        [
+          2.7038385650000003,
+          1.5610619233480416,
+          4.415349887406057
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 111.81942727262816
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.7500000726264364,
+          0.7499999547343025,
+          0.7500000123865197
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.11151599884033,
+          4.683185577392578,
+          3.3115124702453613
+        ]
+      },
+      {
+        "abc": [
+          0.2499999967851381,
+          0.25000001036617703,
+          0.25000000412883994
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.7038385868072505,
+          1.561061978340149,
+          1.103837490081787
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Pb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Pb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6fda5ee4-b82e-40ff-b6b2-6ca247618a10"
+}

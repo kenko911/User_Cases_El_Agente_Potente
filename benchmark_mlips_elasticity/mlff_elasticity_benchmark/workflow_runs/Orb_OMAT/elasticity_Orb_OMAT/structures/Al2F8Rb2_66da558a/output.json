@@ -1,0 +1,299 @@
+{
+  "chemical_formula": "Al2F8Rb2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.4896352044810044,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_30f43eca-fbcb-42bc-be7a-6d28a4340fb7",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_4fcdcbbd-5347-4776-ba5e-01789c39a87e",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.3044456298948469,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.7565369180315287
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.21101806,
+      "alpha": 90.0,
+      "b": 5.21101806,
+      "beta": 90.0,
+      "c": 6.40799972,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          5.21101806,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.21101806,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.40799972
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 174.00736908899003
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.5000000024447945,
+          0.0,
+          0.49999998404599233
+        ],
+        "label": "Rb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.605509042739868,
+          0.0,
+          3.2039997577667236
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.5000000024447945,
+          0.49999998404599233
+        ],
+        "label": "Rb",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rb",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.605509042739868,
+          3.2039997577667236
+        ]
+      },
+      {
+        "abc": [
+          0.5000000024447945,
+          0.5000000024447945,
+          0.0
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.605509042739868,
+          2.605509042739868,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Al",
+        "properties": {},
+        "species": [
+          {
+            "element": "Al",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000024447945,
+          0.5000000024447945,
+          0.27853314971472726
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.605509042739868,
+          2.605509042739868,
+          1.7848403453826904
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.721466855583654
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          4.623159408569335
+        ]
+      },
+      {
+        "abc": [
+          0.5000000024447945,
+          0.5000000024447945,
+          0.721466855583654
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.605509042739868,
+          2.605509042739868,
+          4.623159408569335
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.27853314971472726
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          1.7848403453826904
+        ]
+      },
+      {
+        "abc": [
+          0.21517005453801138,
+          0.7151700341064143,
+          0.0
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.1212550401687622,
+          3.726763963699341,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.2848299479067831,
+          0.21517005453801138,
+          0.0
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.484254002571106,
+          1.1212550401687622,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7151700341064143,
+          0.7848299732279691,
+          0.0
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.726763963699341,
+          4.089763164520264,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7848299732279691,
+          0.2848299479067831,
+          0.0
+        ],
+        "label": "F",
+        "properties": {},
+        "species": [
+          {
+            "element": "F",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.089763164520264,
+          1.484254002571106,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_30f43eca-fbcb-42bc-be7a-6d28a4340fb7"
+}

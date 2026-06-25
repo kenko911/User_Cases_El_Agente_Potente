@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Er2Fe4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.6161197251278963,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_4d35fc9c-b8d7-4365-8d68-1fcfc03294cc",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_d2d905c4-cb78-4141-a48a-fa49d0268248",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.38395662814636444,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.9537491363831061
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.09806999,
+      "alpha": 59.99999999999999,
+      "b": 5.09806999,
+      "beta": 59.99999999999999,
+      "c": 5.09806999,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          5.09806999,
+          0.0,
+          0.0
+        ],
+        [
+          2.5490349950000004,
+          4.415058121611079,
+          0.0
+        ],
+        [
+          2.5490349950000004,
+          1.4716860405370265,
+          4.162556716165246
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 93.69197257713427
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.5000000409696621,
+          0.4999999868893448,
+          0.49999999184265154
+        ],
+        "label": "Er",
+        "properties": {},
+        "species": [
+          {
+            "element": "Er",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.098070144653319,
+          2.9433720111846924,
+          2.0812783241271973
+        ]
+      },
+      {
+        "abc": [
+          0.7500000479541852,
+          0.7500000073346335,
+          0.7499999877639774
+        ],
+        "label": "Er",
+        "properties": {},
+        "species": [
+          {
+            "element": "Er",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          7.6471052169799805,
+          4.415058135986328,
+          3.121917486190796
+        ]
+      },
+      {
+        "abc": [
+          0.6250000254102458,
+          0.1249999967223362,
+          0.12499999796066288
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.8235526084899902,
+          0.7358430027961731,
+          0.5203195810317993
+        ]
+      },
+      {
+        "abc": [
+          0.1250000129780088,
+          0.12499998593785012,
+          0.6250000184417925
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.54903507232666,
+          1.471686005592346,
+          2.601598024368286
+        ]
+      },
+      {
+        "abc": [
+          0.12500002376249478,
+          0.6249999848500077,
+          0.12499999796066288
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.5490350723266597,
+          2.943372011184692,
+          0.5203195810317993
+        ]
+      },
+      {
+        "abc": [
+          0.12500001024241553,
+          0.1249999967223362,
+          0.12499999796066288
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2745175361633299,
+          0.7358430027961731,
+          0.5203195810317993
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_4d35fc9c-b8d7-4365-8d68-1fcfc03294cc"
+}

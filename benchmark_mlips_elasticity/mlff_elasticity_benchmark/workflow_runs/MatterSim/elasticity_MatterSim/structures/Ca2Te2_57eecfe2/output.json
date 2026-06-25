@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "Ca2Te2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.25105821265908873,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_21f9b6c9-57af-4655-bf24-d371776f539c",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_cbecbe2f-b811-4778-a11f-85643670c596",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.14056481577950555,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.3553715362750977
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.4577101864756825,
+      "alpha": 89.99999991679553,
+      "b": 4.457710096152363,
+      "beta": 89.99999968972084,
+      "c": 7.745716189929316,
+      "gamma": 120.00001138073819,
+      "matrix": [
+        [
+          4.45771018647566,
+          -4.458220432162069e-07,
+          1.2171572465880458e-08
+        ],
+        [
+          -2.2288554287973508,
+          3.860489966164824,
+          3.3394523568104737e-09
+        ],
+        [
+          2.0796777366305995e-08,
+          1.8295105444808523e-08,
+          7.745716189929316
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 133.29559966342043
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          -1.3352277905833566e-08,
+          6.093179846775186e-10,
+          0.5000000246509514
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -5.048027773568719e-08,
+          1.1499825092187166e-08,
+          3.872858285903931
+        ]
+      },
+      {
+        "abc": [
+          8.970579112463548e-09,
+          3.851289909540904e-09,
+          -2.4310126306321797e-08
+        ],
+        "label": "Ca",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ca",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.1404272959889554e-08,
+          1.4867861608536258e-08,
+          -1.8829933878805605e-07
+        ]
+      },
+      {
+        "abc": [
+          0.33333315102802374,
+          0.6666668042477691,
+          0.7499999899941532
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.3274213870910499e-06,
+          2.573660373687744,
+          5.809287071228027
+        ]
+      },
+      {
+        "abc": [
+          0.6666668535081596,
+          0.3333332134234116,
+          0.24999998035346593
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.2288560867309566,
+          1.2868292331695554,
+          1.9364289045333862
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_21f9b6c9-57af-4655-bf24-d371776f539c"
+}

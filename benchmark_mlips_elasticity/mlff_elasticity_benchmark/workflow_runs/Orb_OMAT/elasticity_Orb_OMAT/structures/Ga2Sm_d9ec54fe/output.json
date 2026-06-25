@@ -1,0 +1,119 @@
+{
+  "chemical_formula": "Ga2Sm",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.41298878174198367,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_df193eac-f11f-4ecc-b182-d8b926190ba0",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_c635439c-4971-424e-9aef-55103a75b0e3",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.3448910809568091,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.8093691420898991
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.26220152,
+      "alpha": 90.0,
+      "b": 4.26220152,
+      "beta": 90.0,
+      "c": 4.21940525,
+      "gamma": 120.00000864000002,
+      "matrix": [
+        [
+          4.26220152,
+          0.0,
+          0.0
+        ],
+        [
+          -2.1311013166160215,
+          3.691174471006182,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          4.21940525
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 66.38191731874569
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Sm",
+        "properties": {},
+        "species": [
+          {
+            "element": "Sm",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.33333299807529615,
+          0.6666669961506452,
+          0.49999999102425285
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.502178403872745e-06,
+          2.460784196853638,
+          2.1097025871276855
+        ]
+      },
+      {
+        "abc": [
+          0.6666670290631205,
+          0.3333330136389034,
+          0.49999999102425285
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.1311028003692627,
+          1.2303903102874756,
+          2.1097025871276855
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_df193eac-f11f-4ecc-b182-d8b926190ba0"
+}

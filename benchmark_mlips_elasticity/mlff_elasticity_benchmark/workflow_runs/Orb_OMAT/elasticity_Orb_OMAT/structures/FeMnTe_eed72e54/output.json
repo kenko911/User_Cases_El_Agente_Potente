@@ -1,0 +1,119 @@
+{
+  "chemical_formula": "FeMnTe",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.7758290667182501,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a4c8cc75-f7fe-457c-ab79-fb3445e0b78d",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_040042fd-22da-4b9d-a699-9fdd2ce966b0",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.45556367401069164,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.1429743846489862
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.13309743,
+      "alpha": 59.999999999999986,
+      "b": 4.13309743,
+      "beta": 59.999999999999986,
+      "c": 4.13309743,
+      "gamma": 59.999999999999986,
+      "matrix": [
+        [
+          4.13309743,
+          0.0,
+          0.0
+        ],
+        [
+          2.0665487150000006,
+          3.5793673706961755,
+          0.0
+        ],
+        [
+          2.0665487150000006,
+          1.1931224568987255,
+          3.374659920236171
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 49.924293925665964
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.2500000172261236,
+          0.2500000114147356,
+          0.2500000070281178
+        ],
+        "label": "Mn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.0665488243103027,
+          1.1931225061416626,
+          0.8436650037765503
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7499999647351858,
+          0.7500000127145807,
+          0.749999985759523
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          6.199645996093749,
+          3.5793673992156982,
+          2.5309948921203613
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a4c8cc75-f7fe-457c-ab79-fb3445e0b78d"
+}

@@ -1,0 +1,119 @@
+{
+  "chemical_formula": "DySi2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5737436780505056,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0f139ac1-693b-482e-8328-5e767c11e593",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_093d91e3-43ae-47d9-aa8c-0854ed71fdd5",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.2744353619281461,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.7100886141299833
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.0951321,
+      "alpha": 90.0,
+      "b": 4.0951321,
+      "beta": 90.0,
+      "c": 3.94904017,
+      "gamma": 119.99999936999998,
+      "matrix": [
+        [
+          4.0951321,
+          0.0,
+          0.0
+        ],
+        [
+          -2.047566011004322,
+          3.5464884529672807,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.94904017
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 57.35324795261112
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Dy",
+        "properties": {},
+        "species": [
+          {
+            "element": "Dy",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.6666670007385272,
+          0.33333301503224516,
+          0.500000000567765
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.0475680828094487,
+          1.1821616888046265,
+          1.9745200872421265
+        ]
+      },
+      {
+        "abc": [
+          0.3333329856188838,
+          0.6666669712377528,
+          0.500000000567765
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.021568889172822e-06,
+          2.3643267154693604,
+          1.9745200872421265
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0f139ac1-693b-482e-8328-5e767c11e593"
+}

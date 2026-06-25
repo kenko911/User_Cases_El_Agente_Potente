@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "Ga2N2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.28834722403246826,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_d413a43b-835a-4f57-a004-19fa8709b6ac",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_f94b5f87-e90c-49b6-a055-4b8dea68f592",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.1960994721814782,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.47958054278037343
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.208181272011767,
+      "alpha": 90.00000017828509,
+      "b": 3.2081807926918295,
+      "beta": 89.99999980528725,
+      "c": 9.005677916908335,
+      "gamma": 119.9999726212238,
+      "matrix": [
+        [
+          3.208181272011755,
+          2.797165057895531e-07,
+          5.450743561184507e-09
+        ],
+        [
+          -1.6040893109457146,
+          2.778366693060237,
+          -4.9908703822229265e-09
+        ],
+        [
+          1.5303936382381095e-08,
+          -7.344814350982074e-09,
+          9.005677916908335
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 80.27215009889929
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.3333330508322006,
+          0.6666669048753076,
+          0.7500000218183459
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -3.935713832975915e-07,
+          1.852245211601257,
+          6.754258632659912
+        ]
+      },
+      {
+        "abc": [
+          0.6666672984326123,
+          0.3333329083469819,
+          0.2500000069981046
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6040937900543213,
+          0.9261212348937988,
+          2.2514195442199707
+        ]
+      },
+      {
+        "abc": [
+          -2.9098910312321753e-07,
+          8.236203086254904e-08,
+          0.25000000721687915
+        ],
+        "label": "N",
+        "properties": {},
+        "species": [
+          {
+            "element": "N",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.0618358601277578e-06,
+          2.2699563828609823e-07,
+          2.2514195442199707
+        ]
+      },
+      {
+        "abc": [
+          -5.0188030872295336e-08,
+          9.613757961842086e-08,
+          0.7500000216506368
+        ],
+        "label": "N",
+        "properties": {},
+        "species": [
+          {
+            "element": "N",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -3.037476119516214e-07,
+          2.6159682420257013e-07,
+          6.754258632659912
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_d413a43b-835a-4f57-a004-19fa8709b6ac"
+}

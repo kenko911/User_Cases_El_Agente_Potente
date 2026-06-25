@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "CuZr",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.6405317496130891,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_b3ee25f9-ad6a-4c3e-9e4d-5d1e01972511",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_d7a84446-4830-4c53-915e-4be1c972f2f6",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.19319266961187087,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.5266316959697386
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.2742899966318495,
+      "alpha": 90.00035242806017,
+      "b": 3.274335176457201,
+      "beta": 90.0004048604754,
+      "c": 3.27431370847812,
+      "gamma": 90.00115759926467,
+      "matrix": [
+        [
+          3.2742899964443413,
+          -3.3076973928637356e-05,
+          -1.1568402199373847e-05
+        ],
+        [
+          -3.307700657342318e-05,
+          3.274335176274645,
+          -1.0070297801447483e-05
+        ],
+        [
+          -1.1568402022133863e-05,
+          -1.0070287024058994e-05,
+          3.274313708442198
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 35.104319718535415
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.5000022072855791,
+          0.4999985381171146,
+          0.5000016993087922
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.6371299028396602,
+          1.6371412277221677,
+          1.6371515989303587
+        ]
+      },
+      {
+        "abc": [
+          -2.210078629474133e-06,
+          1.4637288507017313e-06,
+          -1.7171020042413878e-06
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -7.236466899485093e-06,
+          4.792829258803977e-06,
+          -5.622319804388098e-06
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_b3ee25f9-ad6a-4c3e-9e4d-5d1e01972511"
+}

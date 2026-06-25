@@ -1,0 +1,119 @@
+{
+  "chemical_formula": "Lu3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.22477222779682812,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_c0bf0828-7fcf-43fb-9217-387f3e6399e4",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_ebad632c-fc81-4650-87be-232f438234c6",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.18014594180864452,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.4264975802014197
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 8.55404338,
+      "alpha": 23.58076408999999,
+      "b": 8.55404338,
+      "beta": 23.58076408999999,
+      "c": 8.55404408,
+      "gamma": 23.580765529999983,
+      "matrix": [
+        [
+          8.55404338,
+          0.0,
+          0.0
+        ],
+        [
+          7.839755754542256,
+          3.4219713406227434,
+          0.0
+        ],
+        [
+          7.839756482093735,
+          1.6364371540126958,
+          3.0053222564342654
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 87.97086532573606
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Lu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Lu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.22180224967029652,
+          0.2218022185530333,
+          0.2218022285336013
+        ],
+        "label": "Lu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Lu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.375056743621826,
+          1.1219662427902222,
+          0.6665871739387512
+        ]
+      },
+      {
+        "abc": [
+          0.7781978542428922,
+          0.7781977444576835,
+          0.7781977784911573
+        ],
+        "label": "Lu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Lu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          18.85849952697754,
+          3.936442136764526,
+          2.3387351036071777
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_c0bf0828-7fcf-43fb-9217-387f3e6399e4"
+}

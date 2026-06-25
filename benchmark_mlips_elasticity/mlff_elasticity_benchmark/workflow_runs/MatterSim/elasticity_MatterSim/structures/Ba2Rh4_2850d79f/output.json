@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ba2Rh4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.5956584537170295,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a0dc89ab-5aca-4172-8f7e-f4dc30aff190",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_c3b4a26b-7cfb-4c0d-93b7-1da958dab44d",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.28082306521665756,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.7280553442531431
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.64316031,
+      "alpha": 59.999999999999986,
+      "b": 5.64316031,
+      "beta": 59.999999999999986,
+      "c": 5.643160309999999,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          5.64316031,
+          0.0,
+          0.0
+        ],
+        [
+          2.8215801550000004,
+          4.887120186088068,
+          0.0
+        ],
+        [
+          2.8215801550000004,
+          1.6290400620293561,
+          4.607621098742046
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 127.07267303421946
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.7500000397351327,
+          0.7500000073301292,
+          0.7500000153316778
+        ],
+        "label": "Ba",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ba",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.464740753173828,
+          4.887120246887208,
+          3.4557158946990962
+        ]
+      },
+      {
+        "abc": [
+          0.5000000145857011,
+          0.49999997236336197,
+          0.5000000102211186
+        ],
+        "label": "Ba",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ba",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.643160343170166,
+          3.2580800056457524,
+          2.3038105964660645
+        ]
+      },
+      {
+        "abc": [
+          0.12500000364642527,
+          0.12499999309084049,
+          0.12500000255527965
+        ],
+        "label": "Rh",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rh",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.4107900857925415,
+          0.8145200014114381,
+          0.5759526491165161
+        ]
+      },
+      {
+        "abc": [
+          0.6250000277099581,
+          0.12499999309084049,
+          0.12500000255527965
+        ],
+        "label": "Rh",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rh",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.232370376586915,
+          0.8145200014114381,
+          0.5759526491165161
+        ]
+      },
+      {
+        "abc": [
+          0.12500001420201,
+          0.6249999749186417,
+          0.12500000255527965
+        ],
+        "label": "Rh",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rh",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.821580171585083,
+          3.2580800056457524,
+          0.5759526491165161
+        ]
+      },
+      {
+        "abc": [
+          0.12500001336163719,
+          0.12499999225046764,
+          0.6249999869041993
+        ],
+        "label": "Rh",
+        "properties": {},
+        "species": [
+          {
+            "element": "Rh",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.821580171585083,
+          1.6290400028228762,
+          2.879763126373291
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_a0dc89ab-5aca-4172-8f7e-f4dc30aff190"
+}

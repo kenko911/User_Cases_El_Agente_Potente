@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ga2Zr4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.6103563816808395,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_fe8369fe-3952-47f5-a46e-2f9a452b7f71",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_bc851c1d-7f41-43f0-ac90-99d20d257d71",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.35262035095402267,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.8870385360140018
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.48580156,
+      "alpha": 104.30746184,
+      "b": 5.48580156,
+      "beta": 104.30746184,
+      "c": 5.48580156,
+      "gamma": 120.38112390999997,
+      "matrix": [
+        [
+          5.48580156,
+          0.0,
+          0.0
+        ],
+        [
+          -2.7744418437374017,
+          4.732493128512437,
+          0.0
+        ],
+        [
+          -1.3556798576443065,
+          -2.366246563406207,
+          4.759939924037305
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 123.57526690731603
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.3461579212333352,
+          0.15384210105440413,
+          0.5000000234627539
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.7942877411842345,
+          -0.4550666511058806,
+          2.379970073699951
+        ]
+      },
+      {
+        "abc": [
+          0.15384210101010645,
+          0.6538420844472979,
+          0.8076831832385276
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.065059423446655,
+          1.183125615119934,
+          3.8445234298706055
+        ]
+      },
+      {
+        "abc": [
+          0.653842096392823,
+          0.8461579068910273,
+          0.5000000234627539
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.5613921284675599,
+          2.821313142776489,
+          2.379970073699951
+        ]
+      },
+      {
+        "abc": [
+          0.8461579228569784,
+          0.3461579173459985,
+          0.19231681359841118
+        ],
+        "label": "Zr",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zr",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.4207394123077397,
+          1.1831209659576414,
+          0.9154164791107178
+        ]
+      },
+      {
+        "abc": [
+          0.24999999557905866,
+          0.24999998918245311,
+          0.0
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.6778399348258972,
+          1.1831232309341428,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.7499999886115143,
+          0.7499999927368919,
+          0.0
+        ],
+        "label": "Ga",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ga",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.033519744873047,
+          3.5493698120117183,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_fe8369fe-3952-47f5-a46e-2f9a452b7f71"
+}

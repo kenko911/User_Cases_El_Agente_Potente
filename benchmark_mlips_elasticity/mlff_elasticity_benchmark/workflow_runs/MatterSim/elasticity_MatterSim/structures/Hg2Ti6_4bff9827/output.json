@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "Hg2Ti6",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.7058688828773634,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_86d83b31-7252-4795-986a-45c73d49061c",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_c34e3a30-2ab0-496c-a54b-06b60e4103e9",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.36150219057613525,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.9263644622842532
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.20123422,
+      "alpha": 90.0,
+      "b": 5.20123422,
+      "beta": 90.0,
+      "c": 5.20123422,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          5.20123422,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.20123422,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          5.20123422
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 140.7081436917446
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.5000000115999126,
+          0.2500000057999563,
+          0.0
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.6006171703338623,
+          1.3003085851669312,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000115999126,
+          0.7499999944804454,
+          0.0
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.6006171703338623,
+          3.900925636291504,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.2500000057999563,
+          0.0,
+          0.5000000115999126
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.3003085851669312,
+          0.0,
+          2.6006171703338623
+        ]
+      },
+      {
+        "abc": [
+          0.7499999944804454,
+          0.0,
+          0.5000000115999126
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.900925636291504,
+          0.0,
+          2.6006171703338623
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.5000000115999126,
+          0.2500000057999563
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.6006171703338623,
+          1.3003085851669312
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.5000000115999126,
+          0.7499999944804454
+        ],
+        "label": "Ti",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ti",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.6006171703338623,
+          3.900925636291504
+        ]
+      },
+      {
+        "abc": [
+          0.5000000115999126,
+          0.5000000115999126,
+          0.5000000115999126
+        ],
+        "label": "Hg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.6006171703338623,
+          2.6006171703338623,
+          2.6006171703338623
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Hg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Hg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_86d83b31-7252-4795-986a-45c73d49061c"
+}

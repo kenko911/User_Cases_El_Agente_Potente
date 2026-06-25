@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ce2Os4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.2287877434066317,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_9640f195-8ceb-44ca-b26d-64929b9c4e14",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_78cc15f0-3923-46d0-a491-d5a4ad6d423c",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.2899819967589522,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.8065036428616157
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.39992796,
+      "alpha": 59.999999999999986,
+      "b": 5.39992796,
+      "beta": 59.999999999999986,
+      "c": 5.399927959999999,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          5.39992796,
+          0.0,
+          0.0
+        ],
+        [
+          2.6999639800000006,
+          4.67647479196588,
+          0.0
+        ],
+        [
+          2.6999639800000006,
+          1.5588249306552937,
+          4.40902271659603
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 111.33940602341188
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.7499999760548876,
+          0.7499999566237335,
+          0.7499999885235115
+        ],
+        "label": "Ce",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ce",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.099891662597656,
+          4.676474571228027,
+          3.306766986846924
+        ]
+      },
+      {
+        "abc": [
+          0.5000000284007211,
+          0.49999998206831975,
+          0.5000000103740587
+        ],
+        "label": "Ce",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ce",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.399928092956543,
+          3.1176497936248775,
+          2.2045114040374756
+        ]
+      },
+      {
+        "abc": [
+          0.12500001868328056,
+          0.6249999846618345,
+          0.12500000259351468
+        ],
+        "label": "Os",
+        "properties": {},
+        "species": [
+          {
+            "element": "Os",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.6999640464782715,
+          3.117649793624878,
+          0.5511278510093689
+        ]
+      },
+      {
+        "abc": [
+          0.12500000710058307,
+          0.1249999839343824,
+          0.6250000264863618
+        ],
+        "label": "Os",
+        "properties": {},
+        "species": [
+          {
+            "element": "Os",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.6999640464782715,
+          1.558824896812439,
+          2.7556393146514893
+        ]
+      },
+      {
+        "abc": [
+          0.6249999752589578,
+          0.12499999551707994,
+          0.12500000259351468
+        ],
+        "label": "Os",
+        "properties": {},
+        "species": [
+          {
+            "element": "Os",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.049945831298828,
+          0.7794124484062194,
+          0.5511278510093689
+        ]
+      },
+      {
+        "abc": [
+          0.12500000710018028,
+          0.12499999551707994,
+          0.12500000259351468
+        ],
+        "label": "Os",
+        "properties": {},
+        "species": [
+          {
+            "element": "Os",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.3499820232391357,
+          0.7794124484062194,
+          0.5511278510093689
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_9640f195-8ceb-44ca-b26d-64929b9c4e14"
+}

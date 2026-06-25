@@ -1,0 +1,139 @@
+{
+  "chemical_formula": "AgBaO2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.48358511279041627,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_3968e0ad-77e3-4e41-9943-997e882b77e0",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_e910fda4-ce85-410a-ab7e-23dea5715b19",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.26991825745370646,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.6827303339953139
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.33381254,
+      "alpha": 90.0,
+      "b": 4.33381254,
+      "beta": 90.0,
+      "c": 3.73637665,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          4.33381254,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          4.33381254,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          3.73637665
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 70.17636892299446
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.5000000200312134,
+          0.5000000200312134,
+          0.5000000150399903
+        ],
+        "label": "Ba",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ba",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.166906356811524,
+          2.166906356811524,
+          1.8681883811950684
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Ag",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ag",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.5000000200312134,
+          0.0,
+          0.0
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.166906356811524,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.5000000200312134,
+          0.0
+        ],
+        "label": "O",
+        "properties": {},
+        "species": [
+          {
+            "element": "O",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          2.166906356811524,
+          0.0
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_3968e0ad-77e3-4e41-9943-997e882b77e0"
+}

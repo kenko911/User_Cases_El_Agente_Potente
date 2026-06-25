@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "Cu3TaTe4",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.435259252941709,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0ce515eb-986f-48ab-bcd3-84472a5124c9",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_ce45b30d-1080-4ac0-abb4-ccf9ea68f902",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.20020752833655953,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.5207750830234307
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 6.01327575,
+      "alpha": 90.0,
+      "b": 6.01327575,
+      "beta": 90.0,
+      "c": 6.01327575,
+      "gamma": 90.0,
+      "matrix": [
+        [
+          6.01327575,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          6.01327575,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          6.01327575
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 217.43695575947683
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Ta",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ta",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.49999998946676716,
+          0.0
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          3.0066378116607666,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.49999998946676716,
+          0.0,
+          0.0
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.0066378116607666,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.49999998946676716
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          3.0066378116607666
+        ]
+      },
+      {
+        "abc": [
+          0.25611192146577466,
+          0.7438880772921108,
+          0.7438880772921108
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.5400716066360471,
+          4.473204135894775,
+          4.473204135894775
+        ]
+      },
+      {
+        "abc": [
+          0.25611192146577466,
+          0.25611192146577466,
+          0.25611192146577466
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.5400716066360471,
+          1.5400716066360471,
+          1.5400716066360471
+        ]
+      },
+      {
+        "abc": [
+          0.7438880772921108,
+          0.25611192146577466,
+          0.7438880772921108
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.473204135894775,
+          1.5400716066360471,
+          4.473204135894775
+        ]
+      },
+      {
+        "abc": [
+          0.7438880772921108,
+          0.7438880772921108,
+          0.25611192146577466
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.473204135894775,
+          4.473204135894775,
+          1.5400716066360471
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0ce515eb-986f-48ab-bcd3-84472a5124c9"
+}

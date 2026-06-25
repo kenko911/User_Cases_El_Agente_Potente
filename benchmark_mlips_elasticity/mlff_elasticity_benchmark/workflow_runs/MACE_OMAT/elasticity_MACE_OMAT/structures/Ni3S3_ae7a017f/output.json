@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Ni3S3",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.8374028925568517,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_35159d45-0f5b-42cd-98af-fd655aa613c7",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_4d4226f5-4ad0-4894-bba3-4d0d5bbb93e6",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.40029417817424706,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.0358333273516964
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.62988844,
+      "alpha": 116.62300803,
+      "b": 5.62988844,
+      "beta": 116.62300803,
+      "c": 5.62988826,
+      "gamma": 116.62300156000002,
+      "matrix": [
+        [
+          5.62988844,
+          0.0,
+          0.0
+        ],
+        [
+          -2.5228544189397444,
+          5.0329761997929054,
+          0.0
+        ],
+        [
+          -2.5228549066162436,
+          -4.086684797933876,
+          2.9376610258136204
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 83.23890285180212
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.3959625847368921,
+          0.6600936283627241,
+          0.3959625788224503
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -0.43505108356475825,
+          1.704061269760132,
+          1.163203835487366
+        ]
+      },
+      {
+        "abc": [
+          0.3959626056646693,
+          0.3959626034389236,
+          0.6600936466420378
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -0.43505120277404796,
+          -0.704724311828613,
+          1.9391313791275024
+        ]
+      },
+      {
+        "abc": [
+          0.6600936178497954,
+          0.3959625793612389,
+          0.3959625788224503
+        ],
+        "label": "Ni",
+        "properties": {},
+        "species": [
+          {
+            "element": "Ni",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.7183413505554201,
+          0.37469598650932306,
+          1.163203835487366
+        ]
+      },
+      {
+        "abc": [
+          0.11984159086199112,
+          0.7836990072918112,
+          0.11984159064131299
+        ],
+        "label": "S",
+        "properties": {},
+        "species": [
+          {
+            "element": "S",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.6048066616058352,
+          3.454583644866944,
+          0.3520539700984955
+        ]
+      },
+      {
+        "abc": [
+          0.11984158396960685,
+          0.11984158496441988,
+          0.7836990110172843
+        ],
+        "label": "S",
+        "properties": {},
+        "species": [
+          {
+            "element": "S",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.6048070192337038,
+          -2.5995709896087646,
+          2.3022420406341553
+        ]
+      },
+      {
+        "abc": [
+          0.7836990162095316,
+          0.1198415900331988,
+          0.11984159064131299
+        ],
+        "label": "S",
+        "properties": {},
+        "species": [
+          {
+            "element": "S",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.807452201843262,
+          0.11340506374835976,
+          0.3520539700984955
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_35159d45-0f5b-42cd-98af-fd655aa613c7"
+}

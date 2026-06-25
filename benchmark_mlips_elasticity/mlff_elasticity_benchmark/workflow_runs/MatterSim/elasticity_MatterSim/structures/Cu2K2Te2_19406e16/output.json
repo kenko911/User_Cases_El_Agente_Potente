@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Cu2K2Te2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.17188555370695696,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_4c4bfa5f-e557-44c1-bf07-56ea8e350c1a",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_00d3e9e4-4b80-44be-be3f-2e56c186d149",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.11509754815670145,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.2822850003030189
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 4.48115312,
+      "alpha": 90.0,
+      "b": 4.48115312,
+      "beta": 90.0,
+      "c": 10.25762835,
+      "gamma": 120.00000745000001,
+      "matrix": [
+        [
+          4.48115312,
+          0.0,
+          0.0
+        ],
+        [
+          -2.2405770646078937,
+          3.8807921488323505,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          10.25762835
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 178.38450465931302
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "K",
+        "properties": {},
+        "species": [
+          {
+            "element": "K",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.5000000044287496
+        ],
+        "label": "K",
+        "properties": {},
+        "species": [
+          {
+            "element": "K",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          5.128814220428467
+        ]
+      },
+      {
+        "abc": [
+          0.33333300672457244,
+          0.666667013449177,
+          0.7499999834000733
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.5769820694079596e-06,
+          2.587196111679077,
+          7.693221092224121
+        ]
+      },
+      {
+        "abc": [
+          0.6666670118721761,
+          0.3333330152402318,
+          0.2500000022143748
+        ],
+        "label": "Cu",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cu",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.2405786514282227,
+          1.2935961484909058,
+          2.5644071102142334
+        ]
+      },
+      {
+        "abc": [
+          0.33333300672457244,
+          0.666667013449177,
+          0.2500000022143748
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -2.5769820694079596e-06,
+          2.587196111679077,
+          2.5644071102142334
+        ]
+      },
+      {
+        "abc": [
+          0.6666670118721761,
+          0.3333330152402318,
+          0.7499999834000733
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.2405786514282227,
+          1.2935961484909058,
+          7.693221092224121
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_4c4bfa5f-e557-44c1-bf07-56ea8e350c1a"
+}

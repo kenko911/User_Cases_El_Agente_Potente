@@ -1,0 +1,219 @@
+{
+  "chemical_formula": "Cd2Te4Zn2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.2401888390173062,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_350dcb71-ec10-480b-ae0a-0d578b6f2dde",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_6a3d6e85-34ee-4774-8f31-ee29bd8510f4",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.12738811202172987,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.3247518382920876
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 7.81684234,
+      "alpha": 131.49220057999997,
+      "b": 7.81684234,
+      "beta": 131.49220057999997,
+      "c": 7.81684234,
+      "gamma": 71.03223303,
+      "matrix": [
+        [
+          7.81684234,
+          0.0,
+          0.0
+        ],
+        [
+          2.5407565755431163,
+          7.392400164510245,
+          0.0
+        ],
+        [
+          -5.178799457403612,
+          -3.6962000819925125,
+          4.541053325197941
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 262.4057954000033
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.7500000121377325,
+          0.24999999834496314,
+          0.4999999966899262
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.908421277999877,
+          1.3130530168329464e-10,
+          2.270526647567749
+        ]
+      },
+      {
+        "abc": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "label": "Zn",
+        "properties": {},
+        "species": [
+          {
+            "element": "Zn",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.2499999889891969,
+          0.7500000051064435,
+          0.4999999966899262
+        ],
+        "label": "Cd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.2703782320022579,
+          3.6962001323699964,
+          2.270526647567749
+        ]
+      },
+      {
+        "abc": [
+          0.5000000197286136,
+          0.5000000067792425,
+          0.0
+        ],
+        "label": "Cd",
+        "properties": {},
+        "species": [
+          {
+            "element": "Cd",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.178799629211425,
+          3.696200132369996,
+          0.0
+        ]
+      },
+      {
+        "abc": [
+          0.6488163821197872,
+          0.6249999944054674,
+          0.5238163732235218
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.9469282627105713,
+          2.6841199398040776,
+          2.3786780834197994
+        ]
+      },
+      {
+        "abc": [
+          0.1011836091486088,
+          0.12500000563855573,
+          0.47618362015633053
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.3575285673141484,
+          -0.8360198736190794,
+          2.1623752117156982
+        ]
+      },
+      {
+        "abc": [
+          0.8749999980027758,
+          0.35118360942152244,
+          0.9761836168462567
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.676549911499023,
+          -1.012080192565917,
+          4.432901859283446
+        ]
+      },
+      {
+        "abc": [
+          0.37499997904767046,
+          0.8988163878386839,
+          0.02381638965932674
+        ],
+        "label": "Te",
+        "properties": {},
+        "species": [
+          {
+            "element": "Te",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.091649055480957,
+          6.556380271911621,
+          0.10815149545669556
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_350dcb71-ec10-480b-ae0a-0d578b6f2dde"
+}

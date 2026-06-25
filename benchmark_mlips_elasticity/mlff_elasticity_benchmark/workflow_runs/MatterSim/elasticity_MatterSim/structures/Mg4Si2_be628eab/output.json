@@ -1,0 +1,179 @@
+{
+  "chemical_formula": "Mg4Si2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.29621083413093063,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_8ded4c8a-644a-454c-95b0-ba704a202387",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_209d24a9-d42b-48e6-81c5-51d2d230116f",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.1210605605297632,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.31963678704472476
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 5.5908697,
+      "alpha": 59.99999999999999,
+      "b": 5.5908697,
+      "beta": 59.99999999999999,
+      "c": 5.5908697,
+      "gamma": 59.99999999999999,
+      "matrix": [
+        [
+          5.5908697,
+          0.0,
+          0.0
+        ],
+        [
+          2.7954348500000004,
+          4.841835189448683,
+          0.0
+        ],
+        [
+          2.7954348500000004,
+          1.6139450631495613,
+          4.5649259944624205
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 123.57286463126418
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.12500001698745344,
+          0.12499998148768926,
+          0.6250000209475626
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.7954349517822266,
+          1.6139450073242188,
+          2.853078842163086
+        ]
+      },
+      {
+        "abc": [
+          0.12500002833836504,
+          0.6249999755439161,
+          0.12500000418951251
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          2.795434951782227,
+          3.2278900146484375,
+          0.5706157684326172
+        ]
+      },
+      {
+        "abc": [
+          0.12500001058848298,
+          0.12499999283860089,
+          0.12500000418951251
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.3977174758911133,
+          0.8069725036621094,
+          0.5706157684326172
+        ]
+      },
+      {
+        "abc": [
+          0.6250000287935623,
+          0.12499999283860089,
+          0.12500000418951251
+        ],
+        "label": "Mg",
+        "properties": {},
+        "species": [
+          {
+            "element": "Mg",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          4.19315242767334,
+          0.8069725036621094,
+          0.5706157684326172
+        ]
+      },
+      {
+        "abc": [
+          0.5000000423539319,
+          0.49999997135440355,
+          0.5000000167580501
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          5.590869903564453,
+          3.2278900146484375,
+          2.2824630737304688
+        ]
+      },
+      {
+        "abc": [
+          0.7500000635308977,
+          0.7499999570316054,
+          0.7500000251370751
+        ],
+        "label": "Si",
+        "properties": {},
+        "species": [
+          {
+            "element": "Si",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          8.38630485534668,
+          4.841835021972656,
+          3.4236946105957027
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_8ded4c8a-644a-454c-95b0-ba704a202387"
+}

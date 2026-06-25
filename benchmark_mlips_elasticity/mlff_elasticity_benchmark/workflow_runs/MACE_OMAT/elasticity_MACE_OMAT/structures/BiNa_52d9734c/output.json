@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "BiNa",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 0.1832819305649174,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_159295fa-0ca2-43b6-ad94-5a484358c965",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_d4dc2b13-de0f-4363-88fa-7d7e453846fe",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.08345453279845354,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 0.2173713886557797
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 3.430187840624544,
+      "alpha": 89.99999994343888,
+      "b": 3.4301842463119856,
+      "beta": 90.0000000129977,
+      "c": 4.9419133687355865,
+      "gamma": 90.00000001468614,
+      "matrix": [
+        [
+          3.430187840624544,
+          -4.3961514320030186e-10,
+          -3.8919556724062094e-10
+        ],
+        [
+          -4.396151432003017e-10,
+          3.4301842463119856,
+          1.6936329482329337e-09
+        ],
+        [
+          -5.603670695212093e-10,
+          2.438507043578683e-09,
+          4.9419133687355865
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 58.147423920294166
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          0.49999997996529444,
+          0.49999998215684643,
+          0.49999997550130526
+        ],
+        "label": "Na",
+        "properties": {},
+        "species": [
+          {
+            "element": "Na",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.7150938510894775,
+          1.7150920629501343,
+          2.470956563949585
+        ]
+      },
+      {
+        "abc": [
+          -3.202016962256149e-10,
+          1.3025153819638042e-10,
+          -1.1308061237882596e-10
+        ],
+        "label": "Bi",
+        "properties": {},
+        "species": [
+          {
+            "element": "Bi",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          -1.098351964934352e-09,
+          4.467867742441456e-10,
+          -5.588345897145075e-10
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_159295fa-0ca2-43b6-ad94-5a484358c965"
+}

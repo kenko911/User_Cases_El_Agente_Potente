@@ -1,0 +1,99 @@
+{
+  "chemical_formula": "CoFe",
+  "phase_stability_assessment": null,
+  "properties": {
+    "elasticity": {
+      "bulk_modulus_vrh": 1.2321489700098414,
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_e33b9584-9f1c-4636-805c-568c80a2d87d",
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFElasticityResult_2352d903-1b38-4431-aa56-255063afcaeb",
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "shear_modulus_vrh": 0.5783004955656452,
+      "units": "eV/\u00c5^3",
+      "youngs_modulus": 1.5001988728767104
+    }
+  },
+  "structure": {
+    "@class": "Structure",
+    "@module": "pymatgen.core.structure",
+    "charge": 0.0,
+    "lattice": {
+      "a": 2.8476519553416995,
+      "alpha": 90.00000001285923,
+      "b": 2.847651955955069,
+      "beta": 90.00000001836919,
+      "c": 2.8476519553416995,
+      "gamma": 90.0000000059877,
+      "matrix": [
+        [
+          2.8476519553416995,
+          -1.4879694003503499e-10,
+          -4.56482498881358e-10
+        ],
+        [
+          -1.4879694003503496e-10,
+          2.847651955955069,
+          -3.1955736349701823e-10
+        ],
+        [
+          -4.5648249888135804e-10,
+          -3.1955736349701823e-10,
+          2.8476519553416995
+        ]
+      ],
+      "pbc": [
+        true,
+        true,
+        true
+      ],
+      "volume": 23.091956152649523
+    },
+    "properties": {
+      "charge": 0.0,
+      "multiplicity": 1
+    },
+    "sites": [
+      {
+        "abc": [
+          1.0747425392683044e-10,
+          1.7575566697630456e-11,
+          1.756980678962317e-10
+        ],
+        "label": "Fe",
+        "properties": {},
+        "species": [
+          {
+            "element": "Fe",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          3.060492692608108e-10,
+          5.004909681138868e-11,
+          5.003269465397864e-10
+        ]
+      },
+      {
+        "abc": [
+          0.5000000006547773,
+          0.5000000005230382,
+          0.50000000068476
+        ],
+        "label": "Co",
+        "properties": {},
+        "species": [
+          {
+            "element": "Co",
+            "occu": 1
+          }
+        ],
+        "xyz": [
+          1.423825979232788,
+          1.4238259792327879,
+          1.423825979232788
+        ]
+      }
+    ]
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_e33b9584-9f1c-4636-805c-568c80a2d87d"
+}
