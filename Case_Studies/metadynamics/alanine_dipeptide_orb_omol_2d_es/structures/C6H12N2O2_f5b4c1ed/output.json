@@ -1,0 +1,196 @@
+{
+  "chemical_formula": "C6H12N2O2",
+  "phase_stability_assessment": null,
+  "properties": {
+    "enhanced_sampling": {
+      "artifact_paths": [
+        "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/trajectory.xyz",
+        "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/md.log",
+        "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/free_energy_001_metadynamics.csv"
+      ],
+      "collective_variables": [
+        "phi",
+        "psi"
+      ],
+      "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6c2d7f81-213b-4dc0-a624-e82a6f947bc6",
+      "free_energy_surfaces": [
+        {
+          "artifact_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/free_energy_001_metadynamics.csv",
+          "collective_variable_units": [
+            "degree",
+            "degree"
+          ],
+          "collective_variables": [
+            "phi",
+            "psi"
+          ],
+          "convergence_status": "not_assessed",
+          "free_energy_unit": "kJ/mol",
+          "instance_iri": "https://elagente.ca/ontomlff/MLFFEnhancedSamplingFreeEnergyResult_d95c7242-7662-4e4a-b92b-e2c88005e45f",
+          "method": "metadynamics",
+          "rdfs_comment": [],
+          "rdfs_label": [],
+          "status": "estimated"
+        }
+      ],
+      "instance_iri": "https://elagente.ca/ontomlff/MLFFEnhancedSamplingResult_977b86e8-bbb0-4613-a02c-42ce4882333e",
+      "methods": [
+        "metadynamics"
+      ],
+      "rdfs_comment": [],
+      "rdfs_label": [],
+      "trajectory_frames": 1001
+    }
+  },
+  "structure": {
+    "__ase_objtype__": "atoms",
+    "cell": {
+      "__ndarray__": [
+        [
+          3,
+          3
+        ],
+        "float64",
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    "info": {
+      "charge": 0.0,
+      "multiplicity": 1,
+      "spin": 1
+    },
+    "numbers": {
+      "__ndarray__": [
+        [
+          22
+        ],
+        "int64",
+        [
+          1,
+          6,
+          1,
+          1,
+          6,
+          8,
+          7,
+          1,
+          6,
+          1,
+          6,
+          1,
+          1,
+          1,
+          6,
+          8,
+          7,
+          1,
+          6,
+          1,
+          1,
+          1
+        ]
+      ]
+    },
+    "pbc": {
+      "__ndarray__": [
+        [
+          3
+        ],
+        "bool",
+        [
+          false,
+          false,
+          false
+        ]
+      ]
+    },
+    "positions": {
+      "__ndarray__": [
+        [
+          22,
+          3
+        ],
+        "float64",
+        [
+          -2.3969826698303223,
+          1.7174633741378784,
+          0.6087676286697388,
+          -1.7012877464294434,
+          1.102579951286316,
+          1.180864691734314,
+          -1.5242135524749756,
+          1.6002931594848633,
+          2.1337437629699707,
+          -2.15427827835083,
+          0.12735721468925476,
+          1.360781192779541,
+          -0.39454472064971924,
+          1.0300217866897583,
+          0.42126089334487915,
+          0.2711547315120697,
+          2.0372564792633057,
+          0.2116117626428604,
+          -0.028836747631430626,
+          -0.20387448370456696,
+          -0.0015105392085388303,
+          -0.6172353625297546,
+          -0.9733790159225464,
+          0.26838216185569763,
+          1.1275972127914429,
+          -0.534367561340332,
+          -0.8463666439056396,
+          1.0208221673965454,
+          -1.5928205251693726,
+          -1.0824090242385864,
+          1.148360013961792,
+          0.2593030333518982,
+          -2.1539523601531982,
+          0.22630271315574646,
+          0.08185626566410065,
+          -2.710718870162964,
+          1.245934009552002,
+          1.3279656171798706,
+          -1.9715248346328735,
+          1.9912751913070679,
+          -0.07542917877435684,
+          -2.7601892948150635,
+          2.4799952507019043,
+          -0.4567600190639496,
+          -0.11416027694940567,
+          3.2313003540039062,
+          -1.4202766418457031,
+          -0.1076396182179451,
+          2.7789201736450195,
+          0.7240453362464905,
+          0.4576874077320099,
+          2.0903573036193848,
+          1.4677560329437256,
+          0.41585877537727356,
+          4.038218021392822,
+          0.9098374843597412,
+          1.1521190404891968,
+          4.128119945526123,
+          0.21535523235797882,
+          1.989689826965332,
+          4.0857768058776855,
+          1.9311392307281494,
+          1.5261095762252808,
+          4.8793792724609375,
+          0.7334977984428406,
+          0.47954532504081726
+        ]
+      ]
+    }
+  },
+  "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6c2d7f81-213b-4dc0-a624-e82a6f947bc6"
+}

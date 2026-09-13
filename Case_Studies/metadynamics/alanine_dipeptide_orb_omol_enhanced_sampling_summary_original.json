@@ -1,0 +1,142 @@
+{
+  "request": {
+    "source_xyz": "/scratch/kenko/repos/adaptive_sampling/examples/JCTC_2025_opeseabf/alanine_dipeptide/test_potente/alanine_c7ax.xyz",
+    "local_xyz": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_c7ax_input.xyz",
+    "formula": "C6H12N2O2",
+    "n_atoms": 22,
+    "pbc": [
+      false,
+      false,
+      false
+    ],
+    "initial_phi_degrees": 74.31401460925184,
+    "initial_psi_degrees": 302.6131336314577,
+    "enhanced_sampling": {
+      "collective_variables": [
+        {
+          "type": "torsion",
+          "name": "phi",
+          "atom_indices": [
+            4,
+            6,
+            8,
+            14
+          ]
+        },
+        {
+          "type": "torsion",
+          "name": "psi",
+          "atom_indices": [
+            6,
+            8,
+            14,
+            16
+          ]
+        }
+      ],
+      "methods": [
+        {
+          "method": "metadynamics",
+          "collective_variables": [
+            "phi",
+            "psi"
+          ],
+          "minimum": [
+            -180.0,
+            -180.0
+          ],
+          "maximum": [
+            180.0,
+            180.0
+          ],
+          "bin_width": [
+            5.0,
+            5.0
+          ],
+          "periodicity": [
+            [
+              -180.0,
+              180.0
+            ],
+            [
+              -180.0,
+              180.0
+            ]
+          ],
+          "hill_height": 1.0,
+          "hill_std": [
+            10.0,
+            10.0
+          ],
+          "hill_drop_frequency": 100,
+          "bias_factor": 10.0,
+          "confinement_force": 0.0,
+          "output_frequency": 100,
+          "verbose": true,
+          "kinetics": false
+        }
+      ]
+    },
+    "mlff_settings": {
+      "model_name": "Orb-OMOL",
+      "charge": 0,
+      "spin_multiplicity": 1,
+      "relax_cell": false,
+      "md_ensemble": "nvt_bussi",
+      "md_temperature_K": 300.0,
+      "md_timestep_fs": 0.5,
+      "equilibration_steps": 1000,
+      "production_steps": 100000,
+      "record_interval_steps": 100
+    }
+  },
+  "outputs": [
+    {
+      "chemical_formula": "C6H12N2O2",
+      "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6c2d7f81-213b-4dc0-a624-e82a6f947bc6",
+      "run_artifact_dir": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es",
+      "run_summary_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/run_summary.txt",
+      "output_json_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/output.json",
+      "summary_csv_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/property_summary.csv",
+      "enhanced_sampling": {
+        "rdfs_comment": [],
+        "rdfs_label": [],
+        "instance_iri": "https://elagente.ca/ontomlff/MLFFEnhancedSamplingResult_977b86e8-bbb0-4613-a02c-42ce4882333e",
+        "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_6c2d7f81-213b-4dc0-a624-e82a6f947bc6",
+        "collective_variables": [
+          "phi",
+          "psi"
+        ],
+        "methods": [
+          "metadynamics"
+        ],
+        "trajectory_frames": 1001,
+        "free_energy_surfaces": [
+          {
+            "rdfs_comment": [],
+            "rdfs_label": [],
+            "instance_iri": "https://elagente.ca/ontomlff/MLFFEnhancedSamplingFreeEnergyResult_d95c7242-7662-4e4a-b92b-e2c88005e45f",
+            "method": "metadynamics",
+            "collective_variables": [
+              "phi",
+              "psi"
+            ],
+            "collective_variable_units": [
+              "degree",
+              "degree"
+            ],
+            "status": "estimated",
+            "free_energy_unit": "kJ/mol",
+            "artifact_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/free_energy_001_metadynamics.csv",
+            "convergence_status": "not_assessed"
+          }
+        ],
+        "artifact_paths": [
+          "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/trajectory.xyz",
+          "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/md.log",
+          "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/free_energy_001_metadynamics.csv"
+        ]
+      }
+    }
+  ]
+}

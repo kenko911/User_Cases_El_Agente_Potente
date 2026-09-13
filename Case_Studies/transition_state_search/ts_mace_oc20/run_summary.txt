@@ -1,0 +1,4 @@
+Generated 1 structure(s) from file: /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat_vs_oc20/reactant_bottom_two_layers_fixed.extxyz
+Relaxation done for C6H7Fe64O (steps≤500, fmax=0.05). Energy: -530.557922 eV.
+[deterministic routing] Properties: ['MLFFTransitionStateSearch'] The workflow request supplied explicit typed property inputs; AI routing was not required.
+[Transition state] Finished neb path and sella refinement for C6H7Fe64O. Barrier: 1.094665527343757 eV; saved 7 path images and 2 refinement frames.

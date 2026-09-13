@@ -1,0 +1,16 @@
+{
+  "input_free_energy_csv": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/free_energy_001_metadynamics.csv",
+  "plot_directory": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es_plots",
+  "sampling_distribution_png": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es_plots/sampling_distribution_phi_psi.png",
+  "free_energy_surface_png": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es_plots/free_energy_surface_phi_psi.png",
+  "combined_png": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es_plots/sampling_and_fes_phi_psi.png",
+  "free_energy_minimum": {
+    "phi_degree": -77.5,
+    "psi_degree": 102.5,
+    "free_energy_kj_mol": 0.0,
+    "samples": 43.0
+  },
+  "visited_bins": 2429,
+  "total_bins": 5184,
+  "total_samples": 100001
+}

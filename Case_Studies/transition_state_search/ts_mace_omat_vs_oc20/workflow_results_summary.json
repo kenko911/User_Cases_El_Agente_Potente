@@ -1,0 +1,164 @@
+[
+  {
+    "model": "MACE-OMAT",
+    "status": "success",
+    "output": [
+      {
+        "rdfs_comment": [],
+        "rdfs_label": [],
+        "instance_iri": "https://elagente.ca/ontomlff/MLFFOutput_781b0174-63b9-461e-9600-974163007b14",
+        "run_artifact_dir": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat",
+        "run_summary_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat/run_summary.txt",
+        "summary_csv_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat/structures/property_summary.csv",
+        "gcmc_summary_csv_path": null,
+        "output_json_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat/structures/C6H7Fe64O_6145b6ac/output.json",
+        "workflow_run_iri": "https://elagente.ca/ontomlff/MLFFWorkflowRun_2d8402c8-e10c-4db5-bbe8-24aea92d02b3",
+        "target_iri": "https://elagente.ca/ontomlff/MLFFTarget_fa4e5272-c5f4-409f-b530-c39062027641",
+        "phase_diagram_iri": null,
+        "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0d562dea-bff6-4142-8e06-a4a2e582f4e3",
+        "chemical_formula": "C6H7Fe64O",
+        "low_energy_conformer_search": null,
+        "molecular_dynamics": null,
+        "enhanced_sampling": null,
+        "ionic_conductivity": null,
+        "elasticity": null,
+        "harmonic_phonon": null,
+        "qha_phonon": null,
+        "anharmonic_phonon": null,
+        "density_of_states": null,
+        "phase_stability_assessment": null,
+        "phase_stability": null,
+        "widom_insertion": null,
+        "gcmc": null,
+        "adsorption_site_search": null,
+        "neb": null,
+        "transition_state_search": {
+          "rdfs_comment": [],
+          "rdfs_label": [],
+          "instance_iri": "https://elagente.ca/ontomlff/MLFFTransitionStateSearchResult_579068f5-c400-4e13-8d80-52727a8541fc",
+          "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_0d562dea-bff6-4142-8e06-a4a2e582f4e3",
+          "path_method": "neb",
+          "refinement_method": "sella",
+          "barrier": 1.7894287109376137,
+          "energies": [
+            -586.0949096679688,
+            -585.9089965820312,
+            -585.1959838867188,
+            -584.3054809570312,
+            -585.4354248046875,
+            -588.0819091796875,
+            -588.373291015625
+          ],
+          "relative_energies": [
+            0.0,
+            0.1859130859375,
+            0.89892578125,
+            1.7894287109375,
+            0.65948486328125,
+            -1.98699951171875,
+            -2.27838134765625
+          ],
+          "ts_index": 3,
+          "ts_energy": -584.3054809570312,
+          "converged": true,
+          "path_image_count": 7,
+          "refinement_image_count": 2,
+          "artifact_paths": [
+            "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat/structures/C6H7Fe64O_6145b6ac/transition_state_search/transition_state_search.extxyz",
+            "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat/structures/C6H7Fe64O_6145b6ac/transition_state_search/transition_state_refinement.extxyz"
+          ],
+          "output_dir": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat/structures/C6H7Fe64O_6145b6ac/transition_state_search",
+          "error": null,
+          "traceback_str": null,
+          "units": {
+            "barrier": "eV",
+            "energies": "eV",
+            "relative_energies": "eV",
+            "ts_energy": "eV"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "model": "MACE-OC20",
+    "status": "success",
+    "output": [
+      {
+        "rdfs_comment": [],
+        "rdfs_label": [],
+        "instance_iri": "https://elagente.ca/ontomlff/MLFFOutput_3232aba6-0a69-45da-b24b-dcdde27b965d",
+        "run_artifact_dir": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20",
+        "run_summary_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20/run_summary.txt",
+        "summary_csv_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20/structures/property_summary.csv",
+        "gcmc_summary_csv_path": null,
+        "output_json_path": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20/structures/C6H7Fe64O_e5863526/output.json",
+        "workflow_run_iri": "https://elagente.ca/ontomlff/MLFFWorkflowRun_d50ec56b-c474-4ef8-b78f-892c1fc4d200",
+        "target_iri": "https://elagente.ca/ontomlff/MLFFTarget_87a8c69c-f555-4ff5-9ea2-df56828baaa2",
+        "phase_diagram_iri": null,
+        "structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_392da8d6-c5c7-4816-b06f-05c0a3559106",
+        "chemical_formula": "C6H7Fe64O",
+        "low_energy_conformer_search": null,
+        "molecular_dynamics": null,
+        "enhanced_sampling": null,
+        "ionic_conductivity": null,
+        "elasticity": null,
+        "harmonic_phonon": null,
+        "qha_phonon": null,
+        "anharmonic_phonon": null,
+        "density_of_states": null,
+        "phase_stability_assessment": null,
+        "phase_stability": null,
+        "widom_insertion": null,
+        "gcmc": null,
+        "adsorption_site_search": null,
+        "neb": null,
+        "transition_state_search": {
+          "rdfs_comment": [],
+          "rdfs_label": [],
+          "instance_iri": "https://elagente.ca/ontomlff/MLFFTransitionStateSearchResult_1493516d-0bd1-4bcb-90b3-39e00cb94abc",
+          "computed_on_structure_iri": "https://elagente.ca/grafico/ConceptualAtoms_392da8d6-c5c7-4816-b06f-05c0a3559106",
+          "path_method": "neb",
+          "refinement_method": "sella",
+          "barrier": 1.094665527343757,
+          "energies": [
+            -527.0232543945312,
+            -526.905029296875,
+            -526.65576171875,
+            -526.4160766601562,
+            -525.9287109375,
+            -526.484375,
+            -526.4956665039062
+          ],
+          "relative_energies": [
+            0.0,
+            0.11822509765625,
+            0.36749267578125,
+            0.607177734375,
+            1.09454345703125,
+            0.53887939453125,
+            0.527587890625
+          ],
+          "ts_index": 4,
+          "ts_energy": -525.9287109375,
+          "converged": true,
+          "path_image_count": 7,
+          "refinement_image_count": 2,
+          "artifact_paths": [
+            "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20/structures/C6H7Fe64O_e5863526/transition_state_search/transition_state_search.extxyz",
+            "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20/structures/C6H7Fe64O_e5863526/transition_state_search/transition_state_refinement.extxyz"
+          ],
+          "output_dir": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20/structures/C6H7Fe64O_e5863526/transition_state_search",
+          "error": null,
+          "traceback_str": null,
+          "units": {
+            "barrier": "eV",
+            "energies": "eV",
+            "relative_energies": "eV",
+            "ts_energy": "eV"
+          }
+        }
+      }
+    ]
+  }
+]

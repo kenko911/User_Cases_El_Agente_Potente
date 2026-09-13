@@ -1,0 +1,4 @@
+Generated 1 structure(s) from file: /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_c7ax_input.xyz
+Relaxation done for C6H12N2O2 (steps≤1000, fmax=0.1). Energy: -13493.054688 eV.
+[deterministic routing] Properties: ['MLFFEnhancedSampling'] The workflow request supplied explicit typed property inputs; AI routing was not required.
+Enhanced sampling done for C6H12N2O2. Steps=100000. Methods=metadynamics. Trajectory=/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/alanine_dipeptide_orb_omol_2d_es/structures/C6H12N2O2_f5b4c1ed/enhanced_sampling/trajectory.xyz.

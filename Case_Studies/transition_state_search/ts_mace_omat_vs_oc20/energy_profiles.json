@@ -1,0 +1,32 @@
+{
+  "MACE-OMAT": {
+    "status": "success",
+    "profile_source": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_omat/structures/C6H7Fe64O_6145b6ac/transition_state_search/transition_state_search.extxyz",
+    "relative_energies_eV": [
+      0.0,
+      0.1859130859375,
+      0.89892578125,
+      1.7894287109375,
+      0.65948486328125,
+      -1.98699951171875,
+      -2.27838134765625
+    ],
+    "barrier_eV": 1.7894287109375,
+    "reaction_energy_eV": -2.27838134765625
+  },
+  "MACE-OC20": {
+    "status": "success",
+    "profile_source": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/ts_mace_oc20/structures/C6H7Fe64O_e5863526/transition_state_search/transition_state_search.extxyz",
+    "relative_energies_eV": [
+      0.0,
+      0.11822509765625,
+      0.36749267578125,
+      0.607177734375,
+      1.09454345703125,
+      0.53887939453125,
+      0.527587890625
+    ],
+    "barrier_eV": 1.09454345703125,
+    "reaction_energy_eV": 0.527587890625
+  }
+}
