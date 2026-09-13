@@ -1,0 +1,184 @@
+{
+  "output_dir": "/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/call_MyMjmpZh1b3isjyggS5cdGqv/structures/C22H26O7_18900d31/pyscf_rerank_spectra",
+  "n_positive_modes_written": 156,
+  "rerank": [
+    {
+      "rank": 1,
+      "conformer": "minimum_001.xyz",
+      "energy_hartree": -1380.735863731819,
+      "relative_eV": 0.0,
+      "relative_kcal_mol": 0.0
+    },
+    {
+      "rank": 2,
+      "conformer": "minimum_002.xyz",
+      "energy_hartree": -1380.7347155954542,
+      "relative_eV": 0.03124238208885303,
+      "relative_kcal_mol": 0.7204664464300747
+    },
+    {
+      "rank": 3,
+      "conformer": "minimum_007.xyz",
+      "energy_hartree": -1380.732312970846,
+      "relative_eV": 0.09662112830925643,
+      "relative_kcal_mol": 2.228136150600093
+    },
+    {
+      "rank": 4,
+      "conformer": "minimum_004.xyz",
+      "energy_hartree": -1380.7321635480794,
+      "relative_eV": 0.10068712892314456,
+      "relative_kcal_mol": 2.3219003522265647
+    },
+    {
+      "rank": 5,
+      "conformer": "minimum_003.xyz",
+      "energy_hartree": -1380.732126022578,
+      "relative_eV": 0.10170824983266075,
+      "relative_kcal_mol": 2.3454479597989417
+    },
+    {
+      "rank": 6,
+      "conformer": "minimum_006.xyz",
+      "energy_hartree": -1380.7320770706622,
+      "relative_eV": 0.10304029932409367,
+      "relative_kcal_mol": 2.376165750805795
+    },
+    {
+      "rank": 7,
+      "conformer": "minimum_005.xyz",
+      "energy_hartree": -1380.7319901789717,
+      "relative_eV": 0.10540474267432498,
+      "relative_kcal_mol": 2.430691109771115
+    },
+    {
+      "rank": 8,
+      "conformer": "minimum_008.xyz",
+      "energy_hartree": -1380.73091669258,
+      "relative_eV": 0.13461579551033262,
+      "relative_kcal_mol": 3.10431399081092
+    },
+    {
+      "rank": 9,
+      "conformer": "minimum_010.xyz",
+      "energy_hartree": -1380.7308962981188,
+      "relative_eV": 0.13517075707177936,
+      "relative_kcal_mol": 3.117111708441531
+    },
+    {
+      "rank": 10,
+      "conformer": "minimum_009.xyz",
+      "energy_hartree": -1380.7308961621238,
+      "relative_eV": 0.13517445768217748,
+      "relative_kcal_mol": 3.117197046544611
+    }
+  ],
+  "top_ir_peaks": [
+    {
+      "frequency_cm-1": 1820.07818535071,
+      "intensity_km_mol": 299.744545763121
+    },
+    {
+      "frequency_cm-1": 1341.4967721481382,
+      "intensity_km_mol": 259.32522574200937
+    },
+    {
+      "frequency_cm-1": 1824.6070879660192,
+      "intensity_km_mol": 258.05170611895505
+    },
+    {
+      "frequency_cm-1": 1325.2901899467975,
+      "intensity_km_mol": 207.53453087553672
+    },
+    {
+      "frequency_cm-1": 1349.2499093368249,
+      "intensity_km_mol": 186.09917578283722
+    },
+    {
+      "frequency_cm-1": 1316.4124782197287,
+      "intensity_km_mol": 176.89397516501808
+    },
+    {
+      "frequency_cm-1": 1321.351916906859,
+      "intensity_km_mol": 162.0476836884847
+    },
+    {
+      "frequency_cm-1": 1337.6680213764637,
+      "intensity_km_mol": 149.61396893776475
+    },
+    {
+      "frequency_cm-1": 1216.3899641382484,
+      "intensity_km_mol": 124.94449576268823
+    },
+    {
+      "frequency_cm-1": 3032.776001906092,
+      "intensity_km_mol": 123.51816643218265
+    },
+    {
+      "frequency_cm-1": 740.3712827189792,
+      "intensity_km_mol": 117.4368009214724
+    },
+    {
+      "frequency_cm-1": 1181.1245629018383,
+      "intensity_km_mol": 115.62849043872086
+    }
+  ],
+  "top_raman_peaks": [
+    {
+      "frequency_cm-1": 3237.754866371935,
+      "activity_A4_amu": 306.42145131323275
+    },
+    {
+      "frequency_cm-1": 3238.2894025551836,
+      "activity_A4_amu": 256.30972898422465
+    },
+    {
+      "frequency_cm-1": 3031.0379751200253,
+      "activity_A4_amu": 228.93965335646354
+    },
+    {
+      "frequency_cm-1": 3114.0903240198318,
+      "activity_A4_amu": 154.59627578444096
+    },
+    {
+      "frequency_cm-1": 3044.6442237484825,
+      "activity_A4_amu": 143.0255279871346
+    },
+    {
+      "frequency_cm-1": 3093.7360347569474,
+      "activity_A4_amu": 131.94514821002397
+    },
+    {
+      "frequency_cm-1": 3085.4212658425454,
+      "activity_A4_amu": 121.72444179047515
+    },
+    {
+      "frequency_cm-1": 3215.163703971072,
+      "activity_A4_amu": 103.85610541620575
+    },
+    {
+      "frequency_cm-1": 3091.0179977043185,
+      "activity_A4_amu": 97.72127847894699
+    },
+    {
+      "frequency_cm-1": 3217.99851714598,
+      "activity_A4_amu": 93.5623434098895
+    },
+    {
+      "frequency_cm-1": 3224.5177621097932,
+      "activity_A4_amu": 79.06927011366896
+    },
+    {
+      "frequency_cm-1": 3108.646035566722,
+      "activity_A4_amu": 74.73340165321336
+    }
+  ],
+  "optimized_energy_hartree": -1380.7404779500027,
+  "H_tot_hartree": -1380.2557666714954,
+  "G_tot_hartree": -1380.3369974048924,
+  "raw_small_imaginary_cm-1": [
+    -43.9357354476827,
+    -28.29093552570183,
+    -8.359200552821134
+  ]
+}

@@ -1,0 +1,5 @@
+Generated 1 structure(s) from file: /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/h2_fe100_adsorption_outputs/Fe100_bcc_4x4_5layer_vac15.cif
+Relaxation done for Fe160 (steps≤500, fmax=0.05). Energy: -1105.360107 eV.
+[deterministic routing] Properties: ['MLFFAdsorptionSiteSearch'] The workflow request supplied explicit typed property inputs; AI routing was not required.
+Adsorption site search done for Fe160 with [H][H]. Best adsorption energy=-2.517781 eV; AutoAdsorbate generated 1 unique adsorbate conformers; relaxed 12 site candidates and retained 10 distinct minima.
+Adsorption site analysis: raw=49, reduced=4, method=ase.

@@ -1,0 +1,40 @@
+{
+  "formula": "Fe160",
+  "n_atoms": 160,
+  "pbc": [
+    true,
+    true,
+    false
+  ],
+  "cell_parameters_A_deg": [
+    11.464,
+    11.464,
+    42.897000000000006,
+    90.0,
+    90.0,
+    90.0
+  ],
+  "min_position_A": [
+    0.0,
+    0.0,
+    15.0
+  ],
+  "max_position_A": [
+    10.031,
+    10.031,
+    27.897000000000006
+  ],
+  "assumptions": {
+    "bulk_phase": "bcc alpha-Fe",
+    "lattice_parameter_A": 2.866,
+    "surface_facet": "Fe(100)",
+    "lateral_repeat": "4x4",
+    "layers": 5,
+    "vacuum_A": 15.0,
+    "slab_cell_relaxed": false,
+    "adsorbate": "intact H2",
+    "adsorbate_charge": 0,
+    "adsorbate_spin_multiplicity": 1,
+    "model_name": "MACE-OC20"
+  }
+}

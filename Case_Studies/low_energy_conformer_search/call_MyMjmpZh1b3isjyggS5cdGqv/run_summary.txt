@@ -1,0 +1,4 @@
+Generated 1 structure from smiles: O=C(OCCOCCOCCOCCOC(=O)c1ccccc1)c1ccccc1
+Relaxation done for C22H26O7 (steps≤1000, fmax=0.1). Energy: -37567.613281 eV.
+[AI routing] Properties: ['MLFFLowEnergyConformerSearch'] (conf=1.00) Only MLFFLowEnergyConformerSearch is relevant because the user specifically asks for a conformer search on an isolated molecule, with no request for other properties.
+[Low-energy conformers] Found 84 conformers for C22H26O7 within 0.433641 eV. XYZ minima: /scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/call_MyMjmpZh1b3isjyggS5cdGqv/structures/C22H26O7_18900d31/low_energy_conformers (starting with minimum_001.xyz).
