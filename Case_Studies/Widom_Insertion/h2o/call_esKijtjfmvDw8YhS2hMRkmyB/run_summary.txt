@@ -1,0 +1,16 @@
+Generated 5 structure(s) from directory: /scratch/kenko/repos/potente/paper/cifs/ (.cif/.xyz)
+Relaxation done for C32H32F20N16Nb4Ni4O4 (steps≤1000, fmax=0.1). Energy: -731.051818 eV.
+Relaxation done for C52H32N20O16Zn4 (steps≤1000, fmax=0.1). Energy: -873.215848 eV.
+Relaxation done for C42H24Ni6O30 (steps≤1000, fmax=0.1). Energy: -697.584937 eV.
+Relaxation done for C56H64N48Zn8 (steps≤1000, fmax=0.1). Energy: -1162.984448 eV.
+Relaxation done for C252H180N72Zn18 (steps≤1000, fmax=0.1). Energy: -3599.852867 eV.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only Widom insertion is requested, with specific parameters for H2O and number of insertions. No other property nodes are relevant.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only Widom insertion with H2O at 300 K and 10,000 insertions is requested, with structure relaxation as default. No other properties are mentioned.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only Widom insertion with H2O is requested, with specific parameters for temperature and number of insertions. No other properties are mentioned.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only Widom insertion is requested, with specific parameters for H2O and number of insertions. No other property nodes are relevant.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only Widom insertion is requested, with clear parameters for adsorbate, temperature, and number of insertions. No other properties are needed.
+Widom insertion done for C56H64N48Zn8 with H2O (num_insertions=10000). Henry=0.05333678584122549 mol/kg Pa, Qst=50.157254209950366 kJ/mol.
+Widom insertion done for C32H32F20N16Nb4Ni4O4 with H2O (num_insertions=10000). Henry=0.010960093684268027 mol/kg Pa, Qst=46.60832031031844 kJ/mol.
+Widom insertion done for C42H24Ni6O30 with H2O (num_insertions=10000). Henry=1.6594922249758737 mol/kg Pa, Qst=62.19961780935148 kJ/mol.
+Widom insertion done for C52H32N20O16Zn4 with H2O (num_insertions=10000). Henry=0.0038395010987695164 mol/kg Pa, Qst=41.38635079806035 kJ/mol.
+Widom insertion done for C252H180N72Zn18 with H2O (num_insertions=10000). Henry=0.00032288429028076357 mol/kg Pa, Qst=30.951988333313807 kJ/mol.

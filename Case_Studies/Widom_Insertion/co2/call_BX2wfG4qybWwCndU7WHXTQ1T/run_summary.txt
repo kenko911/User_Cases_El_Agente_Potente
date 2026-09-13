@@ -1,0 +1,16 @@
+Generated 5 structure(s) from directory: /scratch/kenko/repos/potente/paper/cifs/ (.cif/.xyz)
+Relaxation done for C32H32F20N16Nb4Ni4O4 (steps≤1000, fmax=0.1). Energy: -731.051819 eV.
+Relaxation done for C52H32N20O16Zn4 (steps≤1000, fmax=0.1). Energy: -873.215848 eV.
+Relaxation done for C42H24Ni6O30 (steps≤1000, fmax=0.1). Energy: -697.585181 eV.
+Relaxation done for C56H64N48Zn8 (steps≤1000, fmax=0.1). Energy: -1162.984326 eV.
+Relaxation done for C252H180N72Zn18 (steps≤1000, fmax=0.1). Energy: -3599.852625 eV.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only the MLFFWidomInsertion node is relevant, as the user asks specifically for CO2 Widom insertion with defined parameters. No other properties are requested.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only MLFFWidomInsertion is relevant because the user asks specifically for Widom insertion of CO2 in MOFs with detailed parameters. No other property nodes are requested or implied.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only the MLFFWidomInsertion node is relevant because the user specifically asks for Widom insertion adsorption calculations with CO2, specifying all necessary parameters. No other property nodes are requested or implied.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only MLFFWidomInsertion is relevant because the user asks exclusively for Widom insertion adsorption calculations with CO2, specifying the number of insertions and temperature. No other property nodes are needed.
+[AI routing] Properties: ['MLFFWidomInsertion'] (conf=1.00) Only the MLFFWidomInsertion node is relevant, as the user asks specifically for Widom insertion with CO2, specifying temperature and number of insertions. No other property nodes are requested or implied.
+Widom insertion done for C56H64N48Zn8 with CO2 (num_insertions=10000). Henry=17.820546862504273 mol/kg Pa, Qst=62.937712238730164 kJ/mol.
+Widom insertion done for C42H24Ni6O30 with CO2 (num_insertions=10000). Henry=1.8089703662742214 mol/kg Pa, Qst=63.389253943421735 kJ/mol.
+Widom insertion done for C52H32N20O16Zn4 with CO2 (num_insertions=10000). Henry=0.8834318076034531 mol/kg Pa, Qst=58.47164139559933 kJ/mol.
+Widom insertion done for C32H32F20N16Nb4Ni4O4 with CO2 (num_insertions=10000). Henry=0.004658910543069462 mol/kg Pa, Qst=44.72940472734609 kJ/mol.
+Widom insertion done for C252H180N72Zn18 with CO2 (num_insertions=10000). Henry=0.3778771082948592 mol/kg Pa, Qst=52.63382440928981 kJ/mol.
