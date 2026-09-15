@@ -1,1 +1,0 @@
-Please read all structure files from /path/to/structures/ and compute the heat capacity for each structure at 300 K under Harmonic approximation. Use the corresponding file name as the mp-id for each entry. Save the final results to a CSV file containing at least the following columns: mp_id, heat_capacity.

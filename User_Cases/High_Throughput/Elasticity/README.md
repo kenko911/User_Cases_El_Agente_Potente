@@ -1,1 +1,0 @@
-Please read all structure files from /path/to/structures/ and compute the bulk modulus and shear modulus for each structure. Use the corresponding file name as the mp-id for each entry. Save the final results to a CSV file containing at least the following columns: mp_id, bulk_modulus, and shear_modulus.

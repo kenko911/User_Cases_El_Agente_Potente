@@ -1,4 +1,0 @@
-Generated 1 structure(s) from directory: /scratch/kenko/repos/potente/gcmc_cifs/ (.cif/.xyz)
-Relaxation done for C72H24Cu12O48 (steps≤1000, fmax=0.1). Energy: -1107.912201 eV.
-[AI routing] Properties: ['MLFFGCMC'] (conf=1.00) Only GCMC adsorption is requested for CO2 at specified conditions; no other properties are mentioned.
-GCMC done for C72H24Cu12O48 with CO2 at 1.0 bar and 298.0 K. Uptake=70.48350353507996 g_L, Total interaction energy=-1.0922155408046326 eV.
