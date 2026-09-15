@@ -1,0 +1,2 @@
+chemical_formula,output_json_path,source_identifier,source_identifier_type,structure_iri,structure_name
+C72H24Cu12O48,/scratch/kenko/akg4pyscf/.graphchat-workspaces/kenko_room/call_sNgNpquPgBZi0uIGY3B53S2a/structures/C72H24Cu12O48_c930cb95/output.json,hkust,cif,https://elagente.ca/grafico/ConceptualAtoms_36f5e97e-0997-479e-b1cf-e8e75a8e5951,hkust

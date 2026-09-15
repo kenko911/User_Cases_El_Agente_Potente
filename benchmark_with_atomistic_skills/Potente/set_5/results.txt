@@ -1,0 +1,11 @@
+n_total_log_records: 10000
+n_production_log_records: 5000
+equilibration_steps_removed: 5000
+avg_uptake_molecules_per_cell: 4.3816
+std_uptake_molecules_per_cell: 1.3971332935693719
+framework_mass_g_mol: 2551.5149999999994
+uptake_mmol_g: 1.717254258744315
+uptake_std_mmol_g: 0.5475700881904956
+avg_total_interaction_energy_eV: -1.079292973640755
+std_total_interaction_energy_eV: 0.2407180434702737
+heat_adsorption_kj_mol_per_adsorbate: -23.766647119790104
